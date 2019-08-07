@@ -1,0 +1,17 @@
+Sub|Super
+Wizard|Heli
+Wizard|Spact
+Obyn|Super
+Sub|Heli
+Wizard|Ace
+Ninja|Alch
+Wizard|Mortar
+Alch|Heli
+Wizard|Church
+Quincy|Super
+Obyn|Heli
+Bucc|Wizard
+Ninja|Wizard
+Dart|Wizard
+Ninja|Super|Village
+Bucc|Heli|Village

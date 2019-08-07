@@ -1,0 +1,28 @@
+Dart   |
+Boomer |
+Bomb   |
+Tack   |
+Ice    |
+Glue   |
+Sniper |
+Sub    |
+Bucc   |
+Ace    |
+Heli   |
+Mortar |
+Wizard |
+Super  |
+Ninja  |
+Alch   |
+Druid  |
+Spact  |
+Village|
+-
+Quincy |
+Gwen   |
+Striker|
+Obyn   |
+Pat    |
+Church |
+Ben    |
+Ezili  |
