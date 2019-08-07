@@ -3922,3 +3922,50 @@
 |Boomer |Tack   |Mortar |Super  |Char|N/A|Y
 |Dart   |Tack   |Mortar |Super  |Char|N/A|Y
 |Boomer |Ace    |Super  |Village|Chocbox|DZERGCL|N
+|Ezili  |Dart   |Tack   |Village|coolio1223|CZERWGD|N
+|Church |Dart   |Tack   |Village|coolio1223|CZERWGD|N
+|Pat    |Dart   |Tack   |Village|coolio1223|CZERWGD|N
+|Obyn   |Dart   |Tack   |Village|coolio1223|CZERWGD|N
+|Striker|Dart   |Tack   |Village|coolio1223|CZERWGD|N
+|Gwen   |Dart   |Tack   |Village|coolio1223|CZERWGD|N
+|Quincy |Dart   |Tack   |Village|coolio1223|CZERWGD|N
+|Dart   |Tack   |Spact  |Village|coolio1223|CZERWGD|N
+|Dart   |Tack   |Druid  |Village|coolio1223|CZERWGD|N
+|Dart   |Tack   |Alch   |Village|coolio1223|CZERWGD|N
+|Dart   |Tack   |Ninja  |Village|coolio1223|CZERWGD|N
+|Dart   |Tack   |Super  |Village|coolio1223|CZERWGD|N
+|Dart   |Tack   |Mortar |Village|coolio1223|CZERWGD|N
+|Dart   |Tack   |Heli   |Village|coolio1223|CZERWGD|N
+|Dart   |Tack   |Ace    |Village|coolio1223|CZERWGD|N
+|Dart   |Tack   |Bucc   |Village|coolio1223|CZERWGD|N
+|Dart   |Tack   |Sub    |Village|coolio1223|CZERWGD|N
+|Dart   |Tack   |Sniper |Village|coolio1223|CZERWGD|N
+|Dart   |Tack   |Glue   |Village|coolio1223|CZERWGD|N
+|Dart   |Tack   |Ice    |Village|coolio1223|CZERWGD|N
+|Dart   |Bomb   |Tack   |Village|coolio1223|CZERWGD|N
+|Dart   |Boomer |Tack   |Village|coolio1223|CZERWGD|N
+|Quincy |Ace    |Heli   |Spact  |coolio1223|RZERBPV|N
+|Quincy |Bucc   |Heli   |Spact  |coolio1223|RZERBPV|N
+|Quincy |Glue   |Heli   |Spact  |coolio1223|RZERBPV|N
+|Quincy |Ice    |Heli   |Spact  |coolio1223|RZERBPV|N
+|Quincy |Tack   |Heli   |Spact  |coolio1223|RZERBPV|N
+|Ezili  |Tack   |Sniper |Village|rmlgaming|Later|N
+|Church |Tack   |Sniper |Village|rmlgaming|Later|N
+|Pat    |Tack   |Sniper |Village|rmlgaming|Later|N
+|Obyn   |Tack   |Sniper |Village|rmlgaming|Later|N
+|Striker|Tack   |Sniper |Village|rmlgaming|Later|N
+|Gwen   |Tack   |Sniper |Village|rmlgaming|Later|N
+|Tack   |Sniper |Spact  |Village|rmlgaming|Later|N
+|Tack   |Sniper |Druid  |Village|rmlgaming|Later|N
+|Tack   |Sniper |Alch   |Village|rmlgaming|Later|N
+|Tack   |Sniper |Ninja  |Village|rmlgaming|Later|N
+|Tack   |Sniper |Super  |Village|rmlgaming|Later|N
+|Tack   |Sniper |Wizard |Village|rmlgaming|Later|N
+|Tack   |Sniper |Mortar |Village|rmlgaming|Later|N
+|Tack   |Sniper |Heli   |Village|rmlgaming|Later|N
+|Tack   |Sniper |Ace    |Village|rmlgaming|Later|N
+|Tack   |Sniper |Bucc   |Village|rmlgaming|Later|N
+|Tack   |Glue   |Sniper |Village|rmlgaming|Later|N
+|Tack   |Ice    |Sniper |Village|rmlgaming|Later|N
+|Bomb   |Tack   |Sniper |Village|rmlgaming|Later|N
+|Boomer |Tack   |Sniper |Village|rmlgaming|Later|N
