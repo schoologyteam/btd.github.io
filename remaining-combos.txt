@@ -2429,7 +2429,6 @@
 |Quincy |Tack   |Mortar |Druid  |
 |Quincy |Tack   |Mortar |Spact  |
 |Quincy |Tack   |Mortar |Village|
-|Quincy |Tack   |Wizard |Alch   |
 |Quincy |Tack   |Wizard |Druid  |
 |Quincy |Tack   |Wizard |Village|
 |Quincy |Tack   |Ninja  |Druid  |
@@ -2549,7 +2548,6 @@
 |Quincy |Sub    |Mortar |Alch   |
 |Quincy |Sub    |Mortar |Druid  |
 |Quincy |Sub    |Mortar |Village|
-|Quincy |Sub    |Wizard |Alch   |
 |Quincy |Sub    |Wizard |Druid  |
 |Quincy |Sub    |Wizard |Village|
 |Quincy |Sub    |Ninja  |Druid  |
@@ -2605,7 +2603,6 @@
 |Quincy |Mortar |Alch   |Village|
 |Quincy |Mortar |Druid  |Spact  |
 |Quincy |Mortar |Druid  |Village|
-|Quincy |Wizard |Alch   |Druid  |
 |Quincy |Wizard |Druid  |Village|
 |Quincy |Ninja  |Druid  |Spact  |
 |Quincy |Ninja  |Druid  |Village|
@@ -3533,7 +3530,6 @@
 |Striker|Bomb   |Sniper |Village|
 |Striker|Bomb   |Sub    |Bucc   |
 |Striker|Bomb   |Sub    |Ace    |
-|Striker|Bomb   |Sub    |Mortar |
 |Striker|Bomb   |Sub    |Wizard |
 |Striker|Bomb   |Sub    |Ninja  |
 |Striker|Bomb   |Sub    |Alch   |
@@ -4329,7 +4325,6 @@
 |Obyn   |Ninja  |Druid  |Village|
 |Obyn   |Ninja  |Spact  |Village|
 |Obyn   |Alch   |Druid  |Spact  |
-|Obyn   |Alch   |Druid  |Village|
 |Obyn   |Alch   |Spact  |Village|
 |Pat    |Dart   |Boomer |Bomb   |
 |Pat    |Dart   |Boomer |Tack   |
@@ -5003,9 +4998,7 @@
 |Church |Dart   |Bucc   |Ace    |
 |Church |Dart   |Bucc   |Heli   |
 |Church |Dart   |Bucc   |Mortar |
-|Church |Dart   |Bucc   |Super  |
 |Church |Dart   |Bucc   |Ninja  |
-|Church |Dart   |Bucc   |Alch   |
 |Church |Dart   |Bucc   |Druid  |
 |Church |Dart   |Bucc   |Spact  |
 |Church |Dart   |Bucc   |Village|
@@ -5113,9 +5106,7 @@
 |Church |Boomer |Bucc   |Ace    |
 |Church |Boomer |Bucc   |Heli   |
 |Church |Boomer |Bucc   |Mortar |
-|Church |Boomer |Bucc   |Super  |
 |Church |Boomer |Bucc   |Ninja  |
-|Church |Boomer |Bucc   |Alch   |
 |Church |Boomer |Bucc   |Druid  |
 |Church |Boomer |Bucc   |Spact  |
 |Church |Boomer |Bucc   |Village|
@@ -5194,7 +5185,6 @@
 |Church |Bomb   |Bucc   |Heli   |
 |Church |Bomb   |Bucc   |Mortar |
 |Church |Bomb   |Bucc   |Ninja  |
-|Church |Bomb   |Bucc   |Alch   |
 |Church |Bomb   |Bucc   |Druid  |
 |Church |Bomb   |Bucc   |Spact  |
 |Church |Bomb   |Bucc   |Village|
@@ -5264,9 +5254,7 @@
 |Church |Tack   |Bucc   |Ace    |
 |Church |Tack   |Bucc   |Heli   |
 |Church |Tack   |Bucc   |Mortar |
-|Church |Tack   |Bucc   |Super  |
 |Church |Tack   |Bucc   |Ninja  |
-|Church |Tack   |Bucc   |Alch   |
 |Church |Tack   |Bucc   |Druid  |
 |Church |Tack   |Bucc   |Spact  |
 |Church |Tack   |Bucc   |Village|
@@ -5321,9 +5309,7 @@
 |Church |Ice    |Bucc   |Ace    |
 |Church |Ice    |Bucc   |Heli   |
 |Church |Ice    |Bucc   |Mortar |
-|Church |Ice    |Bucc   |Super  |
 |Church |Ice    |Bucc   |Ninja  |
-|Church |Ice    |Bucc   |Alch   |
 |Church |Ice    |Bucc   |Druid  |
 |Church |Ice    |Bucc   |Spact  |
 |Church |Ice    |Bucc   |Village|
@@ -5360,9 +5346,7 @@
 |Church |Glue   |Bucc   |Ace    |
 |Church |Glue   |Bucc   |Heli   |
 |Church |Glue   |Bucc   |Mortar |
-|Church |Glue   |Bucc   |Super  |
 |Church |Glue   |Bucc   |Ninja  |
-|Church |Glue   |Bucc   |Alch   |
 |Church |Glue   |Bucc   |Druid  |
 |Church |Glue   |Bucc   |Spact  |
 |Church |Glue   |Bucc   |Village|
@@ -5387,9 +5371,7 @@
 |Church |Sniper |Bucc   |Ace    |
 |Church |Sniper |Bucc   |Heli   |
 |Church |Sniper |Bucc   |Mortar |
-|Church |Sniper |Bucc   |Super  |
 |Church |Sniper |Bucc   |Ninja  |
-|Church |Sniper |Bucc   |Alch   |
 |Church |Sniper |Bucc   |Druid  |
 |Church |Sniper |Bucc   |Spact  |
 |Church |Sniper |Bucc   |Village|
@@ -5414,7 +5396,6 @@
 |Church |Sub    |Bucc   |Ace    |
 |Church |Sub    |Bucc   |Mortar |
 |Church |Sub    |Bucc   |Ninja  |
-|Church |Sub    |Bucc   |Alch   |
 |Church |Sub    |Bucc   |Druid  |
 |Church |Sub    |Bucc   |Spact  |
 |Church |Sub    |Bucc   |Village|
@@ -5436,34 +5417,21 @@
 |Church |Sub    |Druid  |Spact  |
 |Church |Sub    |Druid  |Village|
 |Church |Bucc   |Ace    |Mortar |
-|Church |Bucc   |Ace    |Super  |
 |Church |Bucc   |Ace    |Ninja  |
-|Church |Bucc   |Ace    |Alch   |
 |Church |Bucc   |Ace    |Druid  |
 |Church |Bucc   |Ace    |Spact  |
 |Church |Bucc   |Ace    |Village|
 |Church |Bucc   |Heli   |Mortar |
-|Church |Bucc   |Heli   |Super  |
 |Church |Bucc   |Heli   |Ninja  |
 |Church |Bucc   |Heli   |Druid  |
 |Church |Bucc   |Heli   |Spact  |
-|Church |Bucc   |Mortar |Super  |
 |Church |Bucc   |Mortar |Ninja  |
-|Church |Bucc   |Mortar |Alch   |
 |Church |Bucc   |Mortar |Druid  |
 |Church |Bucc   |Mortar |Spact  |
 |Church |Bucc   |Mortar |Village|
-|Church |Bucc   |Super  |Ninja  |
-|Church |Bucc   |Super  |Alch   |
-|Church |Bucc   |Super  |Druid  |
-|Church |Bucc   |Super  |Spact  |
-|Church |Bucc   |Super  |Village|
 |Church |Bucc   |Ninja  |Druid  |
 |Church |Bucc   |Ninja  |Spact  |
 |Church |Bucc   |Ninja  |Village|
-|Church |Bucc   |Alch   |Druid  |
-|Church |Bucc   |Alch   |Spact  |
-|Church |Bucc   |Alch   |Village|
 |Church |Bucc   |Druid  |Spact  |
 |Church |Bucc   |Druid  |Village|
 |Church |Bucc   |Spact  |Village|

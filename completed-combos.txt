@@ -3969,3 +3969,35 @@
 |Tack   |Ice    |Sniper |Village|rmlgaming|Later|N
 |Bomb   |Tack   |Sniper |Village|rmlgaming|Later|N
 |Boomer |Tack   |Sniper |Village|rmlgaming|Later|N
+|Obyn   |Alch   |Druid  |Village|coolio1223|SZERSEU|N
+|Quincy |Wizard |Alch   |Druid  |coolio1223|CZEYKUD|N
+|Quincy |Sub    |Wizard |Alch   |coolio1223|CZEYKUD|N
+|Quincy |Tack   |Wizard |Alch   |coolio1223|CZEYKUD|N
+|Striker|Bomb   |Sub    |Mortar |Smurfblade|WZEYKPB|N
+|Church |Bucc   |Super  |Village|coolio1223|SZEROYG|N
+|Church |Bucc   |Super  |Spact  |coolio1223|SZEROYG|N
+|Church |Bucc   |Super  |Druid  |coolio1223|SZEROYG|N
+|Church |Bucc   |Super  |Alch   |coolio1223|SZEROYG|N
+|Church |Bucc   |Super  |Ninja  |coolio1223|SZEROYG|N
+|Church |Bucc   |Mortar |Super  |coolio1223|SZEROYG|N
+|Church |Bucc   |Heli   |Super  |coolio1223|SZEROYG|N
+|Church |Bucc   |Ace    |Super  |coolio1223|SZEROYG|N
+|Church |Sniper |Bucc   |Super  |coolio1223|SZEROYG|N
+|Church |Glue   |Bucc   |Super  |coolio1223|SZEROYG|N
+|Church |Ice    |Bucc   |Super  |coolio1223|SZEROYG|N
+|Church |Tack   |Bucc   |Super  |coolio1223|SZEROYG|N
+|Church |Boomer |Bucc   |Super  |coolio1223|SZEROYG|N
+|Church |Dart   |Bucc   |Super  |coolio1223|SZEROYG|N
+|Church |Bucc   |Alch   |Village|Uniquepotatoes|GZEYKFK|N
+|Church |Bucc   |Alch   |Spact  |Uniquepotatoes|GZEYKFK|N
+|Church |Bucc   |Alch   |Druid  |Uniquepotatoes|GZEYKFK|N
+|Church |Bucc   |Mortar |Alch   |Uniquepotatoes|GZEYKFK|N
+|Church |Bucc   |Ace    |Alch   |Uniquepotatoes|GZEYKFK|N
+|Church |Sub    |Bucc   |Alch   |Uniquepotatoes|GZEYKFK|N
+|Church |Sniper |Bucc   |Alch   |Uniquepotatoes|GZEYKFK|N
+|Church |Glue   |Bucc   |Alch   |Uniquepotatoes|GZEYKFK|N
+|Church |Ice    |Bucc   |Alch   |Uniquepotatoes|GZEYKFK|N
+|Church |Tack   |Bucc   |Alch   |Uniquepotatoes|GZEYKFK|N
+|Church |Bomb   |Bucc   |Alch   |Uniquepotatoes|GZEYKFK|N
+|Church |Boomer |Bucc   |Alch   |Uniquepotatoes|GZEYKFK|N
+|Church |Dart   |Bucc   |Alch   |Uniquepotatoes|GZEYKFK|N
