@@ -4001,3 +4001,67 @@
 |Church |Bomb   |Bucc   |Alch   |Uniquepotatoes|GZEYKFK|N
 |Church |Boomer |Bucc   |Alch   |Uniquepotatoes|GZEYKFK|N
 |Church |Dart   |Bucc   |Alch   |Uniquepotatoes|GZEYKFK|N
+|Ezili  |Bucc   |Mortar |Spact  |coolio1223|GZEYMGY|N
+|Church |Bucc   |Mortar |Spact  |coolio1223|GZEYMGY|N
+|Pat    |Bucc   |Mortar |Spact  |coolio1223|GZEYMGY|N
+|Obyn   |Bucc   |Mortar |Spact  |coolio1223|GZEYMGY|N
+|Striker|Bucc   |Mortar |Spact  |coolio1223|GZEYMGY|N
+|Gwen   |Bucc   |Mortar |Spact  |coolio1223|GZEYMGY|N
+|Quincy |Bucc   |Mortar |Spact  |coolio1223|GZEYMGY|N
+|Bucc   |Mortar |Spact  |Village|coolio1223|GZEYMGY|N
+|Bucc   |Mortar |Druid  |Spact  |coolio1223|GZEYMGY|N
+|Bucc   |Mortar |Alch   |Spact  |coolio1223|GZEYMGY|N
+|Bucc   |Mortar |Ninja  |Spact  |coolio1223|GZEYMGY|N
+|Bucc   |Mortar |Super  |Spact  |coolio1223|GZEYMGY|N
+|Bucc   |Heli   |Mortar |Spact  |coolio1223|GZEYMGY|N
+|Bucc   |Ace    |Mortar |Spact  |coolio1223|GZEYMGY|N
+|Sniper |Bucc   |Mortar |Spact  |coolio1223|GZEYMGY|N
+|Glue   |Bucc   |Mortar |Spact  |coolio1223|GZEYMGY|N
+|Ice    |Bucc   |Mortar |Spact  |coolio1223|GZEYMGY|N
+|Tack   |Bucc   |Mortar |Spact  |coolio1223|GZEYMGY|N
+|Bomb   |Bucc   |Mortar |Spact  |coolio1223|GZEYMGY|N
+|Boomer |Bucc   |Mortar |Spact  |coolio1223|GZEYMGY|N
+|Dart   |Bucc   |Mortar |Spact  |coolio1223|GZEYMGY|N
+|Ezili  |Boomer |Mortar |Ninja  |RandyZ524|PZEYMUP|N
+|Church |Boomer |Mortar |Ninja  |RandyZ524|PZEYMUP|N
+|Pat    |Boomer |Mortar |Ninja  |RandyZ524|PZEYMUP|N
+|Striker|Boomer |Mortar |Ninja  |RandyZ524|PZEYMUP|N
+|Gwen   |Boomer |Mortar |Ninja  |RandyZ524|PZEYMUP|N
+|Quincy |Boomer |Mortar |Ninja  |RandyZ524|PZEYMUP|N
+|Boomer |Mortar |Ninja  |Spact  |RandyZ524|PZEYMUP|N
+|Boomer |Mortar |Ninja  |Druid  |RandyZ524|PZEYMUP|N
+|Boomer |Mortar |Super  |Ninja  |RandyZ524|PZEYMUP|N
+|Boomer |Bucc   |Mortar |Ninja  |RandyZ524|PZEYMUP|N
+|Boomer |Sub    |Mortar |Ninja  |RandyZ524|PZEYMUP|N
+|Boomer |Sniper |Mortar |Ninja  |RandyZ524|PZEYMUP|N
+|Boomer |Glue   |Mortar |Ninja  |RandyZ524|PZEYMUP|N
+|Boomer |Ice    |Mortar |Ninja  |RandyZ524|PZEYMUP|N
+|Boomer |Tack   |Mortar |Ninja  |RandyZ524|PZEYMUP|N
+|Boomer |Bomb   |Mortar |Ninja  |RandyZ524|PZEYMUP|N
+|Dart   |Boomer |Mortar |Ninja  |RandyZ524|PZEYMUP|N
+|Ezili  |Boomer |Sub    |Mortar |Smurfblade|GZEYMXY|N
+|Church |Boomer |Sub    |Mortar |Smurfblade|GZEYMXY|N
+|Pat    |Boomer |Sub    |Mortar |Smurfblade|GZEYMXY|N
+|Obyn   |Boomer |Sub    |Mortar |Smurfblade|GZEYMXY|N
+|Striker|Boomer |Sub    |Mortar |Smurfblade|GZEYMXY|N
+|Gwen   |Boomer |Sub    |Mortar |Smurfblade|GZEYMXY|N
+|Quincy |Boomer |Sub    |Mortar |Smurfblade|GZEYMXY|N
+|Boomer |Sub    |Mortar |Village|Smurfblade|GZEYMXY|N
+|Boomer |Sub    |Mortar |Druid  |Smurfblade|GZEYMXY|N
+|Boomer |Sub    |Mortar |Alch   |Smurfblade|GZEYMXY|N
+|Boomer |Sub    |Ace    |Mortar |Smurfblade|GZEYMXY|N
+|Boomer |Sub    |Bucc   |Mortar |Smurfblade|GZEYMXY|N
+|Boomer |Glue   |Sub    |Mortar |Smurfblade|GZEYMXY|N
+|Boomer |Ice    |Sub    |Mortar |Smurfblade|GZEYMXY|N
+|Boomer |Tack   |Sub    |Mortar |Smurfblade|GZEYMXY|N
+|Boomer |Bomb   |Sub    |Mortar |Smurfblade|GZEYMXY|N
+|Dart   |Boomer |Sub    |Mortar |Smurfblade|GZEYMXY|N
+|Quincy |Ace    |Heli   |Druid  |coolio1223|UZEYMLC|N
+|Quincy |Ace    |Heli   |Mortar |coolio1223|UZEYMLC|N
+|Quincy |Bucc   |Ace    |Heli   |coolio1223|UZEYMLC|N
+|Quincy |Glue   |Ace    |Heli   |coolio1223|UZEYMLC|N
+|Quincy |Ice    |Ace    |Heli   |coolio1223|UZEYMLC|N
+|Quincy |Tack   |Ace    |Heli   |coolio1223|UZEYMLC|N
+|Quincy |Bomb   |Ace    |Heli   |coolio1223|UZEYMLC|N
+|Quincy |Boomer |Ace    |Heli   |coolio1223|UZEYMLC|N
+|Quincy |Dart   |Ace    |Heli   |coolio1223|UZEYMLC|N
