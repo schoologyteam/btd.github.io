@@ -4065,3 +4065,17 @@
 |Quincy |Bomb   |Ace    |Heli   |coolio1223|UZEYMLC|N
 |Quincy |Boomer |Ace    |Heli   |coolio1223|UZEYMLC|N
 |Quincy |Dart   |Ace    |Heli   |coolio1223|UZEYMLC|N
+|Ezili  |Sub    |Ace    |Spact  |Gavo38322|YZEYUAG|N
+|Pat    |Sub    |Ace    |Spact  |Gavo38322|YZEYUAG|N
+|Obyn   |Sub    |Ace    |Spact  |Gavo38322|YZEYUAG|N
+|Gwen   |Sub    |Ace    |Spact  |Gavo38322|YZEYUAG|N
+|Quincy |Sub    |Ace    |Spact  |Gavo38322|YZEYUAG|N
+|Sub    |Ace    |Spact  |Village|Gavo38322|YZEYUAG|N
+|Sub    |Ace    |Alch   |Spact  |Gavo38322|YZEYUAG|N
+|Sub    |Ace    |Ninja  |Spact  |Gavo38322|YZEYUAG|N
+|Sub    |Bucc   |Ace    |Spact  |Gavo38322|YZEYUAG|N
+|Glue   |Sub    |Ace    |Spact  |Gavo38322|YZEYUAG|N
+|Ice    |Sub    |Ace    |Spact  |Gavo38322|YZEYUAG|N
+|Tack   |Sub    |Ace    |Spact  |Gavo38322|YZEYUAG|N
+|Bomb   |Sub    |Ace    |Spact  |Gavo38322|YZEYUAG|N
+|Glue   |Ace    |Ninja  |Village|coolio1223|EZEYTWE|N
