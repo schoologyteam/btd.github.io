@@ -4079,3 +4079,43 @@
 |Tack   |Sub    |Ace    |Spact  |Gavo38322|YZEYUAG|N
 |Bomb   |Sub    |Ace    |Spact  |Gavo38322|YZEYUAG|N
 |Glue   |Ace    |Ninja  |Village|coolio1223|EZEYTWE|N
+|Ezili  |Boomer |Wizard |Super  |coolio1223|VZEYXUC|N
+|Pat    |Boomer |Wizard |Super  |coolio1223|VZEYXUC|N
+|Striker|Boomer |Wizard |Super  |coolio1223|VZEYXUC|N
+|Gwen   |Boomer |Wizard |Super  |coolio1223|VZEYXUC|N
+|Boomer |Wizard |Super  |Village|coolio1223|VZEYXUC|N
+|Boomer |Wizard |Super  |Druid  |coolio1223|VZEYXUC|N
+|Boomer |Sniper |Wizard |Super  |coolio1223|VZEYXUC|N
+|Boomer |Glue   |Wizard |Super  |coolio1223|VZEYXUC|N
+|Quincy |Ninja  |Druid  |Village|coolio1223|GZEYXPA|N
+|Ezili  |Ace    |Super  |Druid  |frds|EZEYXRO|N
+|Church |Ace    |Super  |Druid  |frds|EZEYXRO|N
+|Pat    |Ace    |Super  |Druid  |frds|EZEYXRO|N
+|Striker|Ace    |Super  |Druid  |frds|EZEYXRO|N
+|Gwen   |Ace    |Super  |Druid  |frds|EZEYXRO|N
+|Ace    |Super  |Druid  |Village|frds|EZEYXRO|N
+|Ace    |Super  |Druid  |Spact  |frds|EZEYXRO|N
+|Ace    |Super  |Alch   |Druid  |frds|EZEYXRO|N
+|Ace    |Super  |Ninja  |Druid  |frds|EZEYXRO|N
+|Ace    |Mortar |Super  |Druid  |frds|EZEYXRO|N
+|Ace    |Heli   |Super  |Druid  |frds|EZEYXRO|N
+|Bucc   |Ace    |Super  |Druid  |frds|EZEYXRO|N
+|Sniper |Ace    |Super  |Druid  |frds|EZEYXRO|N
+|Glue   |Ace    |Super  |Druid  |frds|EZEYXRO|N
+|Ice    |Ace    |Super  |Druid  |frds|EZEYXRO|N
+|Tack   |Ace    |Super  |Druid  |frds|EZEYXRO|N
+|Boomer |Ace    |Super  |Druid  |frds|EZEYXRO|N
+|Dart   |Ace    |Super  |Druid  |frds|EZEYXRO|N
+|Pat    |Bucc   |Mortar |Village|frds|YZEYAKR|N
+|Pat    |Bucc   |Mortar |Druid  |frds|YZEYAKR|N
+|Pat    |Bucc   |Mortar |Ninja  |frds|YZEYAKR|N
+|Pat    |Bucc   |Mortar |Super  |frds|YZEYAKR|N
+|Pat    |Bucc   |Ace    |Mortar |frds|YZEYAKR|N
+|Pat    |Sub    |Bucc   |Mortar |frds|YZEYAKR|N
+|Pat    |Sniper |Bucc   |Mortar |frds|YZEYAKR|N
+|Pat    |Glue   |Bucc   |Mortar |frds|YZEYAKR|N
+|Pat    |Ice    |Bucc   |Mortar |frds|YZEYAKR|N
+|Pat    |Tack   |Bucc   |Mortar |frds|YZEYAKR|N
+|Pat    |Bomb   |Bucc   |Mortar |frds|YZEYAKR|N
+|Pat    |Boomer |Bucc   |Mortar |frds|YZEYAKR|N
+|Pat    |Dart   |Bucc   |Mortar |frds|YZEYAKR|N
