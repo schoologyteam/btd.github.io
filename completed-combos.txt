@@ -4772,3 +4772,36 @@
 |Gwen   |Boomer |Glue   |Super  |the_op_boss|UZELGPX|N
 |Gwen   |Boomer |Ice    |Super  |the_op_boss|UZELGPX|N
 |Gwen   |Boomer |Tack   |Super  |the_op_boss|UZELGPX|N
+|Pat    |Dart   |Heli   |Super  |The Mochinator|AZELGFM|N
+|Striker|Dart   |Heli   |Super  |The Mochinator|AZELGFM|N
+|Dart   |Heli   |Super  |Village|The Mochinator|AZELGFM|N
+|Dart   |Heli   |Super  |Spact  |The Mochinator|AZELGFM|N
+|Dart   |Heli   |Super  |Druid  |The Mochinator|AZELGFM|N
+|Dart   |Sniper |Heli   |Super  |The Mochinator|AZELGFM|N
+|Dart   |Glue   |Heli   |Super  |The Mochinator|AZELGFM|N
+|Dart   |Ice    |Heli   |Super  |The Mochinator|AZELGFM|N
+|Dart   |Tack   |Heli   |Super  |The Mochinator|AZELGFM|N
+|Ezili  |Dart   |Heli   |Spact  |The Mochinator|LZELGCE|N
+|Church |Dart   |Heli   |Spact  |The Mochinator|LZELGCE|N
+|Pat    |Dart   |Heli   |Spact  |The Mochinator|LZELGCE|N
+|Striker|Dart   |Heli   |Spact  |The Mochinator|LZELGCE|N
+|Gwen   |Dart   |Heli   |Spact  |The Mochinator|LZELGCE|N
+|Dart   |Heli   |Spact  |Village|The Mochinator|LZELGCE|N
+|Dart   |Heli   |Druid  |Spact  |The Mochinator|LZELGCE|N
+|Dart   |Bucc   |Heli   |Spact  |The Mochinator|LZELGCE|N
+|Dart   |Sniper |Heli   |Spact  |The Mochinator|LZELGCE|N
+|Dart   |Glue   |Heli   |Spact  |The Mochinator|LZELGCE|N
+|Dart   |Ice    |Heli   |Spact  |The Mochinator|LZELGCE|N
+|Dart   |Tack   |Heli   |Spact  |The Mochinator|LZELGCE|N
+|Dart   |Bomb   |Heli   |Spact  |The Mochinator|LZELGCE|N
+|Pat    |Ninja  |Spact  |Village|The Mochinator|BZELGLW|N
+|Pat    |Ninja  |Druid  |Village|The Mochinator|BZELGLW|N
+|Pat    |Ace    |Ninja  |Village|The Mochinator|BZELGLW|N
+|Pat    |Bucc   |Ninja  |Village|The Mochinator|BZELGLW|N
+|Pat    |Sub    |Ninja  |Village|The Mochinator|BZELGLW|N
+|Pat    |Sniper |Ninja  |Village|The Mochinator|BZELGLW|N
+|Pat    |Glue   |Ninja  |Village|The Mochinator|BZELGLW|N
+|Pat    |Ice    |Ninja  |Village|The Mochinator|BZELGLW|N
+|Pat    |Bomb   |Ninja  |Village|The Mochinator|BZELGLW|N
+|Pat    |Boomer |Ninja  |Village|The Mochinator|BZELGLW|N
+|Pat    |Dart   |Ninja  |Village|The Mochinator|BZELGLW|N
