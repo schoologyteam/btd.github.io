@@ -5097,3 +5097,32 @@
 |Boomer |Heli   |Super  |Druid  |The Mochinator|XZELUPH|N
 |Ezili  |Ice    |Ace    |Heli   |The Line|CZELUUT|N
 |Bomb   |Ice    |Ace    |Heli   |The Line|CZELUUT|N
+|Quincy |Heli   |Mortar |Druid  |TobiBloon439|PZELUYT|N
+|Quincy |Bucc   |Heli   |Mortar |TobiBloon439|PZELUYT|N
+|Quincy |Glue   |Heli   |Mortar |TobiBloon439|PZELUYT|N
+|Quincy |Ice    |Heli   |Mortar |TobiBloon439|PZELUYT|N
+|Quincy |Tack   |Heli   |Mortar |TobiBloon439|PZELUYT|N
+|Quincy |Bomb   |Heli   |Mortar |TobiBloon439|PZELUYT|N
+|Quincy |Dart   |Heli   |Mortar |TobiBloon439|PZELUYT|N
+|Ezili  |Heli   |Super  |Ninja  |Kholdstare|KZELULV|N
+|Heli   |Super  |Ninja  |Spact  |Kholdstare|KZELULV|N
+|Sniper |Heli   |Super  |Ninja  |Kholdstare|KZELULV|N
+|Glue   |Heli   |Super  |Ninja  |Kholdstare|KZELULV|N
+|Boomer |Heli   |Super  |Ninja  |Kholdstare|KZELULV|N
+|Church |Boomer |Super  |Spact  |Topaz|HZELVKP|N
+|Pat    |Boomer |Super  |Spact  |Topaz|HZELVKP|N
+|Striker|Boomer |Super  |Spact  |Topaz|HZELVKP|N
+|Boomer |Super  |Spact  |Village|Topaz|HZELVKP|N
+|Boomer |Super  |Druid  |Spact  |Topaz|HZELVKP|N
+|Boomer |Super  |Ninja  |Spact  |Topaz|HZELVKP|N
+|Boomer |Sniper |Super  |Spact  |Topaz|HZELVKP|N
+|Boomer |Ice    |Super  |Spact  |Topaz|HZELVKP|N
+|Boomer |Tack   |Super  |Spact  |Topaz|HZELVKP|N
+|Church |Boomer |Heli   |Super  |The Mochinator|EZELVKL|N
+|Pat    |Boomer |Heli   |Super  |The Mochinator|EZELVKL|N
+|Striker|Boomer |Heli   |Super  |The Mochinator|EZELVKL|N
+|Boomer |Sniper |Heli   |Super  |The Mochinator|EZELVKL|N
+|Boomer |Glue   |Heli   |Super  |The Mochinator|EZELVKL|N
+|Boomer |Ice    |Heli   |Super  |The Mochinator|EZELVKL|N
+|Boomer |Tack   |Heli   |Super  |The Mochinator|EZELVKL|N
+|Gwen   |Ice    |Druid  |Village|RainbowDox|BZELVMO|N

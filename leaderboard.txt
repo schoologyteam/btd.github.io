@@ -1,8 +1,8 @@
 RandyZ524: 171
 coolio1223: 150
 Agent51: 116
+The Mochinator: 99
 the_op_boss: 94
-The Mochinator: 92
 frds: 91
 rigged: 86
 315Lukas: 69
@@ -14,17 +14,19 @@ Smurfblade: 32
 123CrimsonRain: 29
 Jollto13: 24
 Char: 23
+TobiBloon439: 23
 rmlgaming: 20
 Lookatmeimamod: 18
-TobiBloon439: 16
 UnLapiz: 15
 Gavo38322: 14
 PEZmaster2: 14
 Uniquepotatoes: 13
 411i0tt: 13
 powergo: 11
+Topaz: 10
 Mlop098: 9
 Kyle Robinson: 6
+Kholdstare: 5
 rouge_bare: 4
 Amanensia: 3
 Overeasybacon: 2
@@ -39,9 +41,9 @@ Mattyice410: 1
 JAMESZ : 1
 Charipi: 1
 Drens_: 1
-Topaz: 1
 Maxwell_555: 1
 Mewlv100: 1
 Valter: 1
 Anonymous: 1
 DespacitoMage: 1
+RainbowDox: 1
