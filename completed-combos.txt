@@ -4119,3 +4119,656 @@
 |Pat    |Bomb   |Bucc   |Mortar |frds|YZEYAKR|N
 |Pat    |Boomer |Bucc   |Mortar |frds|YZEYAKR|N
 |Pat    |Dart   |Bucc   |Mortar |frds|YZEYAKR|N
+|Ezili  |Boomer |Ace    |Mortar |coolio1223|DZEYBAP|N
+|Church |Boomer |Ace    |Mortar |coolio1223|DZEYBAP|N
+|Pat    |Boomer |Ace    |Mortar |coolio1223|DZEYBAP|N
+|Obyn   |Boomer |Ace    |Mortar |coolio1223|DZEYBAP|N
+|Striker|Boomer |Ace    |Mortar |coolio1223|DZEYBAP|N
+|Gwen   |Boomer |Ace    |Mortar |coolio1223|DZEYBAP|N
+|Quincy |Boomer |Ace    |Mortar |coolio1223|DZEYBAP|N
+|Boomer |Ace    |Mortar |Village|coolio1223|DZEYBAP|N
+|Boomer |Ace    |Mortar |Spact  |coolio1223|DZEYBAP|N
+|Boomer |Ace    |Mortar |Druid  |coolio1223|DZEYBAP|N
+|Boomer |Ace    |Mortar |Alch   |coolio1223|DZEYBAP|N
+|Boomer |Ace    |Mortar |Super  |coolio1223|DZEYBAP|N
+|Boomer |Ace    |Heli   |Mortar |coolio1223|DZEYBAP|N
+|Boomer |Bucc   |Ace    |Mortar |coolio1223|DZEYBAP|N
+|Boomer |Sniper |Ace    |Mortar |coolio1223|DZEYBAP|N
+|Boomer |Glue   |Ace    |Mortar |coolio1223|DZEYBAP|N
+|Boomer |Ice    |Ace    |Mortar |coolio1223|DZEYBAP|N
+|Boomer |Tack   |Ace    |Mortar |coolio1223|DZEYBAP|N
+|Boomer |Bomb   |Ace    |Mortar |coolio1223|DZEYBAP|N
+|Dart   |Boomer |Ace    |Mortar |coolio1223|DZEYBAP|N
+|Ezili  |Sub    |Ace    |Ninja  |frds|CZEYBLG|N
+|Church |Sub    |Ace    |Ninja  |frds|CZEYBLG|N
+|Pat    |Sub    |Ace    |Ninja  |frds|CZEYBLG|N
+|Obyn   |Sub    |Ace    |Ninja  |frds|CZEYBLG|N
+|Striker|Sub    |Ace    |Ninja  |frds|CZEYBLG|N
+|Gwen   |Sub    |Ace    |Ninja  |frds|CZEYBLG|N
+|Quincy |Sub    |Ace    |Ninja  |frds|CZEYBLG|N
+|Sub    |Ace    |Ninja  |Village|frds|CZEYBLG|N
+|Sub    |Ace    |Ninja  |Druid  |frds|CZEYBLG|N
+|Sub    |Bucc   |Ace    |Ninja  |frds|CZEYBLG|N
+|Glue   |Sub    |Ace    |Ninja  |frds|CZEYBLG|N
+|Ice    |Sub    |Ace    |Ninja  |frds|CZEYBLG|N
+|Tack   |Sub    |Ace    |Ninja  |frds|CZEYBLG|N
+|Bomb   |Sub    |Ace    |Ninja  |frds|CZEYBLG|N
+|Boomer |Sub    |Ace    |Ninja  |frds|CZEYBLG|N
+|Dart   |Sub    |Ace    |Ninja  |frds|CZEYBLG|N
+|Church |Sub    |Bucc   |Ace    |Gavo38322|VZEYCPW|N
+|Ezili  |Ice    |Glue   |Super  |coolio1223|VZEYPLO|N
+|Ezili  |Sniper |Super  |Village|coolio1223|RZEYOXL|N
+|Ezili  |Sniper |Super  |Spact  |coolio1223|RZEYOXL|N
+|Ezili  |Sniper |Super  |Druid  |coolio1223|RZEYOXL|N
+|Ezili  |Sniper |Super  |Alch   |coolio1223|RZEYOXL|N
+|Ezili  |Sniper |Super  |Ninja  |coolio1223|RZEYOXL|N
+|Ezili  |Sniper |Wizard |Super  |coolio1223|RZEYOXL|N
+|Ezili  |Sniper |Mortar |Super  |coolio1223|RZEYOXL|N
+|Ezili  |Sniper |Heli   |Super  |coolio1223|RZEYOXL|N
+|Ezili  |Sniper |Ace    |Super  |coolio1223|RZEYOXL|N
+|Ezili  |Sniper |Bucc   |Super  |coolio1223|RZEYOXL|N
+|Ezili  |Glue   |Sniper |Super  |coolio1223|RZEYOXL|N
+|Ezili  |Ice    |Sniper |Super  |coolio1223|RZEYOXL|N
+|Ezili  |Tack   |Sniper |Super  |coolio1223|RZEYOXL|N
+|Ezili  |Boomer |Sniper |Super  |coolio1223|RZEYOXL|N
+|Ezili  |Dart   |Sniper |Super  |coolio1223|RZEYOXL|N
+|Ezili  |Sub    |Ace    |Alch   |frds|GZEYOOY|N
+|Church |Sub    |Ace    |Alch   |frds|GZEYOOY|N
+|Pat    |Sub    |Ace    |Alch   |frds|GZEYOOY|N
+|Obyn   |Sub    |Ace    |Alch   |frds|GZEYOOY|N
+|Striker|Sub    |Ace    |Alch   |frds|GZEYOOY|N
+|Gwen   |Sub    |Ace    |Alch   |frds|GZEYOOY|N
+|Quincy |Sub    |Ace    |Alch   |frds|GZEYOOY|N
+|Sub    |Ace    |Alch   |Village|frds|GZEYOOY|N
+|Sub    |Ace    |Alch   |Druid  |frds|GZEYOOY|N
+|Sub    |Ace    |Mortar |Alch   |frds|GZEYOOY|N
+|Sub    |Bucc   |Ace    |Alch   |frds|GZEYOOY|N
+|Glue   |Sub    |Ace    |Alch   |frds|GZEYOOY|N
+|Ice    |Sub    |Ace    |Alch   |frds|GZEYOOY|N
+|Tack   |Sub    |Ace    |Alch   |frds|GZEYOOY|N
+|Bomb   |Sub    |Ace    |Alch   |frds|GZEYOOY|N
+|Boomer |Sub    |Ace    |Alch   |frds|GZEYOOY|N
+|Dart   |Sub    |Ace    |Alch   |frds|GZEYOOY|N
+|Super  |Ninja  |Druid  |Spact  |Samhulk99|FZELKSU|N
+|Church |Heli   |Ninja  |Village|coolio1223|EZELKDA|N
+|Church |Heli   |Ninja  |Spact  |coolio1223|EZELKDA|N
+|Church |Heli   |Ninja  |Druid  |coolio1223|EZELKDA|N
+|Church |Heli   |Super  |Ninja  |coolio1223|EZELKDA|N
+|Church |Bucc   |Heli   |Ninja  |coolio1223|EZELKDA|N
+|Church |Sniper |Heli   |Ninja  |coolio1223|EZELKDA|N
+|Church |Glue   |Heli   |Ninja  |coolio1223|EZELKDA|N
+|Church |Ice    |Heli   |Ninja  |coolio1223|EZELKDA|N
+|Church |Tack   |Heli   |Ninja  |coolio1223|EZELKDA|N
+|Church |Bomb   |Heli   |Ninja  |coolio1223|EZELKDA|N
+|Church |Boomer |Heli   |Ninja  |coolio1223|EZELKDA|N
+|Church |Dart   |Heli   |Ninja  |coolio1223|EZELKDA|N
+|Boomer |Sniper |Mortar |Spact  |p4nthom22|VZELKRL|N
+|Ezili  |Glue   |Wizard |Super  |Mlop098|AZELKYH|N
+|Pat    |Glue   |Wizard |Super  |Mlop098|AZELKYH|N
+|Striker|Glue   |Wizard |Super  |Mlop098|AZELKYH|N
+|Gwen   |Glue   |Wizard |Super  |Mlop098|AZELKYH|N
+|Glue   |Wizard |Super  |Village|Mlop098|AZELKYH|N
+|Glue   |Wizard |Super  |Druid  |Mlop098|AZELKYH|N
+|Glue   |Sniper |Wizard |Super  |Mlop098|AZELKYH|N
+|Ice    |Glue   |Wizard |Super  |Mlop098|AZELKYH|N
+|Tack   |Glue   |Wizard |Super  |Mlop098|AZELKYH|N
+|Ezili  |Bucc   |Alch   |Spact  |315Lukas|TZELKYA|N
+|Obyn   |Bucc   |Alch   |Spact  |315Lukas|TZELKYA|N
+|Striker|Bucc   |Alch   |Spact  |315Lukas|TZELKYA|N
+|Gwen   |Bucc   |Alch   |Spact  |315Lukas|TZELKYA|N
+|Quincy |Bucc   |Alch   |Spact  |315Lukas|TZELKYA|N
+|Bucc   |Alch   |Spact  |Village|315Lukas|TZELKYA|N
+|Bucc   |Alch   |Druid  |Spact  |315Lukas|TZELKYA|N
+|Bucc   |Super  |Alch   |Spact  |315Lukas|TZELKYA|N
+|Bucc   |Ace    |Alch   |Spact  |315Lukas|TZELKYA|N
+|Sub    |Bucc   |Alch   |Spact  |315Lukas|TZELKYA|N
+|Sniper |Bucc   |Alch   |Spact  |315Lukas|TZELKYA|N
+|Glue   |Bucc   |Alch   |Spact  |315Lukas|TZELKYA|N
+|Ice    |Bucc   |Alch   |Spact  |315Lukas|TZELKYA|N
+|Tack   |Bucc   |Alch   |Spact  |315Lukas|TZELKYA|N
+|Bomb   |Bucc   |Alch   |Spact  |315Lukas|TZELKYA|N
+|Boomer |Bucc   |Alch   |Spact  |315Lukas|TZELKYA|N
+|Dart   |Bucc   |Alch   |Spact  |315Lukas|TZELKYA|N
+|Obyn   |Wizard |Druid  |Village|ItIsNitecap|PZELMKV|N
+|Ezili  |Glue   |Wizard |Village|Agent51|HZELMMU|N
+|Pat    |Glue   |Wizard |Village|Agent51|HZELMMU|N
+|Obyn   |Glue   |Wizard |Village|Agent51|HZELMMU|N
+|Striker|Glue   |Wizard |Village|Agent51|HZELMMU|N
+|Gwen   |Glue   |Wizard |Village|Agent51|HZELMMU|N
+|Quincy |Glue   |Wizard |Village|Agent51|HZELMMU|N
+|Glue   |Wizard |Druid  |Village|Agent51|HZELMMU|N
+|Glue   |Sub    |Wizard |Village|Agent51|HZELMMU|N
+|Glue   |Sniper |Wizard |Village|Agent51|HZELMMU|N
+|Ice    |Glue   |Wizard |Village|Agent51|HZELMMU|N
+|Tack   |Glue   |Wizard |Village|Agent51|HZELMMU|N
+|Boomer |Glue   |Wizard |Village|Agent51|HZELMMU|N
+|Ezili  |Dart   |Boomer |Super  |the_op_boss|TZELMMY|N
+|Church |Dart   |Boomer |Super  |the_op_boss|TZELMMY|N
+|Pat    |Dart   |Boomer |Super  |the_op_boss|TZELMMY|N
+|Striker|Dart   |Boomer |Super  |the_op_boss|TZELMMY|N
+|Gwen   |Dart   |Boomer |Super  |the_op_boss|TZELMMY|N
+|Dart   |Boomer |Super  |Village|the_op_boss|TZELMMY|N
+|Dart   |Boomer |Super  |Spact  |the_op_boss|TZELMMY|N
+|Dart   |Boomer |Super  |Druid  |the_op_boss|TZELMMY|N
+|Dart   |Boomer |Super  |Alch   |the_op_boss|TZELMMY|N
+|Dart   |Boomer |Super  |Ninja  |the_op_boss|TZELMMY|N
+|Dart   |Boomer |Mortar |Super  |the_op_boss|TZELMMY|N
+|Dart   |Boomer |Heli   |Super  |the_op_boss|TZELMMY|N
+|Dart   |Boomer |Ace    |Super  |the_op_boss|TZELMMY|N
+|Dart   |Boomer |Bucc   |Super  |the_op_boss|TZELMMY|N
+|Dart   |Boomer |Sniper |Super  |the_op_boss|TZELMMY|N
+|Dart   |Boomer |Glue   |Super  |the_op_boss|TZELMMY|N
+|Dart   |Boomer |Ice    |Super  |the_op_boss|TZELMMY|N
+|Dart   |Boomer |Tack   |Super  |the_op_boss|TZELMMY|N
+|Bucc   |Super  |Ninja  |Spact  |Urinetosh|KZELMGC|N
+|Ezili  |Boomer |Heli   |Spact  |123CrimsonRain|VZELMHW|N
+|Church |Boomer |Heli   |Spact  |123CrimsonRain|VZELMHW|N
+|Pat    |Boomer |Heli   |Spact  |123CrimsonRain|VZELMHW|N
+|Striker|Boomer |Heli   |Spact  |123CrimsonRain|VZELMHW|N
+|Gwen   |Boomer |Heli   |Spact  |123CrimsonRain|VZELMHW|N
+|Boomer |Heli   |Spact  |Village|123CrimsonRain|VZELMHW|N
+|Boomer |Heli   |Druid  |Spact  |123CrimsonRain|VZELMHW|N
+|Boomer |Heli   |Ninja  |Spact  |123CrimsonRain|VZELMHW|N
+|Boomer |Heli   |Super  |Spact  |123CrimsonRain|VZELMHW|N
+|Boomer |Heli   |Mortar |Spact  |123CrimsonRain|VZELMHW|N
+|Boomer |Ace    |Heli   |Spact  |123CrimsonRain|VZELMHW|N
+|Boomer |Bucc   |Heli   |Spact  |123CrimsonRain|VZELMHW|N
+|Boomer |Sniper |Heli   |Spact  |123CrimsonRain|VZELMHW|N
+|Boomer |Glue   |Heli   |Spact  |123CrimsonRain|VZELMHW|N
+|Boomer |Ice    |Heli   |Spact  |123CrimsonRain|VZELMHW|N
+|Boomer |Tack   |Heli   |Spact  |123CrimsonRain|VZELMHW|N
+|Boomer |Bomb   |Heli   |Spact  |123CrimsonRain|VZELMHW|N
+|Dart   |Boomer |Heli   |Spact  |123CrimsonRain|VZELMHW|N
+|Obyn   |Ice    |Sub    |Village|Amanensia|DZELMUD|N
+|Ezili  |Heli   |Ninja  |Druid  |Agent51|CZELMWG|N
+|Pat    |Heli   |Ninja  |Druid  |Agent51|CZELMWG|N
+|Striker|Heli   |Ninja  |Druid  |Agent51|CZELMWG|N
+|Gwen   |Heli   |Ninja  |Druid  |Agent51|CZELMWG|N
+|Heli   |Ninja  |Druid  |Village|Agent51|CZELMWG|N
+|Heli   |Ninja  |Druid  |Spact  |Agent51|CZELMWG|N
+|Heli   |Super  |Ninja  |Druid  |Agent51|CZELMWG|N
+|Ace    |Heli   |Ninja  |Druid  |Agent51|CZELMWG|N
+|Bucc   |Heli   |Ninja  |Druid  |Agent51|CZELMWG|N
+|Sniper |Heli   |Ninja  |Druid  |Agent51|CZELMWG|N
+|Glue   |Heli   |Ninja  |Druid  |Agent51|CZELMWG|N
+|Ice    |Heli   |Ninja  |Druid  |Agent51|CZELMWG|N
+|Tack   |Heli   |Ninja  |Druid  |Agent51|CZELMWG|N
+|Bomb   |Heli   |Ninja  |Druid  |Agent51|CZELMWG|N
+|Boomer |Heli   |Ninja  |Druid  |Agent51|CZELMWG|N
+|Dart   |Heli   |Ninja  |Druid  |Agent51|CZELMWG|N
+|Ezili  |Bucc   |Super  |Spact  |Urinetosh|CZELMWU|N
+|Pat    |Bucc   |Super  |Spact  |Urinetosh|CZELMWU|N
+|Striker|Bucc   |Super  |Spact  |Urinetosh|CZELMWU|N
+|Gwen   |Bucc   |Super  |Spact  |Urinetosh|CZELMWU|N
+|Bucc   |Super  |Spact  |Village|Urinetosh|CZELMWU|N
+|Bucc   |Super  |Druid  |Spact  |Urinetosh|CZELMWU|N
+|Bucc   |Heli   |Super  |Spact  |Urinetosh|CZELMWU|N
+|Bucc   |Ace    |Super  |Spact  |Urinetosh|CZELMWU|N
+|Sniper |Bucc   |Super  |Spact  |Urinetosh|CZELMWU|N
+|Glue   |Bucc   |Super  |Spact  |Urinetosh|CZELMWU|N
+|Ice    |Bucc   |Super  |Spact  |Urinetosh|CZELMWU|N
+|Tack   |Bucc   |Super  |Spact  |Urinetosh|CZELMWU|N
+|Boomer |Bucc   |Super  |Spact  |Urinetosh|CZELMWU|N
+|Dart   |Bucc   |Super  |Spact  |Urinetosh|CZELMWU|N
+|Heli   |Ninja  |Spact  |Village|Best Guest|FZELMWS|N
+|Ezili  |Ice    |Heli   |Ninja  |Agent51|VZELMAS|N
+|Pat    |Ice    |Heli   |Ninja  |Agent51|VZELMAS|N
+|Striker|Ice    |Heli   |Ninja  |Agent51|VZELMAS|N
+|Gwen   |Ice    |Heli   |Ninja  |Agent51|VZELMAS|N
+|Ice    |Heli   |Ninja  |Village|Agent51|VZELMAS|N
+|Ice    |Heli   |Ninja  |Spact  |Agent51|VZELMAS|N
+|Ice    |Heli   |Super  |Ninja  |Agent51|VZELMAS|N
+|Ice    |Ace    |Heli   |Ninja  |Agent51|VZELMAS|N
+|Ice    |Bucc   |Heli   |Ninja  |Agent51|VZELMAS|N
+|Ice    |Sniper |Heli   |Ninja  |Agent51|VZELMAS|N
+|Ice    |Glue   |Heli   |Ninja  |Agent51|VZELMAS|N
+|Tack   |Ice    |Heli   |Ninja  |Agent51|VZELMAS|N
+|Bomb   |Ice    |Heli   |Ninja  |Agent51|VZELMAS|N
+|Boomer |Ice    |Heli   |Ninja  |Agent51|VZELMAS|N
+|Dart   |Ice    |Heli   |Ninja  |Agent51|VZELMAS|N
+|Ezili  |Dart   |Super  |Village|the_op_boss|DZELMCO|N
+|Ezili  |Dart   |Super  |Spact  |the_op_boss|DZELMCO|N
+|Ezili  |Dart   |Super  |Druid  |the_op_boss|DZELMCO|N
+|Ezili  |Dart   |Super  |Alch   |the_op_boss|DZELMCO|N
+|Ezili  |Dart   |Super  |Ninja  |the_op_boss|DZELMCO|N
+|Ezili  |Dart   |Mortar |Super  |the_op_boss|DZELMCO|N
+|Ezili  |Dart   |Heli   |Super  |the_op_boss|DZELMCO|N
+|Ezili  |Dart   |Ace    |Super  |the_op_boss|DZELMCO|N
+|Ezili  |Dart   |Bucc   |Super  |the_op_boss|DZELMCO|N
+|Ezili  |Dart   |Glue   |Super  |the_op_boss|DZELMCO|N
+|Ezili  |Dart   |Ice    |Super  |the_op_boss|DZELMCO|N
+|Ezili  |Dart   |Tack   |Super  |the_op_boss|DZELMCO|N
+|Ezili  |Bucc   |Ace    |Alch   |UnLapiz|UZELMSU|N
+|Obyn   |Bucc   |Ace    |Alch   |UnLapiz|UZELMSU|N
+|Striker|Bucc   |Ace    |Alch   |UnLapiz|UZELMSU|N
+|Gwen   |Bucc   |Ace    |Alch   |UnLapiz|UZELMSU|N
+|Quincy |Bucc   |Ace    |Alch   |UnLapiz|UZELMSU|N
+|Bucc   |Ace    |Alch   |Village|UnLapiz|UZELMSU|N
+|Bucc   |Ace    |Alch   |Druid  |UnLapiz|UZELMSU|N
+|Bucc   |Ace    |Super  |Alch   |UnLapiz|UZELMSU|N
+|Bucc   |Ace    |Mortar |Alch   |UnLapiz|UZELMSU|N
+|Sniper |Bucc   |Ace    |Alch   |UnLapiz|UZELMSU|N
+|Ice    |Bucc   |Ace    |Alch   |UnLapiz|UZELMSU|N
+|Tack   |Bucc   |Ace    |Alch   |UnLapiz|UZELMSU|N
+|Bomb   |Bucc   |Ace    |Alch   |UnLapiz|UZELMSU|N
+|Boomer |Bucc   |Ace    |Alch   |UnLapiz|UZELMSU|N
+|Dart   |Bucc   |Ace    |Alch   |UnLapiz|UZELMSU|N
+|Gwen   |Bucc   |Ace    |Heli   |Waddledee789123|XZELMDF|N
+|Obyn   |Glue   |Sub    |Wizard |rigged|LZELMEU|N
+|Ice    |Sniper |Mortar |Ninja  |Mattyice410|LZELMPK|N
+|Ezili  |Boomer |Super  |Village|the_op_boss|FZELMRM|N
+|Ezili  |Boomer |Super  |Spact  |the_op_boss|FZELMRM|N
+|Ezili  |Boomer |Super  |Druid  |the_op_boss|FZELMRM|N
+|Ezili  |Boomer |Super  |Alch   |the_op_boss|FZELMRM|N
+|Ezili  |Boomer |Super  |Ninja  |the_op_boss|FZELMRM|N
+|Ezili  |Boomer |Mortar |Super  |the_op_boss|FZELMRM|N
+|Ezili  |Boomer |Heli   |Super  |the_op_boss|FZELMRM|N
+|Ezili  |Boomer |Ace    |Super  |the_op_boss|FZELMRM|N
+|Ezili  |Boomer |Bucc   |Super  |the_op_boss|FZELMRM|N
+|Ezili  |Boomer |Glue   |Super  |the_op_boss|FZELMRM|N
+|Ezili  |Boomer |Ice    |Super  |the_op_boss|FZELMRM|N
+|Ezili  |Boomer |Tack   |Super  |the_op_boss|FZELMRM|N
+|Ezili  |Boomer |Heli   |Mortar |TobiBloon439|MZELMRL|N
+|Church |Boomer |Heli   |Mortar |TobiBloon439|MZELMRL|N
+|Pat    |Boomer |Heli   |Mortar |TobiBloon439|MZELMRL|N
+|Striker|Boomer |Heli   |Mortar |TobiBloon439|MZELMRL|N
+|Gwen   |Boomer |Heli   |Mortar |TobiBloon439|MZELMRL|N
+|Quincy |Boomer |Heli   |Mortar |TobiBloon439|MZELMRL|N
+|Boomer |Heli   |Mortar |Village|TobiBloon439|MZELMRL|N
+|Boomer |Heli   |Mortar |Druid  |TobiBloon439|MZELMRL|N
+|Boomer |Heli   |Mortar |Super  |TobiBloon439|MZELMRL|N
+|Boomer |Bucc   |Heli   |Mortar |TobiBloon439|MZELMRL|N
+|Boomer |Sniper |Heli   |Mortar |TobiBloon439|MZELMRL|N
+|Boomer |Glue   |Heli   |Mortar |TobiBloon439|MZELMRL|N
+|Boomer |Ice    |Heli   |Mortar |TobiBloon439|MZELMRL|N
+|Boomer |Tack   |Heli   |Mortar |TobiBloon439|MZELMRL|N
+|Boomer |Bomb   |Heli   |Mortar |TobiBloon439|MZELMRL|N
+|Dart   |Boomer |Heli   |Mortar |TobiBloon439|MZELMRL|N
+|Ezili  |Boomer |Sub    |Wizard |Boomer Sub Wizard|TZELMYL|N
+|Pat    |Boomer |Sub    |Wizard |Boomer Sub Wizard|TZELMYL|N
+|Obyn   |Boomer |Sub    |Wizard |Boomer Sub Wizard|TZELMYL|N
+|Striker|Boomer |Sub    |Wizard |Boomer Sub Wizard|TZELMYL|N
+|Gwen   |Boomer |Sub    |Wizard |Boomer Sub Wizard|TZELMYL|N
+|Boomer |Sub    |Wizard |Village|Boomer Sub Wizard|TZELMYL|N
+|Boomer |Sub    |Wizard |Druid  |Boomer Sub Wizard|TZELMYL|N
+|Boomer |Glue   |Sub    |Wizard |Boomer Sub Wizard|TZELMYL|N
+|Boomer |Bomb   |Sub    |Wizard |Boomer Sub Wizard|TZELMYL|N
+|Ezili  |Bomb   |Heli   |Ninja  |Agent51|EZELMLO|N
+|Pat    |Bomb   |Heli   |Ninja  |Agent51|EZELMLO|N
+|Striker|Bomb   |Heli   |Ninja  |Agent51|EZELMLO|N
+|Gwen   |Bomb   |Heli   |Ninja  |Agent51|EZELMLO|N
+|Bomb   |Heli   |Ninja  |Village|Agent51|EZELMLO|N
+|Bomb   |Heli   |Ninja  |Spact  |Agent51|EZELMLO|N
+|Bomb   |Ace    |Heli   |Ninja  |Agent51|EZELMLO|N
+|Bomb   |Bucc   |Heli   |Ninja  |Agent51|EZELMLO|N
+|Bomb   |Sniper |Heli   |Ninja  |Agent51|EZELMLO|N
+|Bomb   |Glue   |Heli   |Ninja  |Agent51|EZELMLO|N
+|Bomb   |Tack   |Heli   |Ninja  |Agent51|EZELMLO|N
+|Boomer |Bomb   |Heli   |Ninja  |Agent51|EZELMLO|N
+|Dart   |Bomb   |Heli   |Ninja  |Agent51|EZELMLO|N
+|Ezili  |Glue   |Sub    |Wizard |Jollto13|BZELMOW|N
+|Pat    |Glue   |Sub    |Wizard |Jollto13|BZELMOW|N
+|Striker|Glue   |Sub    |Wizard |Jollto13|BZELMOW|N
+|Gwen   |Glue   |Sub    |Wizard |Jollto13|BZELMOW|N
+|Quincy |Glue   |Sub    |Wizard |Jollto13|BZELMOW|N
+|Glue   |Sub    |Wizard |Druid  |Jollto13|BZELMOW|N
+|Ice    |Glue   |Sub    |Wizard |Jollto13|BZELMOW|N
+|Tack   |Glue   |Sub    |Wizard |Jollto13|BZELMOW|N
+|Bomb   |Glue   |Sub    |Wizard |Jollto13|BZELMOW|N
+|Church |Dart   |Mortar |Super  |Great Mage|DZELFKG|N
+|Pat    |Dart   |Mortar |Super  |Great Mage|DZELFKG|N
+|Striker|Dart   |Mortar |Super  |Great Mage|DZELFKG|N
+|Gwen   |Dart   |Mortar |Super  |Great Mage|DZELFKG|N
+|Dart   |Mortar |Super  |Village|Great Mage|DZELFKG|N
+|Dart   |Mortar |Super  |Spact  |Great Mage|DZELFKG|N
+|Dart   |Mortar |Super  |Druid  |Great Mage|DZELFKG|N
+|Dart   |Mortar |Super  |Alch   |Great Mage|DZELFKG|N
+|Dart   |Mortar |Super  |Ninja  |Great Mage|DZELFKG|N
+|Dart   |Heli   |Mortar |Super  |Great Mage|DZELFKG|N
+|Dart   |Ace    |Mortar |Super  |Great Mage|DZELFKG|N
+|Dart   |Bucc   |Mortar |Super  |Great Mage|DZELFKG|N
+|Dart   |Sniper |Mortar |Super  |Great Mage|DZELFKG|N
+|Dart   |Glue   |Mortar |Super  |Great Mage|DZELFKG|N
+|Dart   |Ice    |Mortar |Super  |Great Mage|DZELFKG|N
+|Ezili  |Sub    |Wizard |Alch   |Kyle Robinson|TZELFKT|N
+|Quincy |Glue   |Wizard |Druid  |rigged|KZELFMT|N
+|Quincy |Ice    |Glue   |Wizard |rigged|KZELFMT|N
+|Quincy |Tack   |Glue   |Wizard |rigged|KZELFMT|N
+|Ezili  |Tack   |Ninja  |Village|meta|XZELFMA|N
+|Church |Tack   |Ninja  |Village|meta|XZELFMA|N
+|Pat    |Tack   |Ninja  |Village|meta|XZELFMA|N
+|Obyn   |Tack   |Ninja  |Village|meta|XZELFMA|N
+|Striker|Tack   |Ninja  |Village|meta|XZELFMA|N
+|Gwen   |Tack   |Ninja  |Village|meta|XZELFMA|N
+|Quincy |Tack   |Ninja  |Village|meta|XZELFMA|N
+|Tack   |Ninja  |Spact  |Village|meta|XZELFMA|N
+|Tack   |Ninja  |Druid  |Village|meta|XZELFMA|N
+|Tack   |Heli   |Ninja  |Village|meta|XZELFMA|N
+|Tack   |Ace    |Ninja  |Village|meta|XZELFMA|N
+|Tack   |Bucc   |Ninja  |Village|meta|XZELFMA|N
+|Tack   |Sub    |Ninja  |Village|meta|XZELFMA|N
+|Tack   |Glue   |Ninja  |Village|meta|XZELFMA|N
+|Tack   |Ice    |Ninja  |Village|meta|XZELFMA|N
+|Bomb   |Tack   |Ninja  |Village|meta|XZELFMA|N
+|Boomer |Tack   |Ninja  |Village|meta|XZELFMA|N
+|Obyn   |Ninja  |Druid  |Village|JAMESZ |HZELFGR|N
+|Ezili  |Bucc   |Ace    |Heli   |315Lukas|MZELFVC|N
+|Striker|Bucc   |Ace    |Heli   |315Lukas|MZELFVC|N
+|Bucc   |Ace    |Heli   |Spact  |315Lukas|MZELFVC|N
+|Bucc   |Ace    |Heli   |Druid  |315Lukas|MZELFVC|N
+|Bucc   |Ace    |Heli   |Ninja  |315Lukas|MZELFVC|N
+|Bucc   |Ace    |Heli   |Super  |315Lukas|MZELFVC|N
+|Bucc   |Ace    |Heli   |Mortar |315Lukas|MZELFVC|N
+|Sniper |Bucc   |Ace    |Heli   |315Lukas|MZELFVC|N
+|Glue   |Bucc   |Ace    |Heli   |315Lukas|MZELFVC|N
+|Ice    |Bucc   |Ace    |Heli   |315Lukas|MZELFVC|N
+|Tack   |Bucc   |Ace    |Heli   |315Lukas|MZELFVC|N
+|Bomb   |Bucc   |Ace    |Heli   |315Lukas|MZELFVC|N
+|Boomer |Bucc   |Ace    |Heli   |315Lukas|MZELFVC|N
+|Dart   |Bucc   |Ace    |Heli   |315Lukas|MZELFVC|N
+|Obyn   |Ice    |Bucc   |Village|Amanensia|RZELFWO|N
+|Obyn   |Tack   |Ace    |Village|Smurfblade|GZELFTF|N
+|Obyn   |Tack   |Ace    |Spact  |Smurfblade|GZELFTF|N
+|Obyn   |Tack   |Ace    |Druid  |Smurfblade|GZELFTF|N
+|Obyn   |Tack   |Ace    |Alch   |Smurfblade|GZELFTF|N
+|Obyn   |Tack   |Ace    |Ninja  |Smurfblade|GZELFTF|N
+|Obyn   |Tack   |Ace    |Mortar |Smurfblade|GZELFTF|N
+|Obyn   |Tack   |Bucc   |Ace    |Smurfblade|GZELFTF|N
+|Obyn   |Tack   |Sub    |Ace    |Smurfblade|GZELFTF|N
+|Obyn   |Tack   |Sniper |Ace    |Smurfblade|GZELFTF|N
+|Obyn   |Tack   |Glue   |Ace    |Smurfblade|GZELFTF|N
+|Obyn   |Tack   |Ice    |Ace    |Smurfblade|GZELFTF|N
+|Obyn   |Bomb   |Tack   |Ace    |Smurfblade|GZELFTF|N
+|Obyn   |Boomer |Tack   |Ace    |Smurfblade|GZELFTF|N
+|Obyn   |Dart   |Tack   |Ace    |Smurfblade|GZELFTF|N
+|Ezili  |Tack   |Bucc   |Village|meta|AZELFTU|N
+|Church |Tack   |Bucc   |Village|meta|AZELFTU|N
+|Pat    |Tack   |Bucc   |Village|meta|AZELFTU|N
+|Obyn   |Tack   |Bucc   |Village|meta|AZELFTU|N
+|Striker|Tack   |Bucc   |Village|meta|AZELFTU|N
+|Gwen   |Tack   |Bucc   |Village|meta|AZELFTU|N
+|Quincy |Tack   |Bucc   |Village|meta|AZELFTU|N
+|Tack   |Bucc   |Spact  |Village|meta|AZELFTU|N
+|Tack   |Bucc   |Druid  |Village|meta|AZELFTU|N
+|Tack   |Bucc   |Alch   |Village|meta|AZELFTU|N
+|Tack   |Bucc   |Super  |Village|meta|AZELFTU|N
+|Tack   |Bucc   |Mortar |Village|meta|AZELFTU|N
+|Tack   |Bucc   |Ace    |Village|meta|AZELFTU|N
+|Tack   |Sub    |Bucc   |Village|meta|AZELFTU|N
+|Tack   |Glue   |Bucc   |Village|meta|AZELFTU|N
+|Tack   |Ice    |Bucc   |Village|meta|AZELFTU|N
+|Bomb   |Tack   |Bucc   |Village|meta|AZELFTU|N
+|Boomer |Tack   |Bucc   |Village|meta|AZELFTU|N
+|Ezili  |Glue   |Heli   |Village|Kyle Robinson|WZELFTA|N
+|Ezili  |Ace    |Heli   |Ninja  |315Lukas|DZELFAU|N
+|Pat    |Ace    |Heli   |Ninja  |315Lukas|DZELFAU|N
+|Striker|Ace    |Heli   |Ninja  |315Lukas|DZELFAU|N
+|Gwen   |Ace    |Heli   |Ninja  |315Lukas|DZELFAU|N
+|Ace    |Heli   |Ninja  |Village|315Lukas|DZELFAU|N
+|Ace    |Heli   |Ninja  |Spact  |315Lukas|DZELFAU|N
+|Ace    |Heli   |Super  |Ninja  |315Lukas|DZELFAU|N
+|Sniper |Ace    |Heli   |Ninja  |315Lukas|DZELFAU|N
+|Glue   |Ace    |Heli   |Ninja  |315Lukas|DZELFAU|N
+|Tack   |Ace    |Heli   |Ninja  |315Lukas|DZELFAU|N
+|Boomer |Ace    |Heli   |Ninja  |315Lukas|DZELFAU|N
+|Dart   |Ace    |Heli   |Ninja  |315Lukas|DZELFAU|N
+|Ezili  |Dart   |Mortar |Spact  |Great Mage|DZELFBG|N
+|Church |Dart   |Mortar |Spact  |Great Mage|DZELFBG|N
+|Pat    |Dart   |Mortar |Spact  |Great Mage|DZELFBG|N
+|Obyn   |Dart   |Mortar |Spact  |Great Mage|DZELFBG|N
+|Striker|Dart   |Mortar |Spact  |Great Mage|DZELFBG|N
+|Gwen   |Dart   |Mortar |Spact  |Great Mage|DZELFBG|N
+|Quincy |Dart   |Mortar |Spact  |Great Mage|DZELFBG|N
+|Dart   |Mortar |Spact  |Village|Great Mage|DZELFBG|N
+|Dart   |Mortar |Druid  |Spact  |Great Mage|DZELFBG|N
+|Dart   |Mortar |Alch   |Spact  |Great Mage|DZELFBG|N
+|Dart   |Mortar |Ninja  |Spact  |Great Mage|DZELFBG|N
+|Dart   |Heli   |Mortar |Spact  |Great Mage|DZELFBG|N
+|Dart   |Ace    |Mortar |Spact  |Great Mage|DZELFBG|N
+|Dart   |Sniper |Mortar |Spact  |Great Mage|DZELFBG|N
+|Dart   |Glue   |Mortar |Spact  |Great Mage|DZELFBG|N
+|Dart   |Ice    |Mortar |Spact  |Great Mage|DZELFBG|N
+|Dart   |Tack   |Mortar |Spact  |Great Mage|DZELFBG|N
+|Dart   |Bomb   |Mortar |Spact  |Great Mage|DZELFBG|N
+|Dart   |Boomer |Mortar |Spact  |Great Mage|DZELFBG|N
+|Ezili  |Ace    |Heli   |Druid  |315Lukas|HZELFCD|N
+|Pat    |Ace    |Heli   |Druid  |315Lukas|HZELFCD|N
+|Striker|Ace    |Heli   |Druid  |315Lukas|HZELFCD|N
+|Gwen   |Ace    |Heli   |Druid  |315Lukas|HZELFCD|N
+|Ace    |Heli   |Druid  |Village|315Lukas|HZELFCD|N
+|Ace    |Heli   |Druid  |Spact  |315Lukas|HZELFCD|N
+|Ace    |Heli   |Mortar |Druid  |315Lukas|HZELFCD|N
+|Sniper |Ace    |Heli   |Druid  |315Lukas|HZELFCD|N
+|Glue   |Ace    |Heli   |Druid  |315Lukas|HZELFCD|N
+|Ice    |Ace    |Heli   |Druid  |315Lukas|HZELFCD|N
+|Tack   |Ace    |Heli   |Druid  |315Lukas|HZELFCD|N
+|Bomb   |Ace    |Heli   |Druid  |315Lukas|HZELFCD|N
+|Boomer |Ace    |Heli   |Druid  |315Lukas|HZELFCD|N
+|Dart   |Ace    |Heli   |Druid  |315Lukas|HZELFCD|N
+|Ezili  |Boomer |Ace    |Heli   |315Lukas|AZELFEK|N
+|Pat    |Boomer |Ace    |Heli   |315Lukas|AZELFEK|N
+|Striker|Boomer |Ace    |Heli   |315Lukas|AZELFEK|N
+|Gwen   |Boomer |Ace    |Heli   |315Lukas|AZELFEK|N
+|Boomer |Ace    |Heli   |Village|315Lukas|AZELFEK|N
+|Boomer |Ace    |Heli   |Super  |315Lukas|AZELFEK|N
+|Boomer |Sniper |Ace    |Heli   |315Lukas|AZELFEK|N
+|Boomer |Glue   |Ace    |Heli   |315Lukas|AZELFEK|N
+|Boomer |Ice    |Ace    |Heli   |315Lukas|AZELFEK|N
+|Boomer |Tack   |Ace    |Heli   |315Lukas|AZELFEK|N
+|Boomer |Bomb   |Ace    |Heli   |315Lukas|AZELFEK|N
+|Dart   |Boomer |Ace    |Heli   |315Lukas|AZELFEK|N
+|Ezili  |Dart   |Ace    |Heli   |411i0tt|XZELFPM|N
+|Pat    |Dart   |Ace    |Heli   |411i0tt|XZELFPM|N
+|Striker|Dart   |Ace    |Heli   |411i0tt|XZELFPM|N
+|Gwen   |Dart   |Ace    |Heli   |411i0tt|XZELFPM|N
+|Dart   |Ace    |Heli   |Village|411i0tt|XZELFPM|N
+|Dart   |Ace    |Heli   |Spact  |411i0tt|XZELFPM|N
+|Dart   |Ace    |Heli   |Super  |411i0tt|XZELFPM|N
+|Dart   |Ace    |Heli   |Mortar |411i0tt|XZELFPM|N
+|Dart   |Sniper |Ace    |Heli   |411i0tt|XZELFPM|N
+|Dart   |Glue   |Ace    |Heli   |411i0tt|XZELFPM|N
+|Dart   |Ice    |Ace    |Heli   |411i0tt|XZELFPM|N
+|Dart   |Tack   |Ace    |Heli   |411i0tt|XZELFPM|N
+|Dart   |Bomb   |Ace    |Heli   |411i0tt|XZELFPM|N
+|Church |Dart   |Super  |Village|powergo|SZELFPB|N
+|Church |Dart   |Super  |Spact  |powergo|SZELFPB|N
+|Church |Dart   |Super  |Druid  |powergo|SZELFPB|N
+|Church |Dart   |Super  |Alch   |powergo|SZELFPB|N
+|Church |Dart   |Super  |Ninja  |powergo|SZELFPB|N
+|Church |Dart   |Heli   |Super  |powergo|SZELFPB|N
+|Church |Dart   |Ace    |Super  |powergo|SZELFPB|N
+|Church |Dart   |Sniper |Super  |powergo|SZELFPB|N
+|Church |Dart   |Glue   |Super  |powergo|SZELFPB|N
+|Church |Dart   |Ice    |Super  |powergo|SZELFPB|N
+|Church |Dart   |Tack   |Super  |powergo|SZELFPB|N
+|Glue   |Mortar |Alch   |Spact  |Kyle Robinson|TZELFRK|N
+|Obyn   |Bomb   |Ninja  |Spact  |Charipi|AZELFRR|N
+|Ezili  |Ace    |Super  |Ninja  |rigged|SZELFLF|N
+|Church |Ace    |Super  |Ninja  |rigged|SZELFLF|N
+|Pat    |Ace    |Super  |Ninja  |rigged|SZELFLF|N
+|Striker|Ace    |Super  |Ninja  |rigged|SZELFLF|N
+|Ace    |Super  |Ninja  |Spact  |rigged|SZELFLF|N
+|Bucc   |Ace    |Super  |Ninja  |rigged|SZELFLF|N
+|Sniper |Ace    |Super  |Ninja  |rigged|SZELFLF|N
+|Glue   |Ace    |Super  |Ninja  |rigged|SZELFLF|N
+|Ice    |Ace    |Super  |Ninja  |rigged|SZELFLF|N
+|Tack   |Ace    |Super  |Ninja  |rigged|SZELFLF|N
+|Boomer |Ace    |Super  |Ninja  |rigged|SZELFLF|N
+|Dart   |Ace    |Super  |Ninja  |rigged|SZELFLF|N
+|Ezili  |Ice    |Heli   |Village|Drens_|CZELFYP|N
+|Ezili  |Heli   |Ninja  |Village|coolio1223|DZELFOG|N
+|Pat    |Heli   |Ninja  |Village|coolio1223|DZELFOG|N
+|Striker|Heli   |Ninja  |Village|coolio1223|DZELFOG|N
+|Gwen   |Heli   |Ninja  |Village|coolio1223|DZELFOG|N
+|Sniper |Heli   |Ninja  |Village|coolio1223|DZELFOG|N
+|Glue   |Heli   |Ninja  |Village|coolio1223|DZELFOG|N
+|Boomer |Heli   |Ninja  |Village|coolio1223|DZELFOG|N
+|Dart   |Heli   |Ninja  |Village|coolio1223|DZELFOG|N
+|Ezili  |Tack   |Wizard |Super  |Agent51|WZELGKX|N
+|Gwen   |Tack   |Wizard |Super  |Agent51|WZELGKX|N
+|Tack   |Wizard |Super  |Village|Agent51|WZELGKX|N
+|Tack   |Wizard |Super  |Druid  |Agent51|WZELGKX|N
+|Tack   |Sniper |Wizard |Super  |Agent51|WZELGKX|N
+|Tack   |Ice    |Wizard |Super  |Agent51|WZELGKX|N
+|Ezili  |Boomer |Mortar |Spact  |PEZmaster2|FZELGFA|N
+|Church |Boomer |Mortar |Spact  |PEZmaster2|FZELGFA|N
+|Pat    |Boomer |Mortar |Spact  |PEZmaster2|FZELGFA|N
+|Obyn   |Boomer |Mortar |Spact  |PEZmaster2|FZELGFA|N
+|Striker|Boomer |Mortar |Spact  |PEZmaster2|FZELGFA|N
+|Gwen   |Boomer |Mortar |Spact  |PEZmaster2|FZELGFA|N
+|Boomer |Mortar |Spact  |Village|PEZmaster2|FZELGFA|N
+|Boomer |Mortar |Druid  |Spact  |PEZmaster2|FZELGFA|N
+|Boomer |Mortar |Alch   |Spact  |PEZmaster2|FZELGFA|N
+|Boomer |Mortar |Super  |Spact  |PEZmaster2|FZELGFA|N
+|Boomer |Glue   |Mortar |Spact  |PEZmaster2|FZELGFA|N
+|Boomer |Ice    |Mortar |Spact  |PEZmaster2|FZELGFA|N
+|Boomer |Tack   |Mortar |Spact  |PEZmaster2|FZELGFA|N
+|Boomer |Bomb   |Mortar |Spact  |PEZmaster2|FZELGFA|N
+|Ezili  |Tack   |Ace    |Heli   |Chocbox|GZELGFY|N
+|Pat    |Tack   |Ace    |Heli   |Chocbox|GZELGFY|N
+|Striker|Tack   |Ace    |Heli   |Chocbox|GZELGFY|N
+|Gwen   |Tack   |Ace    |Heli   |Chocbox|GZELGFY|N
+|Tack   |Ace    |Heli   |Village|Chocbox|GZELGFY|N
+|Tack   |Ace    |Heli   |Spact  |Chocbox|GZELGFY|N
+|Tack   |Ace    |Heli   |Super  |Chocbox|GZELGFY|N
+|Tack   |Ace    |Heli   |Mortar |Chocbox|GZELGFY|N
+|Tack   |Sniper |Ace    |Heli   |Chocbox|GZELGFY|N
+|Tack   |Glue   |Ace    |Heli   |Chocbox|GZELGFY|N
+|Tack   |Ice    |Ace    |Heli   |Chocbox|GZELGFY|N
+|Bomb   |Tack   |Ace    |Heli   |Chocbox|GZELGFY|N
+|Ezili  |Wizard |Super  |Druid  |Agent51|FZELGGW|N
+|Gwen   |Wizard |Super  |Druid  |Agent51|FZELGGW|N
+|Wizard |Super  |Druid  |Village|Agent51|FZELGGW|N
+|Sniper |Wizard |Super  |Druid  |Agent51|FZELGGW|N
+|Ice    |Wizard |Super  |Druid  |Agent51|FZELGGW|N
+|Pat    |Sniper |Bucc   |Super  |Urinetosh|Szelghw|N
+|Striker|Sniper |Bucc   |Super  |Urinetosh|Szelghw|N
+|Gwen   |Sniper |Bucc   |Super  |Urinetosh|Szelghw|N
+|Sniper |Bucc   |Super  |Village|Urinetosh|Szelghw|N
+|Sniper |Bucc   |Super  |Druid  |Urinetosh|Szelghw|N
+|Sniper |Bucc   |Super  |Alch   |Urinetosh|Szelghw|N
+|Sniper |Bucc   |Super  |Ninja  |Urinetosh|Szelghw|N
+|Sniper |Bucc   |Mortar |Super  |Urinetosh|Szelghw|N
+|Sniper |Bucc   |Heli   |Super  |Urinetosh|Szelghw|N
+|Sniper |Bucc   |Ace    |Super  |Urinetosh|Szelghw|N
+|Glue   |Sniper |Bucc   |Super  |Urinetosh|Szelghw|N
+|Ice    |Sniper |Bucc   |Super  |Urinetosh|Szelghw|N
+|Tack   |Sniper |Bucc   |Super  |Urinetosh|Szelghw|N
+|Boomer |Sniper |Bucc   |Super  |Urinetosh|Szelghw|N
+|Dart   |Sniper |Bucc   |Super  |Urinetosh|Szelghw|N
+|Ezili  |Bomb   |Bucc   |Village|Overeasybacon|CZELGUV|N
+|Ezili  |Tack   |Super  |Village|the_op_boss|DZELGUT|N
+|Ezili  |Tack   |Super  |Spact  |the_op_boss|DZELGUT|N
+|Ezili  |Tack   |Super  |Druid  |the_op_boss|DZELGUT|N
+|Ezili  |Tack   |Super  |Alch   |the_op_boss|DZELGUT|N
+|Ezili  |Tack   |Super  |Ninja  |the_op_boss|DZELGUT|N
+|Ezili  |Tack   |Heli   |Super  |the_op_boss|DZELGUT|N
+|Ezili  |Tack   |Ace    |Super  |the_op_boss|DZELGUT|N
+|Ezili  |Tack   |Bucc   |Super  |the_op_boss|DZELGUT|N
+|Ezili  |Tack   |Glue   |Super  |the_op_boss|DZELGUT|N
+|Ezili  |Tack   |Ice    |Super  |the_op_boss|DZELGUT|N
+|Pat    |Wizard |Super  |Village|Agent51|XZELGUP|N
+|Pat    |Sniper |Wizard |Super  |Agent51|XZELGUP|N
+|Ezili  |Bucc   |Heli   |Super  |Boat Heli Super|PZELGVX|N
+|Striker|Bucc   |Heli   |Super  |Boat Heli Super|PZELGVX|N
+|Gwen   |Bucc   |Heli   |Super  |Boat Heli Super|PZELGVX|N
+|Bucc   |Heli   |Super  |Druid  |Boat Heli Super|PZELGVX|N
+|Bucc   |Heli   |Super  |Ninja  |Boat Heli Super|PZELGVX|N
+|Bucc   |Heli   |Mortar |Super  |Boat Heli Super|PZELGVX|N
+|Glue   |Bucc   |Heli   |Super  |Boat Heli Super|PZELGVX|N
+|Ice    |Bucc   |Heli   |Super  |Boat Heli Super|PZELGVX|N
+|Tack   |Bucc   |Heli   |Super  |Boat Heli Super|PZELGVX|N
+|Boomer |Bucc   |Heli   |Super  |Boat Heli Super|PZELGVX|N
+|Dart   |Bucc   |Heli   |Super  |Boat Heli Super|PZELGVX|N
+|Striker|Sniper |Wizard |Super  |Agent51|OZELGTG|N
+|Gwen   |Sniper |Wizard |Super  |Agent51|OZELGTG|N
+|Sniper |Wizard |Super  |Village|Agent51|OZELGTG|N
+|Ice    |Sniper |Wizard |Super  |Agent51|OZELGTG|N
+|Pat    |Tack   |Sub    |Alch   |Topaz|CZEETKA|N
+|Striker|Wizard |Super  |Village|Agent51|BZELGAT|N
+|Striker|Ice    |Wizard |Village|Overeasybacon|FZELGAY|N
+|Ezili  |Ice    |Bucc   |Super  |Urinetosh|BZELGBK|N
+|Pat    |Ice    |Bucc   |Super  |Urinetosh|BZELGBK|N
+|Striker|Ice    |Bucc   |Super  |Urinetosh|BZELGBK|N
+|Gwen   |Ice    |Bucc   |Super  |Urinetosh|BZELGBK|N
+|Ice    |Bucc   |Super  |Village|Urinetosh|BZELGBK|N
+|Ice    |Bucc   |Super  |Druid  |Urinetosh|BZELGBK|N
+|Ice    |Bucc   |Super  |Alch   |Urinetosh|BZELGBK|N
+|Ice    |Bucc   |Super  |Ninja  |Urinetosh|BZELGBK|N
+|Ice    |Bucc   |Mortar |Super  |Urinetosh|BZELGBK|N
+|Ice    |Bucc   |Ace    |Super  |Urinetosh|BZELGBK|N
+|Ice    |Glue   |Bucc   |Super  |Urinetosh|BZELGBK|N
+|Tack   |Ice    |Bucc   |Super  |Urinetosh|BZELGBK|N
+|Boomer |Ice    |Bucc   |Super  |Urinetosh|BZELGBK|N
+|Dart   |Ice    |Bucc   |Super  |Urinetosh|BZELGBK|N
+|Gwen   |Wizard |Super  |Village|Agent51|UZELGCV|N
+|Gwen   |Ice    |Wizard |Super  |Agent51|UZELGCV|N
+|Quincy |Ace    |Spact  |Village|rigged|HZELGCH|N
+|Quincy |Ace    |Alch   |Spact  |rigged|HZELGCH|N
+|Quincy |Ace    |Ninja  |Spact  |rigged|HZELGCH|N
+|Quincy |Bucc   |Ace    |Spact  |rigged|HZELGCH|N
+|Quincy |Glue   |Ace    |Spact  |rigged|HZELGCH|N
+|Quincy |Ice    |Ace    |Spact  |rigged|HZELGCH|N
+|Quincy |Tack   |Ace    |Spact  |rigged|HZELGCH|N
+|Quincy |Bomb   |Ace    |Spact  |rigged|HZELGCH|N
+|Boomer |Sub    |Ace    |Village|Maxwell_555|WZELGCG|N
+|Gwen   |Heli   |Ninja  |Spact  |Chocbox|GZELGCP|N
+|Gwen   |Bucc   |Heli   |Ninja  |Chocbox|GZELGCP|N
+|Gwen   |Sniper |Heli   |Ninja  |Chocbox|GZELGCP|N
+|Gwen   |Glue   |Heli   |Ninja  |Chocbox|GZELGCP|N
+|Gwen   |Tack   |Heli   |Ninja  |Chocbox|GZELGCP|N
+|Gwen   |Boomer |Heli   |Ninja  |Chocbox|GZELGCP|N
+|Gwen   |Dart   |Heli   |Ninja  |Chocbox|GZELGCP|N
+|Ezili  |Boomer |Heli   |Ninja  |Mewlv100|DZELGSK|N
+|Ezili  |Dart   |Ace    |Mortar |Great Mage|WZELGSL|N
+|Church |Dart   |Ace    |Mortar |Great Mage|WZELGSL|N
+|Pat    |Dart   |Ace    |Mortar |Great Mage|WZELGSL|N
+|Obyn   |Dart   |Ace    |Mortar |Great Mage|WZELGSL|N
+|Striker|Dart   |Ace    |Mortar |Great Mage|WZELGSL|N
+|Gwen   |Dart   |Ace    |Mortar |Great Mage|WZELGSL|N
+|Quincy |Dart   |Ace    |Mortar |Great Mage|WZELGSL|N
+|Dart   |Ace    |Mortar |Village|Great Mage|WZELGSL|N
+|Dart   |Ace    |Mortar |Druid  |Great Mage|WZELGSL|N
+|Dart   |Ace    |Mortar |Alch   |Great Mage|WZELGSL|N
+|Dart   |Bucc   |Ace    |Mortar |Great Mage|WZELGSL|N
+|Dart   |Sub    |Ace    |Mortar |Great Mage|WZELGSL|N
+|Dart   |Sniper |Ace    |Mortar |Great Mage|WZELGSL|N
+|Dart   |Glue   |Ace    |Mortar |Great Mage|WZELGSL|N
+|Dart   |Ice    |Ace    |Mortar |Great Mage|WZELGSL|N
+|Dart   |Tack   |Ace    |Mortar |Great Mage|WZELGSL|N
+|Dart   |Bomb   |Ace    |Mortar |Great Mage|WZELGSL|N
+|Ezili  |Wizard |Super  |Village|Agent51|DZELGDP|N
+|Ezili  |Ice    |Wizard |Super  |Agent51|DZELGDP|N
+|Gwen   |Dart   |Super  |Village|the_op_boss|DZELGDD|N
+|Gwen   |Dart   |Super  |Spact  |the_op_boss|DZELGDD|N
+|Gwen   |Dart   |Super  |Druid  |the_op_boss|DZELGDD|N
+|Gwen   |Dart   |Super  |Alch   |the_op_boss|DZELGDD|N
+|Gwen   |Dart   |Heli   |Super  |the_op_boss|DZELGDD|N
+|Gwen   |Dart   |Ace    |Super  |the_op_boss|DZELGDD|N
+|Gwen   |Dart   |Bucc   |Super  |the_op_boss|DZELGDD|N
+|Gwen   |Dart   |Sniper |Super  |the_op_boss|DZELGDD|N
+|Gwen   |Dart   |Glue   |Super  |the_op_boss|DZELGDD|N
+|Gwen   |Dart   |Ice    |Super  |the_op_boss|DZELGDD|N
+|Gwen   |Dart   |Tack   |Super  |the_op_boss|DZELGDD|N
+|Ezili  |Dart   |Heli   |Ninja  |Urinetosh|WZELGEK|N
+|Pat    |Dart   |Heli   |Ninja  |Urinetosh|WZELGEK|N
+|Striker|Dart   |Heli   |Ninja  |Urinetosh|WZELGEK|N
+|Dart   |Heli   |Ninja  |Spact  |Urinetosh|WZELGEK|N
+|Dart   |Heli   |Super  |Ninja  |Urinetosh|WZELGEK|N
+|Dart   |Bucc   |Heli   |Ninja  |Urinetosh|WZELGEK|N
+|Dart   |Sniper |Heli   |Ninja  |Urinetosh|WZELGEK|N
+|Dart   |Glue   |Heli   |Ninja  |Urinetosh|WZELGEK|N
+|Dart   |Tack   |Heli   |Ninja  |Urinetosh|WZELGEK|N
+|Dart   |Boomer |Heli   |Ninja  |Urinetosh|WZELGEK|N
+|Gwen   |Boomer |Super  |Village|the_op_boss|UZELGPX|N
+|Gwen   |Boomer |Super  |Spact  |the_op_boss|UZELGPX|N
+|Gwen   |Boomer |Super  |Druid  |the_op_boss|UZELGPX|N
+|Gwen   |Boomer |Super  |Alch   |the_op_boss|UZELGPX|N
+|Gwen   |Boomer |Mortar |Super  |the_op_boss|UZELGPX|N
+|Gwen   |Boomer |Heli   |Super  |the_op_boss|UZELGPX|N
+|Gwen   |Boomer |Ace    |Super  |the_op_boss|UZELGPX|N
+|Gwen   |Boomer |Bucc   |Super  |the_op_boss|UZELGPX|N
+|Gwen   |Boomer |Sniper |Super  |the_op_boss|UZELGPX|N
+|Gwen   |Boomer |Glue   |Super  |the_op_boss|UZELGPX|N
+|Gwen   |Boomer |Ice    |Super  |the_op_boss|UZELGPX|N
+|Gwen   |Boomer |Tack   |Super  |the_op_boss|UZELGPX|N

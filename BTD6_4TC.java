@@ -3,6 +3,7 @@ import java.io.FileInputStream;
 import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.Random;
 import java.util.Scanner;
 
@@ -143,7 +144,8 @@ loop:	while (true) {
 					int index = 1;
 					displayOptionsMenu(1, "Options",
 									   "Move to \"completed-combos\"",
-									   "Move to \"impossible-combos\"");
+									   "Move to \"impossible-combos\"",
+									   "Reference \"spreadsheet-combos\"");
 					
 					switch (getInput(1)) {
 						case 1:
@@ -152,6 +154,38 @@ loop:	while (true) {
 						case 2:
 							toCompleted = false;
 							break;
+						case 3: {
+							int removed = 0;
+							
+							ArrayList<String> spreadsheet = readFromComboFile("spreadsheet-combos");
+							ArrayList<String> moveToFile = readFromComboFile("completed-combos");
+							
+							for (String combo : spreadsheet) {
+								String[] components = combo.split("\t");
+								ArrayList<String> towerCombo = new ArrayList<>(Arrays.asList(components[1].split(", ")));
+								
+								if (!components[0].equals("None")) {
+									towerCombo.add(components[0]);
+								}
+								
+					comboLoop:	for (int i = combos.size() - 1; i >= 0; i--) {
+									for (String tower : towerCombo) {
+										if (!combos.get(i).contains(tower)) {
+											continue comboLoop;
+										}
+									}
+									
+									moveToFile.add(combos.get(i) + components[2] + "|" + components[3] + "|N");
+									combos.remove(i);
+									removed++;
+								}
+							}
+							
+							writeToComboFile("spreadsheet-combos", new ArrayList<String>());
+							writeToComboFile("remaining-combos", combos);
+							writeToComboFile("completed-combos", moveToFile);
+							System.out.println("\n\tRemoved: " + removed);
+							continue loop; }
 					}
 					
 					ArrayList<String> towerCombo = new ArrayList<>();
