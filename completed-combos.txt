@@ -4384,15 +4384,15 @@
 |Boomer |Tack   |Heli   |Mortar |TobiBloon439|MZELMRL|N
 |Boomer |Bomb   |Heli   |Mortar |TobiBloon439|MZELMRL|N
 |Dart   |Boomer |Heli   |Mortar |TobiBloon439|MZELMRL|N
-|Ezili  |Boomer |Sub    |Wizard |Boomer Sub Wizard|TZELMYL|N
-|Pat    |Boomer |Sub    |Wizard |Boomer Sub Wizard|TZELMYL|N
-|Obyn   |Boomer |Sub    |Wizard |Boomer Sub Wizard|TZELMYL|N
-|Striker|Boomer |Sub    |Wizard |Boomer Sub Wizard|TZELMYL|N
-|Gwen   |Boomer |Sub    |Wizard |Boomer Sub Wizard|TZELMYL|N
-|Boomer |Sub    |Wizard |Village|Boomer Sub Wizard|TZELMYL|N
-|Boomer |Sub    |Wizard |Druid  |Boomer Sub Wizard|TZELMYL|N
-|Boomer |Glue   |Sub    |Wizard |Boomer Sub Wizard|TZELMYL|N
-|Boomer |Bomb   |Sub    |Wizard |Boomer Sub Wizard|TZELMYL|N
+|Ezili  |Boomer |Sub    |Wizard |The Mochinator|TZELMYL|N
+|Pat    |Boomer |Sub    |Wizard |The Mochinator|TZELMYL|N
+|Obyn   |Boomer |Sub    |Wizard |The Mochinator|TZELMYL|N
+|Striker|Boomer |Sub    |Wizard |The Mochinator|TZELMYL|N
+|Gwen   |Boomer |Sub    |Wizard |The Mochinator|TZELMYL|N
+|Boomer |Sub    |Wizard |Village|The Mochinator|TZELMYL|N
+|Boomer |Sub    |Wizard |Druid  |The Mochinator|TZELMYL|N
+|Boomer |Glue   |Sub    |Wizard |The Mochinator|TZELMYL|N
+|Boomer |Bomb   |Sub    |Wizard |The Mochinator|TZELMYL|N
 |Ezili  |Bomb   |Heli   |Ninja  |Agent51|EZELMLO|N
 |Pat    |Bomb   |Heli   |Ninja  |Agent51|EZELMLO|N
 |Striker|Bomb   |Heli   |Ninja  |Agent51|EZELMLO|N
@@ -4669,17 +4669,17 @@
 |Ezili  |Tack   |Ice    |Super  |the_op_boss|DZELGUT|N
 |Pat    |Wizard |Super  |Village|Agent51|XZELGUP|N
 |Pat    |Sniper |Wizard |Super  |Agent51|XZELGUP|N
-|Ezili  |Bucc   |Heli   |Super  |Boat Heli Super|PZELGVX|N
-|Striker|Bucc   |Heli   |Super  |Boat Heli Super|PZELGVX|N
-|Gwen   |Bucc   |Heli   |Super  |Boat Heli Super|PZELGVX|N
-|Bucc   |Heli   |Super  |Druid  |Boat Heli Super|PZELGVX|N
-|Bucc   |Heli   |Super  |Ninja  |Boat Heli Super|PZELGVX|N
-|Bucc   |Heli   |Mortar |Super  |Boat Heli Super|PZELGVX|N
-|Glue   |Bucc   |Heli   |Super  |Boat Heli Super|PZELGVX|N
-|Ice    |Bucc   |Heli   |Super  |Boat Heli Super|PZELGVX|N
-|Tack   |Bucc   |Heli   |Super  |Boat Heli Super|PZELGVX|N
-|Boomer |Bucc   |Heli   |Super  |Boat Heli Super|PZELGVX|N
-|Dart   |Bucc   |Heli   |Super  |Boat Heli Super|PZELGVX|N
+|Ezili  |Bucc   |Heli   |Super  |The Mochinator|PZELGVX|N
+|Striker|Bucc   |Heli   |Super  |The Mochinator|PZELGVX|N
+|Gwen   |Bucc   |Heli   |Super  |The Mochinator|PZELGVX|N
+|Bucc   |Heli   |Super  |Druid  |The Mochinator|PZELGVX|N
+|Bucc   |Heli   |Super  |Ninja  |The Mochinator|PZELGVX|N
+|Bucc   |Heli   |Mortar |Super  |The Mochinator|PZELGVX|N
+|Glue   |Bucc   |Heli   |Super  |The Mochinator|PZELGVX|N
+|Ice    |Bucc   |Heli   |Super  |The Mochinator|PZELGVX|N
+|Tack   |Bucc   |Heli   |Super  |The Mochinator|PZELGVX|N
+|Boomer |Bucc   |Heli   |Super  |The Mochinator|PZELGVX|N
+|Dart   |Bucc   |Heli   |Super  |The Mochinator|PZELGVX|N
 |Striker|Sniper |Wizard |Super  |Agent51|OZELGTG|N
 |Gwen   |Sniper |Wizard |Super  |Agent51|OZELGTG|N
 |Sniper |Wizard |Super  |Village|Agent51|OZELGTG|N
