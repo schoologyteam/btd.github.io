@@ -2665,7 +2665,6 @@
 |Gwen   |Sub    |Bucc   |Druid  |
 |Gwen   |Sub    |Bucc   |Spact  |
 |Gwen   |Sub    |Bucc   |Village|
-|Gwen   |Sub    |Ace    |Mortar |
 |Gwen   |Sub    |Ace    |Druid  |
 |Gwen   |Sub    |Ace    |Village|
 |Gwen   |Sub    |Mortar |Ninja  |
@@ -2937,7 +2936,6 @@
 |Striker|Boomer |Ace    |Spact  |
 |Striker|Boomer |Ace    |Village|
 |Striker|Boomer |Heli   |Super  |
-|Striker|Boomer |Heli   |Ninja  |
 |Striker|Boomer |Heli   |Druid  |
 |Striker|Boomer |Heli   |Village|
 |Striker|Boomer |Mortar |Super  |
@@ -3080,7 +3078,6 @@
 |Striker|Tack   |Ace    |Village|
 |Striker|Tack   |Heli   |Mortar |
 |Striker|Tack   |Heli   |Super  |
-|Striker|Tack   |Heli   |Ninja  |
 |Striker|Tack   |Heli   |Druid  |
 |Striker|Tack   |Heli   |Spact  |
 |Striker|Tack   |Heli   |Village|
@@ -3163,7 +3160,6 @@
 |Striker|Glue   |Ace    |Ninja  |
 |Striker|Glue   |Ace    |Alch   |
 |Striker|Glue   |Ace    |Druid  |
-|Striker|Glue   |Heli   |Ninja  |
 |Striker|Glue   |Heli   |Druid  |
 |Striker|Glue   |Mortar |Ninja  |
 |Striker|Glue   |Mortar |Alch   |
@@ -3187,7 +3183,6 @@
 |Striker|Sniper |Ace    |Ninja  |
 |Striker|Sniper |Ace    |Alch   |
 |Striker|Sniper |Ace    |Druid  |
-|Striker|Sniper |Heli   |Ninja  |
 |Striker|Sniper |Heli   |Druid  |
 |Striker|Sniper |Mortar |Ninja  |
 |Striker|Sniper |Mortar |Alch   |
@@ -3230,7 +3225,6 @@
 |Striker|Bucc   |Ace    |Spact  |
 |Striker|Bucc   |Ace    |Village|
 |Striker|Bucc   |Heli   |Mortar |
-|Striker|Bucc   |Heli   |Ninja  |
 |Striker|Bucc   |Heli   |Druid  |
 |Striker|Bucc   |Heli   |Spact  |
 |Striker|Bucc   |Mortar |Super  |
@@ -3262,9 +3256,7 @@
 |Striker|Ace    |Druid  |Spact  |
 |Striker|Ace    |Druid  |Village|
 |Striker|Heli   |Mortar |Druid  |
-|Striker|Heli   |Super  |Ninja  |
 |Striker|Heli   |Super  |Druid  |
-|Striker|Heli   |Ninja  |Spact  |
 |Striker|Heli   |Druid  |Spact  |
 |Striker|Heli   |Druid  |Village|
 |Striker|Mortar |Super  |Ninja  |
@@ -3682,7 +3674,6 @@
 |Obyn   |Sub    |Mortar |Alch   |
 |Obyn   |Sub    |Mortar |Druid  |
 |Obyn   |Sub    |Mortar |Village|
-|Obyn   |Sub    |Wizard |Druid  |
 |Obyn   |Sub    |Wizard |Village|
 |Obyn   |Sub    |Ninja  |Druid  |
 |Obyn   |Sub    |Ninja  |Spact  |

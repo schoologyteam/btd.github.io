@@ -4805,3 +4805,12 @@
 |Pat    |Bomb   |Ninja  |Village|The Mochinator|BZELGLW|N
 |Pat    |Boomer |Ninja  |Village|The Mochinator|BZELGLW|N
 |Pat    |Dart   |Ninja  |Village|The Mochinator|BZELGLW|N
+|Striker|Heli   |Ninja  |Spact  |Chocbox|FZELGOU|N
+|Striker|Heli   |Super  |Ninja  |Chocbox|FZELGOU|N
+|Striker|Bucc   |Heli   |Ninja  |Chocbox|FZELGOU|N
+|Striker|Sniper |Heli   |Ninja  |Chocbox|FZELGOU|N
+|Striker|Glue   |Heli   |Ninja  |Chocbox|FZELGOU|N
+|Striker|Tack   |Heli   |Ninja  |Chocbox|FZELGOU|N
+|Striker|Boomer |Heli   |Ninja  |Chocbox|FZELGOU|N
+|Gwen   |Sub    |Ace    |Mortar |killcrazy99|VZELGOV|N
+|Obyn   |Sub    |Wizard |Druid  |Valter|Azelgor|N

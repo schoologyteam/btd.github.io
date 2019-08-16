@@ -27,6 +27,7 @@ loop:	while (true) {
 							   "Display combos",
 							   "Search combos",
 							   "Read/write to combo files",
+							   "Leaderboard",
 							   "Exit");
 			
 			switch (getInput(0)) {
@@ -47,7 +48,7 @@ loop:	while (true) {
 						String[] strAr = str.split("\n");
 						
 						for (String s : strAr) {
-							String[] towerCombo = s.trim().split("|");
+							String[] towerCombo = s.trim().split("\\|");
 							ArrayList<String> combo = new ArrayList<>();
 							
 							for (String tower : towerCombo) {
@@ -156,9 +157,12 @@ loop:	while (true) {
 							break;
 						case 3: {
 							int removed = 0;
-							
 							ArrayList<String> spreadsheet = readFromComboFile("spreadsheet-combos");
 							ArrayList<String> moveToFile = readFromComboFile("completed-combos");
+							
+							if (spreadsheet == null || moveToFile == null) {
+								continue loop;
+							}
 							
 							for (String combo : spreadsheet) {
 								String[] components = combo.split("\t");
@@ -363,7 +367,7 @@ loop:	while (true) {
 										impossibleChanged = true;
 										movedToImpossible++;
 									} else {
-										remainingCombos.set(i, combo.substring(0, combo.lastIndexOf("|")));
+										remainingCombos.set(i, combo.substring(0, combo.lastIndexOf("\\|")));
 										remainingChanged = true;
 									}
 								}
@@ -410,7 +414,59 @@ loop:	while (true) {
 							break; }
 					}
 					break; }
-				case 7:
+				case 7: {
+					displayOptionsMenu(1, "Options",
+									   "Display leaderboard",
+									   "Update file \"leaderboard\"",
+									   "Search for player");
+					
+					switch (getInput(1)) {
+						case 1: {
+							if (displayCombos("leaderboard") == null) {
+								continue loop;
+							}
+							
+							break; }
+						case 2: {
+							ArrayList<String> completedCombos = readFromComboFile("completed-combos");
+							ArrayList<String> leaderboard = new ArrayList<>();
+							
+				searchLoop:	for (String combo : completedCombos) {
+								String[] completion = combo.split("\\|");
+								
+								if (completion.length < 6) {
+									continue searchLoop;
+								}
+								
+								String name = completion[5];
+								
+								for (int i = 0; i < leaderboard.size(); i++) {
+									String entry = leaderboard.get(i);
+									
+									if (entry.substring(0, entry.indexOf(":")).equals(name)) {
+										int numOfCombos = Integer.valueOf(entry.substring(entry.indexOf(":") + 2));
+										leaderboard.set(i, name + ": " + (numOfCombos + 1));
+										continue searchLoop;
+									}
+								}
+								
+								leaderboard.add(name + ": 1");
+							}
+							
+							leaderboard.sort((o1, o2) -> {
+								return (Integer.valueOf(o2.substring(o2.indexOf(":") + 2)) -
+										Integer.valueOf(o1.substring(o1.indexOf(":") + 2)));
+							});
+							
+							writeToComboFile("leaderboard", leaderboard);
+							break; }
+						case 3:
+							System.out.print("\n\tEnter player name: ");
+							String name = scanner.nextLine();
+					}
+					
+					break; }
+				case 8:
 					System.exit(0);
 					break;
 			}
