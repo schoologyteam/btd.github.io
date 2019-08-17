@@ -12,7 +12,7 @@ public class BTD6_4TC {
 		Random r = new Random();
 		Scanner scanner = new Scanner(System.in);
 		ArrayList<String> combos = new ArrayList<>();
-		combos = readFromComboFile("remaining-combos");
+		combos = readFromFile("remaining-combos");
 		
 		if (combos == null) {
 			System.exit(0);
@@ -33,7 +33,7 @@ loop:	while (true) {
 			switch (getInput(0)) {
 				case 1: {
 					int removed = 0;
-					ArrayList<String> toCompletedCombos = readFromComboFile("completed-combos");
+					ArrayList<String> toCompletedCombos = readFromFile("completed-combos");
 					
 					if (toCompletedCombos == null) {
 						continue loop;
@@ -118,7 +118,7 @@ loop:	while (true) {
 					}
 					
 					int removed = 0;
-					ArrayList<String> toImpossibleCombos = readFromComboFile("impossible-combos");
+					ArrayList<String> toImpossibleCombos = readFromFile("impossible-combos");
 					
 					if (toImpossibleCombos == null) {
 						continue loop;
@@ -157,8 +157,8 @@ loop:	while (true) {
 							break;
 						case 3: {
 							int removed = 0;
-							ArrayList<String> spreadsheet = readFromComboFile("spreadsheet-combos");
-							ArrayList<String> moveToFile = readFromComboFile("completed-combos");
+							ArrayList<String> spreadsheet = readFromFile("spreadsheet-combos");
+							ArrayList<String> moveToFile = readFromFile("completed-combos");
 							
 							if (spreadsheet == null || moveToFile == null) {
 								continue loop;
@@ -193,7 +193,7 @@ loop:	while (true) {
 					}
 					
 					ArrayList<String> towerCombo = new ArrayList<>();
-					ArrayList<String> moveToFile = readFromComboFile(toCompleted ? "completed-combos" : "impossible-combos");
+					ArrayList<String> moveToFile = readFromFile(toCompleted ? "completed-combos" : "impossible-combos");
 					
 					if (moveToFile == null) {
 						continue loop;
@@ -270,7 +270,7 @@ loop:	while (true) {
 							break;
 						case 5:
 							while (true) {
-								ArrayList<String> remainingCombos = readFromComboFile("remaining-combos");
+								ArrayList<String> remainingCombos = readFromFile("remaining-combos");
 								System.out.println(remainingCombos.get(r.nextInt(remainingCombos.size())));
 								System.out.print("Another? (y/n): ");
 								String input = scanner.nextLine();
@@ -336,9 +336,9 @@ loop:	while (true) {
 							writeToComboFile("all-combos", comboList);
 							break; }
 						case 2: {
-							ArrayList<String> remainingCombos = readFromComboFile("remaining-combos");
-							ArrayList<String> completedCombos = readFromComboFile("completed-combos");
-							ArrayList<String> impossibleCombos = readFromComboFile("impossible-combos");
+							ArrayList<String> remainingCombos = readFromFile("remaining-combos");
+							ArrayList<String> completedCombos = readFromFile("completed-combos");
+							ArrayList<String> impossibleCombos = readFromFile("impossible-combos");
 							
 							if (remainingCombos == null || completedCombos == null || impossibleCombos == null) {
 								continue loop;
@@ -402,7 +402,7 @@ loop:	while (true) {
 								case 2: continue loop;
 							}
 							
-							combos = readFromComboFile("all-combos");
+							combos = readFromFile("all-combos");
 							
 							if (combos == null) {
 								continue loop;
@@ -428,7 +428,7 @@ loop:	while (true) {
 							
 							break; }
 						case 2: {
-							ArrayList<String> completedCombos = readFromComboFile("completed-combos");
+							ArrayList<String> completedCombos = readFromFile("completed-combos");
 							ArrayList<String> leaderboard = new ArrayList<>();
 							
 				searchLoop:	for (String combo : completedCombos) {
@@ -463,6 +463,21 @@ loop:	while (true) {
 						case 3:
 							System.out.print("\n\tEnter player name: ");
 							String name = scanner.nextLine();
+							ArrayList<String> leaderboard = readFromFile("leaderboard");
+							
+							if (leaderboard == null) {
+								continue loop;
+							}
+							
+							for (String player : leaderboard) {
+								if (player.substring(0, player.indexOf(":")).equals(name)) {
+									System.out.println("\tThis player has " + player.substring(player.indexOf(":") + 2) + " combos");
+									continue loop;
+								}
+							}
+							
+							System.out.println("Player not found!");
+							break;
 					}
 					
 					break; }
@@ -567,7 +582,7 @@ loop:	while (true) {
 		}
 	}
 
-	public static ArrayList<String> readFromComboFile(String fileName) {
+	public static ArrayList<String> readFromFile(String fileName) {
 		try (DataInputStream dataIn = new DataInputStream(new FileInputStream(fileName + ".txt"))) {
 			byte[] inbuf = new byte[1000000];
 			dataIn.read(inbuf);
