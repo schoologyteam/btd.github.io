@@ -5658,3 +5658,46 @@
 |Tack   |Ice    |Ace    |Super  |rigged|FZELAOU|N
 |Boomer |Bomb   |Bucc   |Village|Gavo38322|KZELBFA|N
 |Obyn   |Tack   |Alch   |Village|JAMESZ|UZELBGH|N
+|Ezili  |Glue   |Ace    |Ninja  |KaptainKrunche|YZELBVY|N
+|Pat    |Glue   |Ace    |Ninja  |KaptainKrunche|YZELBVY|N
+|Obyn   |Glue   |Ace    |Ninja  |KaptainKrunche|YZELBVY|N
+|Striker|Glue   |Ace    |Ninja  |KaptainKrunche|YZELBVY|N
+|Gwen   |Glue   |Ace    |Ninja  |KaptainKrunche|YZELBVY|N
+|Quincy |Glue   |Ace    |Ninja  |KaptainKrunche|YZELBVY|N
+|Glue   |Ace    |Ninja  |Druid  |KaptainKrunche|YZELBVY|N
+|Glue   |Sniper |Ace    |Ninja  |KaptainKrunche|YZELBVY|N
+|Ice    |Glue   |Ace    |Ninja  |KaptainKrunche|YZELBVY|N
+|Tack   |Glue   |Ace    |Ninja  |KaptainKrunche|YZELBVY|N
+|Bomb   |Glue   |Ace    |Ninja  |KaptainKrunche|YZELBVY|N
+|Dart   |Glue   |Ace    |Ninja  |KaptainKrunche|YZELBVY|N
+|Striker|Bucc   |Ace    |Ninja  |Char|LZELBTM|N
+|Quincy |Bucc   |Ace    |Ninja  |Char|LZELBTM|N
+|Bucc   |Ace    |Ninja  |Druid  |Char|LZELBTM|N
+|Sniper |Bucc   |Ace    |Ninja  |Char|LZELBTM|N
+|Ice    |Bucc   |Ace    |Ninja  |Char|LZELBTM|N
+|Tack   |Bucc   |Ace    |Ninja  |Char|LZELBTM|N
+|Bomb   |Bucc   |Ace    |Ninja  |Char|LZELBTM|N
+|Dart   |Bucc   |Ace    |Ninja  |Char|LZELBTM|N
+|Ezili  |Ace    |Super  |Alch   |rigged|DZELBTA|N
+|Church |Ace    |Super  |Alch   |rigged|DZELBTA|N
+|Striker|Ace    |Super  |Alch   |rigged|DZELBTA|N
+|Gwen   |Ace    |Super  |Alch   |rigged|DZELBTA|N
+|Ace    |Super  |Alch   |Village|rigged|DZELBTA|N
+|Ace    |Mortar |Super  |Alch   |rigged|DZELBTA|N
+|Church |Tack   |Heli   |Super  |The Mochinator|GZELBXR|N
+|Pat    |Tack   |Heli   |Super  |The Mochinator|GZELBXR|N
+|Striker|Tack   |Heli   |Super  |The Mochinator|GZELBXR|N
+|Gwen   |Tack   |Heli   |Super  |The Mochinator|GZELBXR|N
+|Tack   |Heli   |Super  |Spact  |The Mochinator|GZELBXR|N
+|Tack   |Sniper |Heli   |Super  |The Mochinator|GZELBXR|N
+|Tack   |Glue   |Heli   |Super  |The Mochinator|GZELBXR|N
+|Tack   |Ice    |Heli   |Super  |The Mochinator|GZELBXR|N
+|Ezili  |Bucc   |Heli   |Spact  |the_op_boss|BZELBXW|N
+|Church |Bucc   |Heli   |Spact  |the_op_boss|BZELBXW|N
+|Striker|Bucc   |Heli   |Spact  |the_op_boss|BZELBXW|N
+|Gwen   |Bucc   |Heli   |Spact  |the_op_boss|BZELBXW|N
+|Bucc   |Heli   |Druid  |Spact  |the_op_boss|BZELBXW|N
+|Sniper |Bucc   |Heli   |Spact  |the_op_boss|BZELBXW|N
+|Glue   |Bucc   |Heli   |Spact  |the_op_boss|BZELBXW|N
+|Ice    |Bucc   |Heli   |Spact  |the_op_boss|BZELBXW|N
+|Tack   |Bucc   |Heli   |Spact  |the_op_boss|BZELBXW|N

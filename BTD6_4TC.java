@@ -356,13 +356,13 @@ loop:	while (true) {
 								if (strAr.length >= 6) {
 									String combo = remainingCombos.get(i);
 									
-									if (strAr[5].equals("!")) {
-										completedCombos.add(combo.replace("!", ""));
+									if (strAr[5].equals("\t!")) {
+										completedCombos.add(combo.replace("\t!", ""));
 										remainingCombos.remove(i);
 										completedChanged = true;
 										movedToCompleted++;
-									} else if (strAr[5].equals("?")) {
-										impossibleCombos.add(combo.replace("?", ""));
+									} else if (strAr[5].equals("\t?")) {
+										impossibleCombos.add(combo.replace("\t?", ""));
 										remainingCombos.remove(i);
 										impossibleChanged = true;
 										movedToImpossible++;

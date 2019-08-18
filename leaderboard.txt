@@ -1,12 +1,12 @@
 RandyZ524: 195
 Agent51: 165
 coolio1223: 157
-The Mochinator: 132
-the_op_boss: 121
-rigged: 121
+The Mochinator: 140
+the_op_boss: 130
+rigged: 127
 frds: 104
+Char: 86
 315Lukas: 81
-Char: 78
 meta: 74
 Urinetosh: 70
 Topaz: 70
@@ -26,6 +26,7 @@ Uniquepotatoes: 13
 RainbowDox: 13
 Mr-Samson: 12
 samhulk99: 12
+KaptainKrunche: 12
 powergo: 11
 The Line: 11
 Mlop098: 9
