@@ -5701,3 +5701,83 @@
 |Glue   |Bucc   |Heli   |Spact  |the_op_boss|BZELBXW|N
 |Ice    |Bucc   |Heli   |Spact  |the_op_boss|BZELBXW|N
 |Tack   |Bucc   |Heli   |Spact  |the_op_boss|BZELBXW|N
+|Quincy |Boomer |Sub    |Bucc   |coolio1223|WZELBBB|N
+|Ezili  |Tack   |Heli   |Spact  |The Mochinator|OZELBCT|N
+|Church |Tack   |Heli   |Spact  |The Mochinator|OZELBCT|N
+|Pat    |Tack   |Heli   |Spact  |The Mochinator|OZELBCT|N
+|Striker|Tack   |Heli   |Spact  |The Mochinator|OZELBCT|N
+|Gwen   |Tack   |Heli   |Spact  |The Mochinator|OZELBCT|N
+|Tack   |Heli   |Druid  |Spact  |The Mochinator|OZELBCT|N
+|Tack   |Sniper |Heli   |Spact  |The Mochinator|OZELBCT|N
+|Tack   |Glue   |Heli   |Spact  |The Mochinator|OZELBCT|N
+|Tack   |Ice    |Heli   |Spact  |The Mochinator|OZELBCT|N
+|Bomb   |Tack   |Heli   |Spact  |The Mochinator|OZELBCT|N
+|Striker|Bucc   |Ace    |Mortar |Char|HZELBSS|N
+|Quincy |Bucc   |Ace    |Mortar |Char|HZELBSS|N
+|Bucc   |Ace    |Mortar |Druid  |Char|HZELBSS|N
+|Sniper |Bucc   |Ace    |Mortar |Char|HZELBSS|N
+|Ice    |Bucc   |Ace    |Mortar |Char|HZELBSS|N
+|Tack   |Bucc   |Ace    |Mortar |Char|HZELBSS|N
+|Bomb   |Bucc   |Ace    |Mortar |Char|HZELBSS|N
+|Gwen   |Boomer |Bucc   |Village|popnovice0313|MZELBEA|N
+|Striker|Boomer |Bucc   |Ace    |Char|LZELBPG|N
+|Quincy |Boomer |Bucc   |Ace    |Char|LZELBPG|N
+|Boomer |Bucc   |Ace    |Druid  |Char|LZELBPG|N
+|Boomer |Sniper |Bucc   |Ace    |Char|LZELBPG|N
+|Boomer |Ice    |Bucc   |Ace    |Char|LZELBPG|N
+|Boomer |Tack   |Bucc   |Ace    |Char|LZELBPG|N
+|Boomer |Bomb   |Bucc   |Ace    |Char|LZELBPG|N
+|Dart   |Boomer |Bucc   |Ace    |Char|LZELBPG|N
+|Pat    |Sub    |Bucc   |Spact  |laxx|BZELCGC|N
+|Pat    |Sub    |Bucc   |Druid  |laxx|BZELCGC|N
+|Pat    |Sub    |Bucc   |Ninja  |laxx|BZELCGC|N
+|Pat    |Glue   |Sub    |Bucc   |laxx|BZELCGC|N
+|Pat    |Ice    |Sub    |Bucc   |laxx|BZELCGC|N
+|Pat    |Tack   |Sub    |Bucc   |laxx|BZELCGC|N
+|Pat    |Bomb   |Sub    |Bucc   |laxx|BZELCGC|N
+|Pat    |Boomer |Sub    |Bucc   |laxx|BZELCGC|N
+|Pat    |Dart   |Sub    |Bucc   |laxx|BZELCGC|N
+|Obyn   |Ice    |Wizard |Village|RainbowDox|KZELCVB|N
+|Ezili  |Heli   |Druid  |Spact  |the_op_boss|PZELCVC|N
+|Church |Heli   |Druid  |Spact  |the_op_boss|PZELCVC|N
+|Pat    |Heli   |Druid  |Spact  |the_op_boss|PZELCVC|N
+|Striker|Heli   |Druid  |Spact  |the_op_boss|PZELCVC|N
+|Gwen   |Heli   |Druid  |Spact  |the_op_boss|PZELCVC|N
+|Sniper |Heli   |Druid  |Spact  |the_op_boss|PZELCVC|N
+|Glue   |Heli   |Druid  |Spact  |the_op_boss|PZELCVC|N
+|Ice    |Heli   |Druid  |Spact  |the_op_boss|PZELCVC|N
+|Obyn   |Glue   |Wizard |Druid  |RainbowDox|LZELCAL|N
+|Obyn   |Ice    |Wizard |Druid  |RainbowDox|LZELCAL|N
+|Obyn   |Tack   |Wizard |Druid  |RainbowDox|LZELCAL|N
+|Obyn   |Bomb   |Wizard |Druid  |RainbowDox|LZELCAL|N
+|Obyn   |Boomer |Wizard |Druid  |RainbowDox|LZELCAL|N
+|Pat    |Dart   |Super  |Spact  |the_op_boss|UZELCSX|N
+|Striker|Dart   |Super  |Spact  |the_op_boss|UZELCSX|N
+|Dart   |Super  |Spact  |Village|the_op_boss|UZELCSX|N
+|Dart   |Super  |Ninja  |Spact  |the_op_boss|UZELCSX|N
+|Dart   |Sniper |Super  |Spact  |the_op_boss|UZELCSX|N
+|Dart   |Glue   |Super  |Spact  |the_op_boss|UZELCSX|N
+|Dart   |Tack   |Super  |Spact  |the_op_boss|UZELCSX|N
+|Bucc   |Ninja  |Spact  |Village|Banana 23|YZELBVA|N
+|Church |Super  |Ninja  |Spact  |Valter|CZELCPS|N
+|Church |Super  |Ninja  |Druid  |Valter|CZELCPS|N
+|Church |Mortar |Super  |Ninja  |Valter|CZELCPS|N
+|Church |Sniper |Super  |Ninja  |Valter|CZELCPS|N
+|Church |Glue   |Super  |Ninja  |Valter|CZELCPS|N
+|Church |Ice    |Super  |Ninja  |Valter|CZELCPS|N
+|Church |Tack   |Super  |Ninja  |Valter|CZELCPS|N
+|Church |Dart   |Mortar |Village|Great Mage|HZELSUK|N
+|Church |Dart   |Mortar |Druid  |Great Mage|HZELSUK|N
+|Church |Dart   |Mortar |Alch   |Great Mage|HZELSUK|N
+|Church |Dart   |Mortar |Ninja  |Great Mage|HZELSUK|N
+|Church |Dart   |Sub    |Mortar |Great Mage|HZELSUK|N
+|Church |Dart   |Sniper |Mortar |Great Mage|HZELSUK|N
+|Church |Dart   |Glue   |Mortar |Great Mage|HZELSUK|N
+|Church |Dart   |Ice    |Mortar |Great Mage|HZELSUK|N
+|Church |Dart   |Tack   |Mortar |Great Mage|HZELSUK|N
+|Church |Dart   |Bomb   |Mortar |Great Mage|HZELSUK|N
+|Church |Dart   |Boomer |Mortar |Great Mage|HZELSUK|N
+|Obyn   |Dart   |Druid  |Spact  |KaptainKrunche|XZELSWT|N
+|Obyn   |Dart   |Druid  |Village|KaptainKrunche|EZELSAV|N
+|Obyn   |Boomer |Sub    |Village|Amanensia|YZELSCS|N
+|Obyn   |Dart   |Mortar |Village|KaptainKrunche|DZELSSS|N

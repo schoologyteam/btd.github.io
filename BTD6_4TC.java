@@ -179,7 +179,7 @@ loop:	while (true) {
 										}
 									}
 									
-									moveToFile.add(combos.get(i) + components[2] + "|" + components[3] + "|N");
+									moveToFile.add(combos.get(i) + components[2] + "|" + components[3].toUpperCase() + "|N");
 									combos.remove(i);
 									removed++;
 								}

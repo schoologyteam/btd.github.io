@@ -1,16 +1,16 @@
 RandyZ524: 195
 Agent51: 165
-coolio1223: 157
-The Mochinator: 140
-the_op_boss: 130
+coolio1223: 158
+The Mochinator: 150
+the_op_boss: 145
 rigged: 127
 frds: 104
-Char: 86
+Char: 101
 315Lukas: 81
 meta: 74
 Urinetosh: 70
 Topaz: 70
-Great Mage: 51
+Great Mage: 62
 PEZmaster2: 49
 UnLapiz: 43
 Chocbox: 39
@@ -20,24 +20,26 @@ Gavo38322: 35
 Smurfblade: 32
 Jollto13: 24
 rmlgaming: 20
+RainbowDox: 19
 Lookatmeimamod: 18
+KaptainKrunche: 15
 Uniquepotatoes: 13
 411i0tt: 13
-RainbowDox: 13
 Mr-Samson: 12
 samhulk99: 12
-KaptainKrunche: 12
 powergo: 11
 The Line: 11
 Mlop098: 9
 TheKNEE13: 9
+laxx: 9
+Valter: 8
 LightChaosman: 7
 Kyle Robinson: 6
 killcrazy99: 5
 Kholdstare: 5
+Amanensia: 4
 rouge_bare: 4
 LoveBrothers: 4
-Amanensia: 3
 Michael Volz: 3
 Overeasybacon: 2
 DespacitoMage: 2
@@ -52,7 +54,6 @@ Charipi: 1
 Drens_: 1
 Maxwell_555: 1
 Mewlv100: 1
-Valter: 1
 Anonymous: 1
 AngelBlades1: 1
 ForbiddenGroot: 1
@@ -60,3 +61,5 @@ Armyhammerbro: 1
 shadownavi64: 1
 Mattyice0401: 1
 JAMESZ: 1
+popnovice0313: 1
+Banana 23: 1
