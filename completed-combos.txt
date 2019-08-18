@@ -5618,3 +5618,43 @@
 |Dart   |Super  |Druid  |Spact  |samhulk99|VZELAAC|N
 |Ezili  |Bucc   |Super  |Druid  |Agent51|RZELADC|N
 |Ezili  |Bucc   |Super  |Ninja  |Agent51|RZELADC|N
+|Quincy |Boomer |Glue   |Village|shadownavi64|WZELAEB|N
+|Quincy |Bucc   |Alch   |Village|the_op_boss|GZELAES|N
+|Quincy |Bucc   |Alch   |Druid  |the_op_boss|GZELAES|N
+|Quincy |Glue   |Bucc   |Alch   |the_op_boss|GZELAES|N
+|Quincy |Ice    |Bucc   |Alch   |the_op_boss|GZELAES|N
+|Quincy |Tack   |Bucc   |Alch   |the_op_boss|GZELAES|N
+|Quincy |Bomb   |Bucc   |Alch   |the_op_boss|GZELAES|N
+|Quincy |Boomer |Bucc   |Alch   |the_op_boss|GZELAES|N
+|Quincy |Dart   |Bucc   |Alch   |the_op_boss|GZELAES|N
+|Sniper |Bucc   |Ninja  |Druid  |Mattyice0401|SZELAED|N
+|Pat    |Dart   |Ice    |Super  |TheKNEE13|LZELAYM|N
+|Striker|Dart   |Ice    |Super  |TheKNEE13|LZELAYM|N
+|Dart   |Ice    |Super  |Village|TheKNEE13|LZELAYM|N
+|Dart   |Ice    |Super  |Spact  |TheKNEE13|LZELAYM|N
+|Dart   |Ice    |Super  |Druid  |TheKNEE13|LZELAYM|N
+|Dart   |Ice    |Super  |Ninja  |TheKNEE13|LZELAYM|N
+|Dart   |Ice    |Sniper |Super  |TheKNEE13|LZELAYM|N
+|Dart   |Ice    |Glue   |Super  |TheKNEE13|LZELAYM|N
+|Dart   |Tack   |Ice    |Super  |TheKNEE13|LZELAYM|N
+|Ezili  |Ice    |Heli   |Spact  |The Mochinator|VZELALL|N
+|Ezili  |Ice    |Heli   |Druid  |The Mochinator|VZELALL|N
+|Ezili  |Ice    |Heli   |Super  |The Mochinator|VZELALL|N
+|Ezili  |Ice    |Heli   |Mortar |The Mochinator|VZELALL|N
+|Ezili  |Ice    |Bucc   |Heli   |The Mochinator|VZELALL|N
+|Ezili  |Ice    |Sniper |Heli   |The Mochinator|VZELALL|N
+|Ezili  |Ice    |Glue   |Heli   |The Mochinator|VZELALL|N
+|Ezili  |Tack   |Ice    |Heli   |The Mochinator|VZELALL|N
+|Ezili  |Bomb   |Ice    |Heli   |The Mochinator|VZELALL|N
+|Ezili  |Boomer |Ice    |Heli   |The Mochinator|VZELALL|N
+|Ezili  |Dart   |Ice    |Heli   |The Mochinator|VZELALL|N
+|Church |Tack   |Ace    |Super  |rigged|FZELAOU|N
+|Pat    |Tack   |Ace    |Super  |rigged|FZELAOU|N
+|Striker|Tack   |Ace    |Super  |rigged|FZELAOU|N
+|Gwen   |Tack   |Ace    |Super  |rigged|FZELAOU|N
+|Tack   |Ace    |Super  |Alch   |rigged|FZELAOU|N
+|Tack   |Sniper |Ace    |Super  |rigged|FZELAOU|N
+|Tack   |Glue   |Ace    |Super  |rigged|FZELAOU|N
+|Tack   |Ice    |Ace    |Super  |rigged|FZELAOU|N
+|Boomer |Bomb   |Bucc   |Village|Gavo38322|KZELBFA|N
+|Obyn   |Tack   |Alch   |Village|JAMESZ|UZELBGH|N

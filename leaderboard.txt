@@ -1,9 +1,9 @@
 RandyZ524: 195
 Agent51: 165
 coolio1223: 157
-The Mochinator: 121
-the_op_boss: 113
-rigged: 113
+The Mochinator: 132
+the_op_boss: 121
+rigged: 121
 frds: 104
 315Lukas: 81
 Char: 78
@@ -16,7 +16,7 @@ UnLapiz: 43
 Chocbox: 39
 123CrimsonRain: 36
 TobiBloon439: 36
-Gavo38322: 34
+Gavo38322: 35
 Smurfblade: 32
 Jollto13: 24
 rmlgaming: 20
@@ -29,6 +29,7 @@ samhulk99: 12
 powergo: 11
 The Line: 11
 Mlop098: 9
+TheKNEE13: 9
 LightChaosman: 7
 Kyle Robinson: 6
 killcrazy99: 5
@@ -55,3 +56,6 @@ Anonymous: 1
 AngelBlades1: 1
 ForbiddenGroot: 1
 Armyhammerbro: 1
+shadownavi64: 1
+Mattyice0401: 1
+JAMESZ: 1
