@@ -5781,3 +5781,90 @@
 |Obyn   |Dart   |Druid  |Village|KaptainKrunche|EZELSAV|N
 |Obyn   |Boomer |Sub    |Village|Amanensia|YZELSCS|N
 |Obyn   |Dart   |Mortar |Village|KaptainKrunche|DZELSSS|N
+|Obyn   |Dart   |Mortar |Alch   |KaptainKrunche|KZELSLL|N
+|Gwen   |Bucc   |Druid  |Village|RainbowDox|WZELDGK|N
+|Gwen   |Ninja  |Druid  |Spact  |ThinkHam|UZELDGU|N
+|Obyn   |Dart   |Sub    |Mortar |KaptainKrunche|AZELDHA|N
+|Church |Alch   |Spact  |Village|The Mochinator|GZELDVF|N
+|Church |Alch   |Druid  |Spact  |The Mochinator|GZELDVF|N
+|Church |Mortar |Alch   |Spact  |The Mochinator|GZELDVF|N
+|Church |Sub    |Alch   |Spact  |The Mochinator|GZELDVF|N
+|Church |Sniper |Alch   |Spact  |The Mochinator|GZELDVF|N
+|Church |Glue   |Alch   |Spact  |The Mochinator|GZELDVF|N
+|Church |Ice    |Alch   |Spact  |The Mochinator|GZELDVF|N
+|Church |Tack   |Alch   |Spact  |The Mochinator|GZELDVF|N
+|Church |Bomb   |Alch   |Spact  |The Mochinator|GZELDVF|N
+|Church |Boomer |Alch   |Spact  |The Mochinator|GZELDVF|N
+|Church |Dart   |Alch   |Spact  |The Mochinator|GZELDVF|N
+|Obyn   |Dart   |Ice    |Mortar |KaptainKrunche|RZELDWD|N
+|Quincy |Bomb   |Spact  |Village|frds|EZELDXS|N
+|Quincy |Bomb   |Druid  |Spact  |frds|EZELDXS|N
+|Quincy |Bomb   |Ninja  |Spact  |frds|EZELDXS|N
+|Quincy |Bomb   |Mortar |Spact  |frds|EZELDXS|N
+|Quincy |Bomb   |Bucc   |Spact  |frds|EZELDXS|N
+|Quincy |Bomb   |Sub    |Spact  |frds|EZELDXS|N
+|Quincy |Bomb   |Glue   |Spact  |frds|EZELDXS|N
+|Quincy |Bomb   |Ice    |Spact  |frds|EZELDXS|N
+|Quincy |Bomb   |Tack   |Spact  |frds|EZELDXS|N
+|Quincy |Dart   |Bomb   |Spact  |frds|EZELDXS|N
+|Pat    |Tack   |Glue   |Sub    |DespacitoMage |OZELDBH|N
+|Dart   |Bucc   |Alch   |Village|AKNIGHT49|TZELDBO|N
+|Striker|Ice    |Bucc   |Ace    |Char|TZELDSF|N
+|Quincy |Ice    |Bucc   |Ace    |Char|TZELDSF|N
+|Ice    |Bucc   |Ace    |Druid  |Char|TZELDSF|N
+|Ice    |Sniper |Bucc   |Ace    |Char|TZELDSF|N
+|Tack   |Ice    |Bucc   |Ace    |Char|TZELDSF|N
+|Bomb   |Ice    |Bucc   |Ace    |Char|TZELDSF|N
+|Dart   |Ice    |Bucc   |Ace    |Char|TZELDSF|N
+|Obyn   |Tack   |Druid  |Village|killcrazy99|EZELDDT|N
+|Ezili  |Dart   |Bucc   |Mortar |Great Mage|LZELDPE|N
+|Obyn   |Dart   |Bucc   |Mortar |Great Mage|LZELDPE|N
+|Striker|Dart   |Bucc   |Mortar |Great Mage|LZELDPE|N
+|Gwen   |Dart   |Bucc   |Mortar |Great Mage|LZELDPE|N
+|Quincy |Dart   |Bucc   |Mortar |Great Mage|LZELDPE|N
+|Dart   |Bucc   |Mortar |Village|Great Mage|LZELDPE|N
+|Dart   |Bucc   |Mortar |Druid  |Great Mage|LZELDPE|N
+|Dart   |Bucc   |Mortar |Ninja  |Great Mage|LZELDPE|N
+|Dart   |Sub    |Bucc   |Mortar |Great Mage|LZELDPE|N
+|Dart   |Sniper |Bucc   |Mortar |Great Mage|LZELDPE|N
+|Dart   |Glue   |Bucc   |Mortar |Great Mage|LZELDPE|N
+|Dart   |Ice    |Bucc   |Mortar |Great Mage|LZELDPE|N
+|Dart   |Tack   |Bucc   |Mortar |Great Mage|LZELDPE|N
+|Dart   |Bomb   |Bucc   |Mortar |Great Mage|LZELDPE|N
+|Dart   |Boomer |Bucc   |Mortar |Great Mage|LZELDPE|N
+|Striker|Dart   |Bucc   |Ace    |Char|WZELDYG|N
+|Quincy |Dart   |Bucc   |Ace    |Char|WZELDYG|N
+|Dart   |Bucc   |Ace    |Druid  |Char|WZELDYG|N
+|Dart   |Sniper |Bucc   |Ace    |Char|WZELDYG|N
+|Dart   |Tack   |Bucc   |Ace    |Char|WZELDYG|N
+|Dart   |Bomb   |Bucc   |Ace    |Char|WZELDYG|N
+|Bucc   |Alch   |Druid  |Village|AKNIGHT49|PZELEMT|N
+|Boomer |Super  |Druid  |Village|Topaz|SZELEGO|N
+|Dart   |Super  |Druid  |Village|killcrazy99|FZELEVE|N
+|Glue   |Sub    |Bucc   |Mortar |AKNIGHT49|RZELEWM|N
+|Ezili  |Ace    |Mortar |Alch   |Chocbox|OZELEWP|N
+|Church |Ace    |Mortar |Alch   |Chocbox|OZELEWP|N
+|Obyn   |Ace    |Mortar |Alch   |Chocbox|OZELEWP|N
+|Striker|Ace    |Mortar |Alch   |Chocbox|OZELEWP|N
+|Gwen   |Ace    |Mortar |Alch   |Chocbox|OZELEWP|N
+|Ace    |Mortar |Alch   |Village|Chocbox|OZELEWP|N
+|Ace    |Mortar |Alch   |Druid  |Chocbox|OZELEWP|N
+|Sniper |Ace    |Mortar |Alch   |Chocbox|OZELEWP|N
+|Tack   |Ace    |Mortar |Alch   |Chocbox|OZELEWP|N
+|Bomb   |Ace    |Mortar |Alch   |Chocbox|OZELEWP|N
+|Ezili  |Bomb   |Ninja  |Spact  |frds|SZELETX|N
+|Church |Bomb   |Ninja  |Spact  |frds|SZELETX|N
+|Pat    |Bomb   |Ninja  |Spact  |frds|SZELETX|N
+|Striker|Bomb   |Ninja  |Spact  |frds|SZELETX|N
+|Gwen   |Bomb   |Ninja  |Spact  |frds|SZELETX|N
+|Bomb   |Ninja  |Spact  |Village|frds|SZELETX|N
+|Bomb   |Ninja  |Druid  |Spact  |frds|SZELETX|N
+|Bomb   |Mortar |Ninja  |Spact  |frds|SZELETX|N
+|Bomb   |Bucc   |Ninja  |Spact  |frds|SZELETX|N
+|Bomb   |Sub    |Ninja  |Spact  |frds|SZELETX|N
+|Bomb   |Sniper |Ninja  |Spact  |frds|SZELETX|N
+|Bomb   |Glue   |Ninja  |Spact  |frds|SZELETX|N
+|Bomb   |Ice    |Ninja  |Spact  |frds|SZELETX|N
+|Bomb   |Tack   |Ninja  |Spact  |frds|SZELETX|N
+|Boomer |Bomb   |Ninja  |Spact  |frds|SZELETX|N
+|Dart   |Bomb   |Ninja  |Spact  |frds|SZELETX|N
