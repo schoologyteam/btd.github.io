@@ -5868,3 +5868,89 @@
 |Bomb   |Tack   |Ninja  |Spact  |frds|SZELETX|N
 |Boomer |Bomb   |Ninja  |Spact  |frds|SZELETX|N
 |Dart   |Bomb   |Ninja  |Spact  |frds|SZELETX|N
+|Tack   |Mortar |Alch   |Spact  |Mestrophis|XZELEAA|N
+|Ezili  |Dart   |Ace    |Alch   |Char|DZELESP|N
+|Church |Dart   |Ace    |Alch   |Char|DZELESP|N
+|Obyn   |Dart   |Ace    |Alch   |Char|DZELESP|N
+|Striker|Dart   |Ace    |Alch   |Char|DZELESP|N
+|Gwen   |Dart   |Ace    |Alch   |Char|DZELESP|N
+|Dart   |Ace    |Alch   |Druid  |Char|DZELESP|N
+|Dart   |Sniper |Ace    |Alch   |Char|DZELESP|N
+|Dart   |Tack   |Ace    |Alch   |Char|DZELESP|N
+|Dart   |Bomb   |Ace    |Alch   |Char|DZELESP|N
+|Gwen   |Boomer |Sub    |Bucc   |urhere|WZELEPB|N
+|Gwen   |Glue   |Sub    |Bucc   |urhere|UZELEYK|N
+|Tack   |Super  |Ninja  |Spact  |WillOwispss|LZELPKX|N
+|Quincy |Alch   |Spact  |Village|the_op_boss|FZELPWY|N
+|Quincy |Alch   |Druid  |Spact  |the_op_boss|FZELPWY|N
+|Quincy |Mortar |Alch   |Spact  |the_op_boss|FZELPWY|N
+|Quincy |Glue   |Alch   |Spact  |the_op_boss|FZELPWY|N
+|Quincy |Ice    |Alch   |Spact  |the_op_boss|FZELPWY|N
+|Quincy |Tack   |Alch   |Spact  |the_op_boss|FZELPWY|N
+|Quincy |Dart   |Alch   |Spact  |the_op_boss|FZELPWY|N
+|Gwen   |Super  |Druid  |Village|Mr-Samson|FZELPAC|N
+|Gwen   |Super  |Alch   |Druid  |Mr-Samson|FZELPAC|N
+|Gwen   |Mortar |Super  |Druid  |Mr-Samson|FZELPAC|N
+|Gwen   |Sniper |Super  |Druid  |Mr-Samson|FZELPAC|N
+|Gwen   |Glue   |Super  |Druid  |Mr-Samson|FZELPAC|N
+|Gwen   |Ice    |Super  |Druid  |Mr-Samson|FZELPAC|N
+|Gwen   |Tack   |Super  |Druid  |Mr-Samson|FZELPAC|N
+|Pat    |Sub    |Wizard |Village|Smurfblade|AZELPBP|N
+|Pat    |Sub    |Wizard |Alch   |Smurfblade|AZELPBP|N
+|Pat    |Tack   |Sub    |Wizard |Smurfblade|AZELPBP|N
+|Pat    |Bomb   |Sub    |Wizard |Smurfblade|AZELPBP|N
+|Pat    |Super  |Ninja  |Spact  |Friartruck|XZELPBE|N
+|Church |Glue   |Sub    |Ace    |DespacitoMage |HZELPLE|N
+|Ezili  |Bucc   |Heli   |Mortar |RainbowDox|TZELRHT|N
+|Striker|Bucc   |Heli   |Mortar |RainbowDox|TZELRHT|N
+|Gwen   |Bucc   |Heli   |Mortar |RainbowDox|TZELRHT|N
+|Sniper |Bucc   |Heli   |Mortar |RainbowDox|TZELRHT|N
+|Glue   |Bucc   |Heli   |Mortar |RainbowDox|TZELRHT|N
+|Ice    |Bucc   |Heli   |Mortar |RainbowDox|TZELRHT|N
+|Bomb   |Bucc   |Heli   |Mortar |RainbowDox|TZELRHT|N
+|Ezili  |Boomer |Bucc   |Mortar |Great Mage|RZELRUS|N
+|Obyn   |Boomer |Bucc   |Mortar |Great Mage|RZELRUS|N
+|Striker|Boomer |Bucc   |Mortar |Great Mage|RZELRUS|N
+|Gwen   |Boomer |Bucc   |Mortar |Great Mage|RZELRUS|N
+|Quincy |Boomer |Bucc   |Mortar |Great Mage|RZELRUS|N
+|Boomer |Bucc   |Mortar |Village|Great Mage|RZELRUS|N
+|Boomer |Bucc   |Mortar |Druid  |Great Mage|RZELRUS|N
+|Boomer |Sniper |Bucc   |Mortar |Great Mage|RZELRUS|N
+|Boomer |Glue   |Bucc   |Mortar |Great Mage|RZELRUS|N
+|Boomer |Ice    |Bucc   |Mortar |Great Mage|RZELRUS|N
+|Boomer |Tack   |Bucc   |Mortar |Great Mage|RZELRUS|N
+|Boomer |Bomb   |Bucc   |Mortar |Great Mage|RZELRUS|N
+|Ezili  |Tack   |Spact  |Village|Smurfblade|UZELRXK|N
+|Ezili  |Tack   |Druid  |Spact  |Smurfblade|UZELRXK|N
+|Ezili  |Tack   |Alch   |Spact  |Smurfblade|UZELRXK|N
+|Ezili  |Tack   |Ninja  |Spact  |Smurfblade|UZELRXK|N
+|Ezili  |Tack   |Mortar |Spact  |Smurfblade|UZELRXK|N
+|Ezili  |Tack   |Bucc   |Spact  |Smurfblade|UZELRXK|N
+|Ezili  |Tack   |Sub    |Spact  |Smurfblade|UZELRXK|N
+|Ezili  |Tack   |Sniper |Spact  |Smurfblade|UZELRXK|N
+|Ezili  |Tack   |Glue   |Spact  |Smurfblade|UZELRXK|N
+|Ezili  |Tack   |Ice    |Spact  |Smurfblade|UZELRXK|N
+|Ezili  |Bomb   |Tack   |Spact  |Smurfblade|UZELRXK|N
+|Ezili  |Boomer |Tack   |Spact  |Smurfblade|UZELRXK|N
+|Ezili  |Dart   |Tack   |Spact  |Smurfblade|UZELRXK|N
+|Ezili  |Super  |Ninja  |Spact  |315Lukas|MZELRXY|N
+|Striker|Super  |Ninja  |Spact  |315Lukas|MZELRXY|N
+|Mortar |Super  |Ninja  |Spact  |315Lukas|MZELRXY|N
+|Sniper |Super  |Ninja  |Spact  |315Lukas|MZELRXY|N
+|Glue   |Super  |Ninja  |Spact  |315Lukas|MZELRXY|N
+|Ice    |Super  |Ninja  |Spact  |315Lukas|MZELRXY|N
+|Ezili  |Ace    |Heli   |Village|The Mochinator|KZELRAH|N
+|Ezili  |Ace    |Heli   |Spact  |The Mochinator|KZELRAH|N
+|Ezili  |Ace    |Heli   |Super  |The Mochinator|KZELRAH|N
+|Ezili  |Ace    |Heli   |Mortar |The Mochinator|KZELRAH|N
+|Ezili  |Sniper |Ace    |Heli   |The Mochinator|KZELRAH|N
+|Ezili  |Glue   |Ace    |Heli   |The Mochinator|KZELRAH|N
+|Ezili  |Bomb   |Ace    |Heli   |The Mochinator|KZELRAH|N
+|Pat    |Tack   |Super  |Ninja  |Char|EZELRBD|N
+|Striker|Tack   |Super  |Ninja  |Char|EZELRBD|N
+|Tack   |Super  |Ninja  |Druid  |Char|EZELRBD|N
+|Tack   |Bucc   |Super  |Ninja  |Char|EZELRBD|N
+|Tack   |Sniper |Super  |Ninja  |Char|EZELRBD|N
+|Tack   |Glue   |Super  |Ninja  |Char|EZELRBD|N
+|Tack   |Ice    |Super  |Ninja  |Char|EZELRBD|N
+|Dart   |Tack   |Super  |Ninja  |Char|EZELRBD|N
