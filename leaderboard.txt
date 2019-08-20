@@ -1,25 +1,26 @@
-RandyZ524: 195
-The Mochinator: 168
+RandyZ524: 203
+The Mochinator: 177
 Agent51: 165
 coolio1223: 158
 the_op_boss: 152
 Char: 131
 frds: 130
+Great Mage: 130
 rigged: 127
-Great Mage: 89
 315Lukas: 87
 meta: 74
 Topaz: 71
 Urinetosh: 70
-Chocbox: 49
-Smurfblade: 49
+Smurfblade: 55
+Chocbox: 51
 PEZmaster2: 49
 UnLapiz: 43
-123CrimsonRain: 36
+123CrimsonRain: 37
+Gavo38322: 36
 TobiBloon439: 36
-Gavo38322: 35
 RainbowDox: 27
 Jollto13: 24
+TheKNEE13: 23
 rmlgaming: 20
 Mr-Samson: 19
 Lookatmeimamod: 18
@@ -30,10 +31,9 @@ samhulk99: 12
 powergo: 11
 The Line: 11
 Mlop098: 9
-TheKNEE13: 9
 laxx: 9
+killcrazy99: 8
 Valter: 8
-killcrazy99: 7
 LightChaosman: 7
 Kyle Robinson: 6
 Kholdstare: 5

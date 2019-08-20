@@ -5954,3 +5954,86 @@
 |Tack   |Glue   |Super  |Ninja  |Char|EZELRBD|N
 |Tack   |Ice    |Super  |Ninja  |Char|EZELRBD|N
 |Dart   |Tack   |Super  |Ninja  |Char|EZELRBD|N
+|Church |Boomer |Mortar |Village|RandyZ524|TZELRYX|N
+|Church |Boomer |Mortar |Druid  |RandyZ524|TZELRYX|N
+|Church |Boomer |Mortar |Alch   |RandyZ524|TZELRYX|N
+|Church |Boomer |Sniper |Mortar |RandyZ524|TZELRYX|N
+|Church |Boomer |Glue   |Mortar |RandyZ524|TZELRYX|N
+|Church |Boomer |Ice    |Mortar |RandyZ524|TZELRYX|N
+|Church |Boomer |Tack   |Mortar |RandyZ524|TZELRYX|N
+|Church |Boomer |Bomb   |Mortar |RandyZ524|TZELRYX|N
+|Ezili  |Heli   |Super  |Village|The Mochinator|RZELROO|N
+|Ezili  |Heli   |Super  |Spact  |The Mochinator|RZELROO|N
+|Ezili  |Heli   |Mortar |Super  |The Mochinator|RZELROO|N
+|Ezili  |Heli   |Ninja  |Spact  |Chocbox|OZELYFL|N
+|Ezili  |Sniper |Heli   |Ninja  |Chocbox|OZELYFL|N
+|Obyn   |Alch   |Druid  |Spact  |Smurfblade|EZELYHO|N
+|Obyn   |Ninja  |Druid  |Spact  |Smurfblade|EZELYHO|N
+|Obyn   |Mortar |Druid  |Spact  |Smurfblade|EZELYHO|N
+|Obyn   |Bucc   |Druid  |Spact  |Smurfblade|EZELYHO|N
+|Obyn   |Tack   |Druid  |Spact  |Smurfblade|EZELYHO|N
+|Obyn   |Bomb   |Druid  |Spact  |Smurfblade|EZELYHO|N
+|Church |Ace    |Alch   |Village|TheKNEE13|AZELYUH|N
+|Church |Ace    |Alch   |Druid  |TheKNEE13|AZELYUH|N
+|Church |Sniper |Ace    |Alch   |TheKNEE13|AZELYUH|N
+|Church |Tack   |Ace    |Alch   |TheKNEE13|AZELYUH|N
+|Church |Bomb   |Ace    |Alch   |TheKNEE13|AZELYUH|N
+|Ezili  |Heli   |Mortar |Village|The Mochinator|VZELYUS|N
+|Ezili  |Heli   |Mortar |Spact  |The Mochinator|VZELYUS|N
+|Ezili  |Sniper |Heli   |Mortar |The Mochinator|VZELYUS|N
+|Ezili  |Glue   |Heli   |Mortar |The Mochinator|VZELYUS|N
+|Ezili  |Bomb   |Heli   |Mortar |The Mochinator|VZELYUS|N
+|Ezili  |Ice    |Bucc   |Mortar |Great Mage|HZELYVV|N
+|Obyn   |Ice    |Bucc   |Mortar |Great Mage|HZELYVV|N
+|Striker|Ice    |Bucc   |Mortar |Great Mage|HZELYVV|N
+|Gwen   |Ice    |Bucc   |Mortar |Great Mage|HZELYVV|N
+|Quincy |Ice    |Bucc   |Mortar |Great Mage|HZELYVV|N
+|Ice    |Bucc   |Mortar |Village|Great Mage|HZELYVV|N
+|Ice    |Bucc   |Mortar |Druid  |Great Mage|HZELYVV|N
+|Ice    |Bucc   |Mortar |Ninja  |Great Mage|HZELYVV|N
+|Ice    |Sub    |Bucc   |Mortar |Great Mage|HZELYVV|N
+|Ice    |Sniper |Bucc   |Mortar |Great Mage|HZELYVV|N
+|Ice    |Glue   |Bucc   |Mortar |Great Mage|HZELYVV|N
+|Tack   |Ice    |Bucc   |Mortar |Great Mage|HZELYVV|N
+|Bomb   |Ice    |Bucc   |Mortar |Great Mage|HZELYVV|N
+|Boomer |Ice    |Sniper |Heli   |123CrimsonRain|LZELYVL|N
+|Gwen   |Ace    |Alch   |Village|TheKNEE13|WZELYTV|N
+|Gwen   |Ace    |Alch   |Druid  |TheKNEE13|WZELYTV|N
+|Gwen   |Sniper |Ace    |Alch   |TheKNEE13|WZELYTV|N
+|Gwen   |Tack   |Ace    |Alch   |TheKNEE13|WZELYTV|N
+|Gwen   |Bomb   |Ace    |Alch   |TheKNEE13|WZELYTV|N
+|Ezili  |Glue   |Bucc   |Mortar |Great Mage|EZELYTX|N
+|Obyn   |Glue   |Bucc   |Mortar |Great Mage|EZELYTX|N
+|Striker|Glue   |Bucc   |Mortar |Great Mage|EZELYTX|N
+|Gwen   |Glue   |Bucc   |Mortar |Great Mage|EZELYTX|N
+|Quincy |Glue   |Bucc   |Mortar |Great Mage|EZELYTX|N
+|Glue   |Bucc   |Mortar |Village|Great Mage|EZELYTX|N
+|Glue   |Bucc   |Mortar |Druid  |Great Mage|EZELYTX|N
+|Glue   |Bucc   |Mortar |Ninja  |Great Mage|EZELYTX|N
+|Glue   |Sniper |Bucc   |Mortar |Great Mage|EZELYTX|N
+|Tack   |Glue   |Bucc   |Mortar |Great Mage|EZELYTX|N
+|Bomb   |Glue   |Bucc   |Mortar |Great Mage|EZELYTX|N
+|Quincy |Boomer |Sub    |Village|Gavo38322|MZELYTY|N
+|Ezili  |Sniper |Bucc   |Mortar |Great Mage|RZELYAK|N
+|Striker|Sniper |Bucc   |Mortar |Great Mage|RZELYAK|N
+|Gwen   |Sniper |Bucc   |Mortar |Great Mage|RZELYAK|N
+|Sniper |Bucc   |Mortar |Village|Great Mage|RZELYAK|N
+|Sniper |Bucc   |Mortar |Druid  |Great Mage|RZELYAK|N
+|Sniper |Bucc   |Mortar |Ninja  |Great Mage|RZELYAK|N
+|Tack   |Sniper |Bucc   |Mortar |Great Mage|RZELYAK|N
+|Obyn   |Ace    |Alch   |Village|TheKNEE13|KZELYBW|N
+|Obyn   |Ace    |Alch   |Druid  |TheKNEE13|KZELYBW|N
+|Obyn   |Sniper |Ace    |Alch   |TheKNEE13|KZELYBW|N
+|Obyn   |Bomb   |Ace    |Alch   |TheKNEE13|KZELYBW|N
+|Ezili  |Sub    |Bucc   |Mortar |Great Mage|OZELYBP|N
+|Obyn   |Sub    |Bucc   |Mortar |Great Mage|OZELYBP|N
+|Striker|Sub    |Bucc   |Mortar |Great Mage|OZELYBP|N
+|Gwen   |Sub    |Bucc   |Mortar |Great Mage|OZELYBP|N
+|Quincy |Sub    |Bucc   |Mortar |Great Mage|OZELYBP|N
+|Sub    |Bucc   |Mortar |Village|Great Mage|OZELYBP|N
+|Sub    |Bucc   |Mortar |Druid  |Great Mage|OZELYBP|N
+|Sub    |Bucc   |Mortar |Ninja  |Great Mage|OZELYBP|N
+|Tack   |Sub    |Bucc   |Mortar |Great Mage|OZELYBP|N
+|Bomb   |Sub    |Bucc   |Mortar |Great Mage|OZELYBP|N
+|Dart   |Boomer |Mortar |Alch   |killcrazy99|YZELYSY|N
+|Ice    |Wizard |Super  |Village|The Mochinator|XZELYDK|N
