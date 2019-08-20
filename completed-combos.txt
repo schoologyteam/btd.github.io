@@ -6064,3 +6064,82 @@
 |Boomer |Tack   |Bucc   |Alch   |urhere|UZELYYX|N
 |Boomer |Bomb   |Bucc   |Alch   |urhere|UZELYYX|N
 |Dart   |Boomer |Bucc   |Alch   |urhere|UZELYYX|N
+|Ezili  |Alch   |Druid  |Spact  |The Mochinator|PZELYLE|N
+|Pat    |Alch   |Druid  |Spact  |The Mochinator|PZELYLE|N
+|Striker|Alch   |Druid  |Spact  |The Mochinator|PZELYLE|N
+|Alch   |Druid  |Spact  |Village|The Mochinator|PZELYLE|N
+|Mortar |Alch   |Druid  |Spact  |The Mochinator|PZELYLE|N
+|Sub    |Alch   |Druid  |Spact  |The Mochinator|PZELYLE|N
+|Sniper |Alch   |Druid  |Spact  |The Mochinator|PZELYLE|N
+|Glue   |Alch   |Druid  |Spact  |The Mochinator|PZELYLE|N
+|Ice    |Alch   |Druid  |Spact  |The Mochinator|PZELYLE|N
+|Tack   |Alch   |Druid  |Spact  |The Mochinator|PZELYLE|N
+|Bomb   |Alch   |Druid  |Spact  |The Mochinator|PZELYLE|N
+|Boomer |Alch   |Druid  |Spact  |The Mochinator|PZELYLE|N
+|Dart   |Alch   |Druid  |Spact  |The Mochinator|PZELYLE|N
+|Ezili  |Glue   |Sub    |Mortar |Char|FZELLKL|N
+|Church |Glue   |Sub    |Mortar |Char|FZELLKL|N
+|Pat    |Glue   |Sub    |Mortar |Char|FZELLKL|N
+|Obyn   |Glue   |Sub    |Mortar |Char|FZELLKL|N
+|Striker|Glue   |Sub    |Mortar |Char|FZELLKL|N
+|Gwen   |Glue   |Sub    |Mortar |Char|FZELLKL|N
+|Quincy |Glue   |Sub    |Mortar |Char|FZELLKL|N
+|Glue   |Sub    |Mortar |Druid  |Char|FZELLKL|N
+|Glue   |Sub    |Mortar |Alch   |Char|FZELLKL|N
+|Ice    |Glue   |Sub    |Mortar |Char|FZELLKL|N
+|Tack   |Glue   |Sub    |Mortar |Char|FZELLKL|N
+|Bomb   |Glue   |Sub    |Mortar |Char|FZELLKL|N
+|Dart   |Glue   |Sub    |Mortar |Char|FZELLKL|N
+|Gwen   |Super  |Alch   |Village|Gavo38322|FZELLHD|N
+|Gwen   |Mortar |Super  |Alch   |Gavo38322|FZELLHD|N
+|Gwen   |Glue   |Super  |Alch   |Gavo38322|FZELLHD|N
+|Gwen   |Ice    |Super  |Alch   |Gavo38322|FZELLHD|N
+|Gwen   |Tack   |Super  |Alch   |Gavo38322|FZELLHD|N
+|Boomer |Sniper |Heli   |Ninja  |RainbowDox|MZELLVK|N
+|Pat    |Dart   |Super  |Ninja  |the_op_boss|UZELLXT|N
+|Striker|Dart   |Super  |Ninja  |the_op_boss|UZELLXT|N
+|Dart   |Super  |Ninja  |Druid  |the_op_boss|UZELLXT|N
+|Dart   |Bucc   |Super  |Ninja  |the_op_boss|UZELLXT|N
+|Dart   |Sniper |Super  |Ninja  |the_op_boss|UZELLXT|N
+|Dart   |Glue   |Super  |Ninja  |the_op_boss|UZELLXT|N
+|Ezili  |Mortar |Super  |Ninja  |the_op_boss|FZELLDK|N
+|Pat    |Mortar |Super  |Ninja  |the_op_boss|FZELLDK|N
+|Striker|Mortar |Super  |Ninja  |the_op_boss|FZELLDK|N
+|Mortar |Super  |Ninja  |Druid  |the_op_boss|FZELLDK|N
+|Sniper |Mortar |Super  |Ninja  |the_op_boss|FZELLDK|N
+|Glue   |Mortar |Super  |Ninja  |the_op_boss|FZELLDK|N
+|Ice    |Mortar |Super  |Ninja  |the_op_boss|FZELLDK|N
+|Ezili  |Bomb   |Alch   |Spact  |The Mochinator|TZELLOB|N
+|Pat    |Bomb   |Alch   |Spact  |The Mochinator|TZELLOB|N
+|Obyn   |Bomb   |Alch   |Spact  |The Mochinator|TZELLOB|N
+|Striker|Bomb   |Alch   |Spact  |The Mochinator|TZELLOB|N
+|Bomb   |Alch   |Spact  |Village|The Mochinator|TZELLOB|N
+|Bomb   |Mortar |Alch   |Spact  |The Mochinator|TZELLOB|N
+|Bomb   |Sniper |Alch   |Spact  |The Mochinator|TZELLOB|N
+|Bomb   |Glue   |Alch   |Spact  |The Mochinator|TZELLOB|N
+|Bomb   |Ice    |Alch   |Spact  |The Mochinator|TZELLOB|N
+|Bomb   |Tack   |Alch   |Spact  |The Mochinator|TZELLOB|N
+|Boomer |Bomb   |Alch   |Spact  |The Mochinator|TZELLOB|N
+|Boomer |Glue   |Ninja  |Village|@NoArmsTigerMan|VZELOKY|N
+|Ezili  |Ninja  |Druid  |Spact  |GamerGirl73|I AM 99% SURE IT IS IMPOSSIBLE.|N
+|Quincy |Glue   |Mortar |Village|The Mochinator|MZELOXF|N
+|Quincy |Glue   |Mortar |Druid  |The Mochinator|MZELOXF|N
+|Quincy |Glue   |Mortar |Alch   |The Mochinator|MZELOXF|N
+|Quincy |Glue   |Mortar |Ninja  |The Mochinator|MZELOXF|N
+|Quincy |Glue   |Ace    |Mortar |The Mochinator|MZELOXF|N
+|Quincy |Ice    |Glue   |Mortar |The Mochinator|MZELOXF|N
+|Quincy |Tack   |Glue   |Mortar |The Mochinator|MZELOXF|N
+|Quincy |Bomb   |Glue   |Mortar |The Mochinator|MZELOXF|N
+|Quincy |Boomer |Glue   |Mortar |The Mochinator|MZELOXF|N
+|Quincy |Dart   |Glue   |Mortar |The Mochinator|MZELOXF|N
+|Church |Glue   |Sub    |Ninja  |DespacitoMage|HZELOXB|N
+|Obyn   |Bucc   |Druid  |Village|AUAG|GZELOAG|N
+|Striker|Bomb   |Tack   |Wizard |Smurfblade|RZELOBL|N
+|Pat    |Glue   |Sub    |Ace    |DespacitoMage|SZELOCA|N
+|Obyn   |Bucc   |Mortar |Village|AUAG|FZELODU|N
+|Pat    |Dart   |Super  |Village|laxx|HZELODS|N
+|Pat    |Dart   |Super  |Druid  |laxx|HZELODS|N
+|Pat    |Dart   |Sniper |Super  |laxx|HZELODS|N
+|Pat    |Dart   |Glue   |Super  |laxx|HZELODS|N
+|Pat    |Dart   |Tack   |Super  |laxx|HZELODS|N
+|Gwen   |Sub    |Wizard |Village|Dance|HZELODP|N
