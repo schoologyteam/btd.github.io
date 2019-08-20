@@ -6037,3 +6037,30 @@
 |Bomb   |Sub    |Bucc   |Mortar |Great Mage|OZELYBP|N
 |Dart   |Boomer |Mortar |Alch   |killcrazy99|YZELYSY|N
 |Ice    |Wizard |Super  |Village|The Mochinator|XZELYDK|N
+|Church |Bucc   |Heli   |Druid  |frds|TZELYPU|N
+|Church |Sniper |Bucc   |Heli   |frds|TZELYPU|N
+|Church |Glue   |Bucc   |Heli   |frds|TZELYPU|N
+|Church |Ice    |Bucc   |Heli   |frds|TZELYPU|N
+|Church |Tack   |Bucc   |Heli   |frds|TZELYPU|N
+|Church |Bomb   |Bucc   |Heli   |frds|TZELYPU|N
+|Church |Boomer |Bucc   |Heli   |frds|TZELYPU|N
+|Church |Dart   |Bucc   |Heli   |frds|TZELYPU|N
+|Ezili  |Sub    |Wizard |Village|Jordan Hintz|YZELYPA|N
+|Ezili  |Ace    |Alch   |Village|Chocbox|LZELYRR|N
+|Ezili  |Ace    |Alch   |Druid  |Chocbox|LZELYRR|N
+|Ezili  |Sniper |Ace    |Alch   |Chocbox|LZELYRR|N
+|Ezili  |Tack   |Ace    |Alch   |Chocbox|LZELYRR|N
+|Ezili  |Bomb   |Ace    |Alch   |Chocbox|LZELYRR|N
+|Gwen   |Tack   |Sub    |Wizard |BloonBuster974|LZELYRY|N
+|Ezili  |Boomer |Bucc   |Alch   |urhere|UZELYYX|N
+|Obyn   |Boomer |Bucc   |Alch   |urhere|UZELYYX|N
+|Striker|Boomer |Bucc   |Alch   |urhere|UZELYYX|N
+|Gwen   |Boomer |Bucc   |Alch   |urhere|UZELYYX|N
+|Boomer |Bucc   |Alch   |Village|urhere|UZELYYX|N
+|Boomer |Bucc   |Alch   |Druid  |urhere|UZELYYX|N
+|Boomer |Sniper |Bucc   |Alch   |urhere|UZELYYX|N
+|Boomer |Glue   |Bucc   |Alch   |urhere|UZELYYX|N
+|Boomer |Ice    |Bucc   |Alch   |urhere|UZELYYX|N
+|Boomer |Tack   |Bucc   |Alch   |urhere|UZELYYX|N
+|Boomer |Bomb   |Bucc   |Alch   |urhere|UZELYYX|N
+|Dart   |Boomer |Bucc   |Alch   |urhere|UZELYYX|N

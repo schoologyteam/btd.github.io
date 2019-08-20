@@ -3,16 +3,16 @@ The Mochinator: 177
 Agent51: 165
 coolio1223: 158
 the_op_boss: 152
+frds: 138
 Char: 131
-frds: 130
 Great Mage: 130
 rigged: 127
 315Lukas: 87
 meta: 74
 Topaz: 71
 Urinetosh: 70
+Chocbox: 56
 Smurfblade: 55
-Chocbox: 51
 PEZmaster2: 49
 UnLapiz: 43
 123CrimsonRain: 37
@@ -25,6 +25,7 @@ rmlgaming: 20
 Mr-Samson: 19
 Lookatmeimamod: 18
 KaptainKrunche: 18
+urhere: 14
 Uniquepotatoes: 13
 411i0tt: 13
 samhulk99: 12
@@ -45,7 +46,6 @@ AKNIGHT49: 3
 Overeasybacon: 2
 DespacitoMage: 2
 DespacitoMage : 2
-urhere: 2
 Samhulk99: 1
 p4nthom22: 1
 ItIsNitecap: 1
@@ -70,3 +70,5 @@ ThinkHam: 1
 Mestrophis: 1
 WillOwispss: 1
 Friartruck: 1
+Jordan Hintz: 1
+BloonBuster974: 1
