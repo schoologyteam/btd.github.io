@@ -6143,3 +6143,78 @@
 |Pat    |Dart   |Glue   |Super  |laxx|HZELODS|N
 |Pat    |Dart   |Tack   |Super  |laxx|HZELODS|N
 |Gwen   |Sub    |Wizard |Village|Dance|HZELODP|N
+|Ezili  |Glue   |Mortar |Ninja  |Char|DZEOKVV|N
+|Church |Glue   |Mortar |Ninja  |Char|DZEOKVV|N
+|Striker|Glue   |Mortar |Ninja  |Char|DZEOKVV|N
+|Gwen   |Glue   |Mortar |Ninja  |Char|DZEOKVV|N
+|Glue   |Mortar |Ninja  |Spact  |Char|DZEOKVV|N
+|Glue   |Mortar |Ninja  |Druid  |Char|DZEOKVV|N
+|Glue   |Sniper |Mortar |Ninja  |Char|DZEOKVV|N
+|Ice    |Glue   |Mortar |Ninja  |Char|DZEOKVV|N
+|Tack   |Glue   |Mortar |Ninja  |Char|DZEOKVV|N
+|Bomb   |Glue   |Mortar |Ninja  |Char|DZEOKVV|N
+|Dart   |Glue   |Mortar |Ninja  |Char|DZEOKVV|N
+|Ezili  |Heli   |Spact  |Village|The Mochinator|KZEOKXP|N
+|Ezili  |Bomb   |Heli   |Village|The Mochinator|KZEOKXP|N
+|Ezili  |Bucc   |Mortar |Village|Char|RZEOKCO|N
+|Striker|Bucc   |Mortar |Village|Char|RZEOKCO|N
+|Gwen   |Bucc   |Mortar |Village|Char|RZEOKCO|N
+|Quincy |Bucc   |Mortar |Village|Char|RZEOKCO|N
+|Bucc   |Mortar |Druid  |Village|Char|RZEOKCO|N
+|Bomb   |Bucc   |Mortar |Village|Char|RZEOKCO|N
+|Ezili  |Sub    |Mortar |Village|Chocbox|UZEOKLD|N
+|Church |Sub    |Mortar |Village|Chocbox|UZEOKLD|N
+|Pat    |Sub    |Mortar |Village|Chocbox|UZEOKLD|N
+|Striker|Sub    |Mortar |Village|Chocbox|UZEOKLD|N
+|Gwen   |Sub    |Mortar |Village|Chocbox|UZEOKLD|N
+|Quincy |Sub    |Mortar |Village|Chocbox|UZEOKLD|N
+|Sub    |Mortar |Druid  |Village|Chocbox|UZEOKLD|N
+|Sub    |Mortar |Alch   |Village|Chocbox|UZEOKLD|N
+|Ice    |Sub    |Mortar |Village|Chocbox|UZEOKLD|N
+|Bomb   |Sub    |Mortar |Village|Chocbox|UZEOKLD|N
+|Dart   |Sub    |Mortar |Village|Chocbox|UZEOKLD|N
+|Gwen   |Boomer |Ace    |Druid  |Topaz|VZEOKLR|N
+|Gwen   |Boomer |Sniper |Ace    |Topaz|VZEOKLR|N
+|Gwen   |Boomer |Glue   |Ace    |Topaz|VZEOKLR|N
+|Gwen   |Boomer |Ice    |Ace    |Topaz|VZEOKLR|N
+|Gwen   |Boomer |Tack   |Ace    |Topaz|VZEOKLR|N
+|Gwen   |Boomer |Bomb   |Ace    |Topaz|VZEOKLR|N
+|Gwen   |Dart   |Boomer |Ace    |Topaz|VZEOKLR|N
+|Ezili  |Sniper |Heli   |Spact  |The Mochinator|SZEOMMY|N
+|Ezili  |Bomb   |Heli   |Spact  |The Mochinator|SZEOMMY|N
+|Obyn   |Ace    |Ninja  |Village|Chocbox|YZEOMGO|N
+|Obyn   |Ace    |Ninja  |Druid  |Chocbox|YZEOMGO|N
+|Obyn   |Sniper |Ace    |Ninja  |Chocbox|YZEOMGO|N
+|Obyn   |Ice    |Ace    |Ninja  |Chocbox|YZEOMGO|N
+|Obyn   |Bomb   |Ace    |Ninja  |Chocbox|YZEOMGO|N
+|Obyn   |Dart   |Ace    |Ninja  |Chocbox|YZEOMGO|N
+|Quincy |Alch   |Druid  |Village|Char|PZEOMTC|N
+|Quincy |Mortar |Alch   |Druid  |Char|PZEOMTC|N
+|Quincy |Sub    |Alch   |Druid  |Char|PZEOMTC|N
+|Quincy |Glue   |Alch   |Druid  |Char|PZEOMTC|N
+|Quincy |Ice    |Alch   |Druid  |Char|PZEOMTC|N
+|Quincy |Tack   |Alch   |Druid  |Char|PZEOMTC|N
+|Quincy |Bomb   |Alch   |Druid  |Char|PZEOMTC|N
+|Quincy |Boomer |Alch   |Druid  |Char|PZEOMTC|N
+|Quincy |Dart   |Alch   |Druid  |Char|PZEOMTC|N
+|Obyn   |Tack   |Glue   |Wizard |DespacitoMage|BZEOMSB|N
+|Tack   |Glue   |Sub    |Ace    |DespacitoMage|BZEOMPK|N
+|Obyn   |Tack   |Spact  |Village|380-mortis|WZEOFWS|N
+|Sniper |Ace    |Ninja  |Village|Rakution|YZEOFCA|N
+|Quincy |Tack   |Mortar |Alch   |Char|BZEOGWX|N
+|Quincy |Tack   |Sub    |Alch   |Char|BZEOGWX|N
+|Quincy |Tack   |Glue   |Alch   |Char|BZEOGWX|N
+|Quincy |Tack   |Ice    |Alch   |Char|BZEOGWX|N
+|Quincy |Bomb   |Tack   |Alch   |Char|BZEOGWX|N
+|Quincy |Boomer |Tack   |Alch   |Char|BZEOGWX|N
+|Quincy |Dart   |Tack   |Alch   |Char|BZEOGWX|N
+|Pat    |Dart   |Boomer |Sub    |laxx|BZEOGEM|N
+|Gwen   |Sub    |Ninja  |Village|Imbigtedde|KZEOHGS|N
+|Quincy |Boomer |Alch   |Village|the_op_boss|FZEOHUW|N
+|Quincy |Boomer |Mortar |Alch   |the_op_boss|FZEOHUW|N
+|Quincy |Boomer |Sub    |Alch   |the_op_boss|FZEOHUW|N
+|Quincy |Boomer |Glue   |Alch   |the_op_boss|FZEOHUW|N
+|Quincy |Boomer |Ice    |Alch   |the_op_boss|FZEOHUW|N
+|Quincy |Boomer |Bomb   |Alch   |the_op_boss|FZEOHUW|N
+|Quincy |Dart   |Boomer |Alch   |the_op_boss|FZEOHUW|N
+|Ezili  |Wizard |Druid  |Village|Imbigtedde|GZEOHCH|N

@@ -1,17 +1,17 @@
-The Mochinator: 211
+The Mochinator: 215
 RandyZ524: 203
+Char: 177
+the_op_boss: 172
 Agent51: 165
-the_op_boss: 165
 coolio1223: 158
-Char: 144
 frds: 138
 Great Mage: 130
 rigged: 127
 315Lukas: 87
+Topaz: 78
 meta: 74
-Topaz: 71
+Chocbox: 73
 Urinetosh: 70
-Chocbox: 56
 Smurfblade: 56
 PEZmaster2: 49
 UnLapiz: 43
@@ -25,7 +25,7 @@ rmlgaming: 20
 Mr-Samson: 19
 Lookatmeimamod: 18
 KaptainKrunche: 18
-laxx: 14
+laxx: 15
 urhere: 14
 Uniquepotatoes: 13
 411i0tt: 13
@@ -37,16 +37,17 @@ killcrazy99: 8
 Valter: 8
 LightChaosman: 7
 Kyle Robinson: 6
+DespacitoMage: 6
 Kholdstare: 5
 Amanensia: 4
 rouge_bare: 4
-DespacitoMage: 4
 LoveBrothers: 4
 Michael Volz: 3
 AKNIGHT49: 3
 Overeasybacon: 2
 DespacitoMage : 2
 AUAG: 2
+Imbigtedde: 2
 Samhulk99: 1
 p4nthom22: 1
 ItIsNitecap: 1
@@ -76,3 +77,5 @@ BloonBuster974: 1
 @NoArmsTigerMan: 1
 GamerGirl73: 1
 Dance: 1
+380-mortis: 1
+Rakution: 1
