@@ -6218,3 +6218,25 @@
 |Quincy |Boomer |Bomb   |Alch   |the_op_boss|FZEOHUW|N
 |Quincy |Dart   |Boomer |Alch   |the_op_boss|FZEOHUW|N
 |Ezili  |Wizard |Druid  |Village|Imbigtedde|GZEOHCH|N
+|Quincy |Glue   |Alch   |Village|Char|BZEOHLH|N
+|Ezili  |Tack   |Ice    |Village|AIGP2304|EZEOUBV|N
+|Quincy |Sub    |Alch   |Village|Natethesnake|CZEOVSO|N
+|Ezili  |Sub    |Alch   |Spact  |Gayanjebko|XZEOVEW|N
+|Quincy |Mortar |Ninja  |Spact  |Char|RZEOVRH|N
+|Pat    |Mortar |Super  |Alch   |Dance|BZEOWVE|N
+|Obyn   |Ninja  |Spact  |Village|milesman34|SZEOWCP|N
+|Obyn   |Bomb   |Glue   |Wizard |DespacitoMage|SZEOWES|N
+|Quincy |Mortar |Alch   |Village|Char|WZEOWLV|N
+|Obyn   |Boomer |Sub    |Alch   |Natethesnake |YZEOTAH|N
+|Church |Sub    |Bucc   |Village|Natethesnake|WZEOXRY|N
+|Church |Sub    |Bucc   |Spact  |Natethesnake|WZEOXRY|N
+|Church |Sub    |Bucc   |Druid  |Natethesnake|WZEOXRY|N
+|Church |Sub    |Bucc   |Ninja  |Natethesnake|WZEOXRY|N
+|Church |Glue   |Sub    |Bucc   |Natethesnake|WZEOXRY|N
+|Church |Ice    |Sub    |Bucc   |Natethesnake|WZEOXRY|N
+|Church |Tack   |Sub    |Bucc   |Natethesnake|WZEOXRY|N
+|Church |Bomb   |Sub    |Bucc   |Natethesnake|WZEOXRY|N
+|Church |Boomer |Sub    |Bucc   |Natethesnake|WZEOXRY|N
+|Church |Dart   |Sub    |Bucc   |Natethesnake|WZEOXRY|N
+|Obyn   |Tack   |Ice    |Wizard |DespacitoMage|FZEOXYU|N
+|Quincy |Dart   |Sub    |Alch   |Char|AZEOACE|N

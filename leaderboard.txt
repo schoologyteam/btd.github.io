@@ -1,6 +1,6 @@
 The Mochinator: 215
 RandyZ524: 203
-Char: 177
+Char: 181
 the_op_boss: 172
 Agent51: 165
 coolio1223: 158
@@ -32,12 +32,13 @@ Uniquepotatoes: 13
 samhulk99: 12
 powergo: 11
 The Line: 11
+Natethesnake: 11
 Mlop098: 9
 killcrazy99: 8
 Valter: 8
+DespacitoMage: 8
 LightChaosman: 7
 Kyle Robinson: 6
-DespacitoMage: 6
 Kholdstare: 5
 Amanensia: 4
 rouge_bare: 4
@@ -47,6 +48,7 @@ AKNIGHT49: 3
 Overeasybacon: 2
 DespacitoMage : 2
 AUAG: 2
+Dance: 2
 Imbigtedde: 2
 Samhulk99: 1
 p4nthom22: 1
@@ -76,6 +78,9 @@ Jordan Hintz: 1
 BloonBuster974: 1
 @NoArmsTigerMan: 1
 GamerGirl73: 1
-Dance: 1
 380-mortis: 1
 Rakution: 1
+AIGP2304: 1
+Gayanjebko: 1
+milesman34: 1
+Natethesnake : 1
