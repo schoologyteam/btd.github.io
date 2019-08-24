@@ -569,7 +569,6 @@
 |Boomer |Ninja  |Druid  |Village|
 |Boomer |Ninja  |Spact  |Village|
 |Boomer |Alch   |Druid  |Village|
-|Boomer |Alch   |Spact  |Village|
 |Boomer |Druid  |Spact  |Village|
 |Bomb   |Tack   |Ice    |Sniper |
 |Bomb   |Tack   |Ice    |Sub    |
@@ -724,7 +723,6 @@
 |Bomb   |Sub    |Bucc   |Spact  |
 |Bomb   |Sub    |Bucc   |Village|
 |Bomb   |Sub    |Ace    |Druid  |
-|Bomb   |Sub    |Ace    |Village|
 |Bomb   |Sub    |Mortar |Ninja  |
 |Bomb   |Sub    |Mortar |Alch   |
 |Bomb   |Sub    |Mortar |Druid  |
@@ -920,7 +918,6 @@
 |Tack   |Super  |Spact  |Village|
 |Tack   |Ninja  |Druid  |Spact  |
 |Tack   |Alch   |Druid  |Village|
-|Tack   |Alch   |Spact  |Village|
 |Tack   |Druid  |Spact  |Village|
 |Ice    |Glue   |Sniper |Bucc   |
 |Ice    |Glue   |Sniper |Wizard |
@@ -980,7 +977,6 @@
 |Ice    |Sub    |Bucc   |Spact  |
 |Ice    |Sub    |Bucc   |Village|
 |Ice    |Sub    |Ace    |Druid  |
-|Ice    |Sub    |Ace    |Village|
 |Ice    |Sub    |Mortar |Ninja  |
 |Ice    |Sub    |Mortar |Alch   |
 |Ice    |Sub    |Mortar |Druid  |
@@ -1114,7 +1110,6 @@
 |Sub    |Bucc   |Druid  |Spact  |
 |Sub    |Bucc   |Druid  |Village|
 |Sub    |Bucc   |Spact  |Village|
-|Sub    |Ace    |Druid  |Village|
 |Sub    |Mortar |Ninja  |Druid  |
 |Sub    |Mortar |Alch   |Druid  |
 |Sub    |Wizard |Druid  |Village|
@@ -1169,7 +1164,6 @@
 |Quincy |Dart   |Tack   |Bucc   |
 |Quincy |Dart   |Tack   |Ace    |
 |Quincy |Dart   |Tack   |Heli   |
-|Quincy |Dart   |Tack   |Mortar |
 |Quincy |Dart   |Tack   |Ninja  |
 |Quincy |Dart   |Tack   |Druid  |
 |Quincy |Dart   |Tack   |Spact  |
@@ -1206,7 +1200,6 @@
 |Quincy |Dart   |Ace    |Druid  |
 |Quincy |Dart   |Heli   |Druid  |
 |Quincy |Dart   |Mortar |Ninja  |
-|Quincy |Dart   |Mortar |Alch   |
 |Quincy |Dart   |Mortar |Druid  |
 |Quincy |Dart   |Mortar |Village|
 |Quincy |Dart   |Ninja  |Druid  |
@@ -1232,7 +1225,6 @@
 |Quincy |Boomer |Tack   |Bucc   |
 |Quincy |Boomer |Tack   |Ace    |
 |Quincy |Boomer |Tack   |Heli   |
-|Quincy |Boomer |Tack   |Mortar |
 |Quincy |Boomer |Tack   |Ninja  |
 |Quincy |Boomer |Tack   |Druid  |
 |Quincy |Boomer |Ice    |Glue   |
@@ -1259,7 +1251,6 @@
 |Quincy |Boomer |Ace    |Druid  |
 |Quincy |Boomer |Heli   |Druid  |
 |Quincy |Boomer |Mortar |Druid  |
-|Quincy |Boomer |Mortar |Village|
 |Quincy |Boomer |Ninja  |Druid  |
 |Quincy |Boomer |Ninja  |Village|
 |Quincy |Boomer |Druid  |Village|
@@ -1269,7 +1260,6 @@
 |Quincy |Bomb   |Tack   |Bucc   |
 |Quincy |Bomb   |Tack   |Ace    |
 |Quincy |Bomb   |Tack   |Heli   |
-|Quincy |Bomb   |Tack   |Mortar |
 |Quincy |Bomb   |Tack   |Ninja  |
 |Quincy |Bomb   |Tack   |Druid  |
 |Quincy |Bomb   |Ice    |Glue   |
@@ -1320,7 +1310,6 @@
 |Quincy |Tack   |Ice    |Bucc   |
 |Quincy |Tack   |Ice    |Ace    |
 |Quincy |Tack   |Ice    |Heli   |
-|Quincy |Tack   |Ice    |Mortar |
 |Quincy |Tack   |Ice    |Ninja  |
 |Quincy |Tack   |Ice    |Druid  |
 |Quincy |Tack   |Ice    |Spact  |
@@ -1332,23 +1321,17 @@
 |Quincy |Tack   |Glue   |Druid  |
 |Quincy |Tack   |Glue   |Spact  |
 |Quincy |Tack   |Sub    |Bucc   |
-|Quincy |Tack   |Sub    |Mortar |
 |Quincy |Tack   |Sub    |Ninja  |
 |Quincy |Tack   |Sub    |Druid  |
 |Quincy |Tack   |Sub    |Spact  |
 |Quincy |Tack   |Bucc   |Ace    |
 |Quincy |Tack   |Bucc   |Heli   |
-|Quincy |Tack   |Bucc   |Mortar |
 |Quincy |Tack   |Bucc   |Ninja  |
 |Quincy |Tack   |Bucc   |Druid  |
 |Quincy |Tack   |Bucc   |Spact  |
-|Quincy |Tack   |Ace    |Mortar |
 |Quincy |Tack   |Ace    |Ninja  |
 |Quincy |Tack   |Ace    |Druid  |
 |Quincy |Tack   |Heli   |Druid  |
-|Quincy |Tack   |Mortar |Ninja  |
-|Quincy |Tack   |Mortar |Druid  |
-|Quincy |Tack   |Mortar |Spact  |
 |Quincy |Tack   |Ninja  |Druid  |
 |Quincy |Tack   |Ninja  |Spact  |
 |Quincy |Tack   |Druid  |Spact  |
@@ -1433,7 +1416,6 @@
 |Quincy |Bucc   |Druid  |Village|
 |Quincy |Bucc   |Spact  |Village|
 |Quincy |Ace    |Mortar |Druid  |
-|Quincy |Ace    |Mortar |Village|
 |Quincy |Ace    |Ninja  |Druid  |
 |Quincy |Ace    |Ninja  |Village|
 |Quincy |Ace    |Druid  |Village|
@@ -1617,7 +1599,6 @@
 |Gwen   |Boomer |Ninja  |Spact  |
 |Gwen   |Boomer |Ninja  |Village|
 |Gwen   |Boomer |Alch   |Druid  |
-|Gwen   |Boomer |Alch   |Village|
 |Gwen   |Boomer |Druid  |Spact  |
 |Gwen   |Boomer |Druid  |Village|
 |Gwen   |Boomer |Spact  |Village|
@@ -1760,7 +1741,6 @@
 |Gwen   |Tack   |Wizard |Druid  |
 |Gwen   |Tack   |Super  |Spact  |
 |Gwen   |Tack   |Ninja  |Druid  |
-|Gwen   |Tack   |Ninja  |Spact  |
 |Gwen   |Tack   |Alch   |Druid  |
 |Gwen   |Tack   |Druid  |Spact  |
 |Gwen   |Ice    |Glue   |Sub    |
@@ -2105,7 +2085,6 @@
 |Striker|Bomb   |Sniper |Village|
 |Striker|Bomb   |Sub    |Bucc   |
 |Striker|Bomb   |Sub    |Ace    |
-|Striker|Bomb   |Sub    |Wizard |
 |Striker|Bomb   |Sub    |Ninja  |
 |Striker|Bomb   |Sub    |Alch   |
 |Striker|Bomb   |Sub    |Druid  |
@@ -2290,7 +2269,6 @@
 |Striker|Sub    |Bucc   |Druid  |
 |Striker|Sub    |Bucc   |Village|
 |Striker|Sub    |Ace    |Druid  |
-|Striker|Sub    |Ace    |Village|
 |Striker|Sub    |Mortar |Ninja  |
 |Striker|Sub    |Mortar |Alch   |
 |Striker|Sub    |Mortar |Druid  |
@@ -2320,7 +2298,6 @@
 |Striker|Ace    |Alch   |Druid  |
 |Striker|Ace    |Alch   |Village|
 |Striker|Ace    |Druid  |Village|
-|Striker|Mortar |Super  |Alch   |
 |Striker|Mortar |Super  |Druid  |
 |Striker|Mortar |Ninja  |Druid  |
 |Striker|Mortar |Ninja  |Spact  |
@@ -2462,7 +2439,6 @@
 |Obyn   |Boomer |Glue   |Bucc   |
 |Obyn   |Boomer |Glue   |Ace    |
 |Obyn   |Boomer |Glue   |Mortar |
-|Obyn   |Boomer |Glue   |Wizard |
 |Obyn   |Boomer |Glue   |Ninja  |
 |Obyn   |Boomer |Glue   |Alch   |
 |Obyn   |Boomer |Glue   |Druid  |
@@ -2488,7 +2464,6 @@
 |Obyn   |Boomer |Ninja  |Spact  |
 |Obyn   |Boomer |Ninja  |Village|
 |Obyn   |Boomer |Alch   |Druid  |
-|Obyn   |Boomer |Alch   |Spact  |
 |Obyn   |Boomer |Alch   |Village|
 |Obyn   |Boomer |Druid  |Village|
 |Obyn   |Boomer |Spact  |Village|
@@ -2666,7 +2641,6 @@
 |Obyn   |Sub    |Bucc   |Spact  |
 |Obyn   |Sub    |Bucc   |Village|
 |Obyn   |Sub    |Ace    |Druid  |
-|Obyn   |Sub    |Ace    |Village|
 |Obyn   |Sub    |Mortar |Alch   |
 |Obyn   |Sub    |Mortar |Druid  |
 |Obyn   |Sub    |Wizard |Village|
@@ -2955,7 +2929,6 @@
 |Pat    |Tack   |Sniper |Alch   |
 |Pat    |Tack   |Sniper |Druid  |
 |Pat    |Tack   |Sniper |Spact  |
-|Pat    |Tack   |Sub    |Ace    |
 |Pat    |Tack   |Sub    |Mortar |
 |Pat    |Tack   |Sub    |Ninja  |
 |Pat    |Tack   |Sub    |Druid  |
@@ -3057,7 +3030,6 @@
 |Pat    |Sniper |Druid  |Spact  |
 |Pat    |Sniper |Druid  |Village|
 |Pat    |Sub    |Ace    |Druid  |
-|Pat    |Sub    |Ace    |Village|
 |Pat    |Sub    |Mortar |Ninja  |
 |Pat    |Sub    |Mortar |Alch   |
 |Pat    |Sub    |Mortar |Druid  |
@@ -3156,7 +3128,6 @@
 |Church |Dart   |Sniper |Druid  |
 |Church |Dart   |Sniper |Spact  |
 |Church |Dart   |Sniper |Village|
-|Church |Dart   |Sub    |Ace    |
 |Church |Dart   |Sub    |Ninja  |
 |Church |Dart   |Sub    |Alch   |
 |Church |Dart   |Sub    |Druid  |
@@ -3284,7 +3255,6 @@
 |Church |Bomb   |Glue   |Alch   |
 |Church |Bomb   |Glue   |Druid  |
 |Church |Bomb   |Glue   |Village|
-|Church |Bomb   |Sub    |Ace    |
 |Church |Bomb   |Sub    |Mortar |
 |Church |Bomb   |Sub    |Ninja  |
 |Church |Bomb   |Sub    |Alch   |
@@ -3346,7 +3316,6 @@
 |Church |Tack   |Sniper |Alch   |
 |Church |Tack   |Sniper |Druid  |
 |Church |Tack   |Sniper |Spact  |
-|Church |Tack   |Sub    |Ace    |
 |Church |Tack   |Sub    |Mortar |
 |Church |Tack   |Sub    |Ninja  |
 |Church |Tack   |Sub    |Alch   |
@@ -3384,7 +3353,6 @@
 |Church |Ice    |Sniper |Ninja  |
 |Church |Ice    |Sniper |Alch   |
 |Church |Ice    |Sniper |Druid  |
-|Church |Ice    |Sub    |Ace    |
 |Church |Ice    |Sub    |Mortar |
 |Church |Ice    |Sub    |Ninja  |
 |Church |Ice    |Sub    |Alch   |
@@ -3448,8 +3416,6 @@
 |Church |Sniper |Alch   |Village|
 |Church |Sniper |Druid  |Spact  |
 |Church |Sniper |Druid  |Village|
-|Church |Sub    |Ace    |Druid  |
-|Church |Sub    |Ace    |Village|
 |Church |Sub    |Mortar |Ninja  |
 |Church |Sub    |Mortar |Alch   |
 |Church |Sub    |Mortar |Druid  |
@@ -3462,7 +3428,6 @@
 |Church |Sub    |Druid  |Village|
 |Church |Bucc   |Ninja  |Druid  |
 |Church |Bucc   |Ninja  |Spact  |
-|Church |Bucc   |Ninja  |Village|
 |Church |Bucc   |Druid  |Spact  |
 |Church |Bucc   |Druid  |Village|
 |Church |Bucc   |Spact  |Village|
@@ -3565,7 +3530,6 @@
 |Ezili  |Dart   |Sub    |Village|
 |Ezili  |Dart   |Bucc   |Heli   |
 |Ezili  |Dart   |Bucc   |Ninja  |
-|Ezili  |Dart   |Bucc   |Alch   |
 |Ezili  |Dart   |Bucc   |Druid  |
 |Ezili  |Dart   |Bucc   |Spact  |
 |Ezili  |Dart   |Bucc   |Village|
@@ -3668,7 +3632,6 @@
 |Ezili  |Boomer |Ninja  |Village|
 |Ezili  |Boomer |Alch   |Druid  |
 |Ezili  |Boomer |Alch   |Spact  |
-|Ezili  |Boomer |Alch   |Village|
 |Ezili  |Boomer |Druid  |Spact  |
 |Ezili  |Boomer |Druid  |Village|
 |Ezili  |Boomer |Spact  |Village|
@@ -3728,7 +3691,6 @@
 |Ezili  |Bomb   |Bucc   |Heli   |
 |Ezili  |Bomb   |Bucc   |Mortar |
 |Ezili  |Bomb   |Bucc   |Ninja  |
-|Ezili  |Bomb   |Bucc   |Alch   |
 |Ezili  |Bomb   |Bucc   |Druid  |
 |Ezili  |Bomb   |Bucc   |Spact  |
 |Ezili  |Bomb   |Ace    |Mortar |
@@ -3790,7 +3752,6 @@
 |Ezili  |Tack   |Bucc   |Heli   |
 |Ezili  |Tack   |Bucc   |Mortar |
 |Ezili  |Tack   |Bucc   |Ninja  |
-|Ezili  |Tack   |Bucc   |Alch   |
 |Ezili  |Tack   |Bucc   |Druid  |
 |Ezili  |Tack   |Ace    |Mortar |
 |Ezili  |Tack   |Ace    |Ninja  |
@@ -3835,7 +3796,6 @@
 |Ezili  |Ice    |Sub    |Spact  |
 |Ezili  |Ice    |Sub    |Village|
 |Ezili  |Ice    |Bucc   |Ninja  |
-|Ezili  |Ice    |Bucc   |Alch   |
 |Ezili  |Ice    |Bucc   |Druid  |
 |Ezili  |Ice    |Bucc   |Spact  |
 |Ezili  |Ice    |Bucc   |Village|
@@ -3884,7 +3844,6 @@
 |Ezili  |Glue   |Sub    |Spact  |
 |Ezili  |Glue   |Bucc   |Heli   |
 |Ezili  |Glue   |Bucc   |Ninja  |
-|Ezili  |Glue   |Bucc   |Alch   |
 |Ezili  |Glue   |Bucc   |Druid  |
 |Ezili  |Glue   |Bucc   |Spact  |
 |Ezili  |Glue   |Bucc   |Village|
@@ -3908,7 +3867,6 @@
 |Ezili  |Glue   |Spact  |Village|
 |Ezili  |Sniper |Bucc   |Heli   |
 |Ezili  |Sniper |Bucc   |Ninja  |
-|Ezili  |Sniper |Bucc   |Alch   |
 |Ezili  |Sniper |Bucc   |Druid  |
 |Ezili  |Sniper |Bucc   |Spact  |
 |Ezili  |Sniper |Bucc   |Village|
@@ -3939,7 +3897,6 @@
 |Ezili  |Sub    |Bucc   |Spact  |
 |Ezili  |Sub    |Bucc   |Village|
 |Ezili  |Sub    |Ace    |Druid  |
-|Ezili  |Sub    |Ace    |Village|
 |Ezili  |Sub    |Mortar |Ninja  |
 |Ezili  |Sub    |Mortar |Alch   |
 |Ezili  |Sub    |Mortar |Druid  |
@@ -3958,8 +3915,6 @@
 |Ezili  |Bucc   |Ninja  |Druid  |
 |Ezili  |Bucc   |Ninja  |Spact  |
 |Ezili  |Bucc   |Ninja  |Village|
-|Ezili  |Bucc   |Alch   |Druid  |
-|Ezili  |Bucc   |Alch   |Village|
 |Ezili  |Bucc   |Druid  |Spact  |
 |Ezili  |Bucc   |Druid  |Village|
 |Ezili  |Bucc   |Spact  |Village|

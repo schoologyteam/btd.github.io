@@ -6227,7 +6227,7 @@
 |Obyn   |Ninja  |Spact  |Village|milesman34|SZEOWCP|N
 |Obyn   |Bomb   |Glue   |Wizard |DespacitoMage|SZEOWES|N
 |Quincy |Mortar |Alch   |Village|Char|WZEOWLV|N
-|Obyn   |Boomer |Sub    |Alch   |Natethesnake |YZEOTAH|N
+|Obyn   |Boomer |Sub    |Alch   |Natethesnake|YZEOTAH|N
 |Church |Sub    |Bucc   |Village|Natethesnake|WZEOXRY|N
 |Church |Sub    |Bucc   |Spact  |Natethesnake|WZEOXRY|N
 |Church |Sub    |Bucc   |Druid  |Natethesnake|WZEOXRY|N
@@ -6240,3 +6240,48 @@
 |Church |Dart   |Sub    |Bucc   |Natethesnake|WZEOXRY|N
 |Obyn   |Tack   |Ice    |Wizard |DespacitoMage|FZEOXYU|N
 |Quincy |Dart   |Sub    |Alch   |Char|AZEOACE|N
+|Quincy |Dart   |Mortar |Alch   |Char|VZEOAYH|N
+|Quincy |Boomer |Mortar |Village|Char|CZEOBMR|N
+|Tack   |Alch   |Spact  |Village|water221|TZEOCTG|N
+|Striker|Mortar |Super  |Alch   |Dance|GZEOCPM|N
+|Church |Sub    |Ace    |Village|the_op_boss|RZEOCOT|N
+|Church |Sub    |Ace    |Druid  |the_op_boss|RZEOCOT|N
+|Church |Ice    |Sub    |Ace    |the_op_boss|RZEOCOT|N
+|Church |Tack   |Sub    |Ace    |the_op_boss|RZEOCOT|N
+|Church |Bomb   |Sub    |Ace    |the_op_boss|RZEOCOT|N
+|Church |Dart   |Sub    |Ace    |the_op_boss|RZEOCOT|N
+|Gwen   |Boomer |Alch   |Village|Natethesnake|PZEODVV|N
+|Quincy |Ace    |Mortar |Village|Rakution|AZEODSL|N
+|Obyn   |Boomer |Alch   |Spact  |Natethesnake|CZEOEKX|N
+|Quincy |Tack   |Mortar |Spact  |Char|FZEOEXK|N
+|Quincy |Tack   |Mortar |Druid  |Char|FZEOEXK|N
+|Quincy |Tack   |Mortar |Ninja  |Char|FZEOEXK|N
+|Quincy |Tack   |Ace    |Mortar |Char|FZEOEXK|N
+|Quincy |Tack   |Bucc   |Mortar |Char|FZEOEXK|N
+|Quincy |Tack   |Sub    |Mortar |Char|FZEOEXK|N
+|Quincy |Tack   |Ice    |Mortar |Char|FZEOEXK|N
+|Quincy |Bomb   |Tack   |Mortar |Char|FZEOEXK|N
+|Quincy |Boomer |Tack   |Mortar |Char|FZEOEXK|N
+|Quincy |Dart   |Tack   |Mortar |Char|FZEOEXK|N
+|Pat    |Tack   |Sub    |Ace    |DespacitoMage|FZEOECM|N
+|Ezili  |Boomer |Alch   |Village|Natethesnake|DZEOERF|N
+|Church |Bucc   |Ninja  |Village|Rakution|SZEOEOG|N
+|Ezili  |Bucc   |Alch   |Village|Natethesnake|GZEOPWX|N
+|Ezili  |Bucc   |Alch   |Druid  |Natethesnake|GZEOPWX|N
+|Ezili  |Sniper |Bucc   |Alch   |Natethesnake|GZEOPWX|N
+|Ezili  |Glue   |Bucc   |Alch   |Natethesnake|GZEOPWX|N
+|Ezili  |Ice    |Bucc   |Alch   |Natethesnake|GZEOPWX|N
+|Ezili  |Tack   |Bucc   |Alch   |Natethesnake|GZEOPWX|N
+|Ezili  |Bomb   |Bucc   |Alch   |Natethesnake|GZEOPWX|N
+|Ezili  |Dart   |Bucc   |Alch   |Natethesnake|GZEOPWX|N
+|Boomer |Alch   |Spact  |Village|Kevaca|VZEORKK|N
+|Gwen   |Tack   |Ninja  |Spact  |dadragon99|TZEORHB|N
+|Ezili  |Sub    |Ace    |Village|Kevaca|DZEORAD|N
+|Pat    |Sub    |Ace    |Village|Kevaca|DZEORAD|N
+|Obyn   |Sub    |Ace    |Village|Kevaca|DZEORAD|N
+|Striker|Sub    |Ace    |Village|Kevaca|DZEORAD|N
+|Sub    |Ace    |Druid  |Village|Kevaca|DZEORAD|N
+|Ice    |Sub    |Ace    |Village|Kevaca|DZEORAD|N
+|Bomb   |Sub    |Ace    |Village|Kevaca|DZEORAD|N
+|Striker|Bomb   |Sub    |Wizard |dadragon99|LZEORDL|N
+|Obyn   |Boomer |Glue   |Wizard |DespacitoMage|RZEOYXO|N
