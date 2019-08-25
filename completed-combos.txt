@@ -6285,3 +6285,45 @@
 |Bomb   |Sub    |Ace    |Village|Kevaca|DZEORAD|N
 |Striker|Bomb   |Sub    |Wizard |dadragon99|LZEORDL|N
 |Obyn   |Boomer |Glue   |Wizard |DespacitoMage|RZEOYXO|N
+|Pat    |Sniper |Wizard |Village|RandyZ524|CZEOOTV|N
+|Ezili  |Sniper |Wizard |Village|RandyZ524|AZEOOSV|N
+|Sniper |Wizard |Druid  |Village|RandyZ524|WZPKVGH|N
+|Ezili  |Tack   |Ace    |Mortar |Char|MZPKKFY|N
+|Church |Tack   |Ace    |Mortar |Char|MZPKKFY|N
+|Pat    |Tack   |Ace    |Mortar |Char|MZPKKFY|N
+|Striker|Tack   |Ace    |Mortar |Char|MZPKKFY|N
+|Gwen   |Tack   |Ace    |Mortar |Char|MZPKKFY|N
+|Tack   |Ace    |Mortar |Druid  |Char|MZPKKFY|N
+|Tack   |Sniper |Ace    |Mortar |Char|MZPKKFY|N
+|Tack   |Glue   |Ace    |Mortar |Char|MZPKKFY|N
+|Tack   |Ice    |Ace    |Mortar |Char|MZPKKFY|N
+|Bomb   |Tack   |Ace    |Mortar |Char|MZPKKFY|N
+|Church |Tack   |Mortar |Village|Char|FZPKKXU|N
+|Church |Tack   |Mortar |Spact  |Char|FZPKKXU|N
+|Church |Tack   |Mortar |Druid  |Char|FZPKKXU|N
+|Church |Tack   |Mortar |Alch   |Char|FZPKKXU|N
+|Church |Tack   |Mortar |Ninja  |Char|FZPKKXU|N
+|Church |Tack   |Sub    |Mortar |Char|FZPKKXU|N
+|Church |Tack   |Sniper |Mortar |Char|FZPKKXU|N
+|Church |Tack   |Glue   |Mortar |Char|FZPKKXU|N
+|Church |Tack   |Ice    |Mortar |Char|FZPKKXU|N
+|Church |Bomb   |Tack   |Mortar |Char|FZPKKXU|N
+|Ezili  |Tack   |Sub    |Mortar |Char|TZPKHXO|N
+|Pat    |Tack   |Sub    |Mortar |Char|TZPKHXO|N
+|Obyn   |Tack   |Sub    |Mortar |Char|TZPKHXO|N
+|Striker|Tack   |Sub    |Mortar |Char|TZPKHXO|N
+|Gwen   |Tack   |Sub    |Mortar |Char|TZPKHXO|N
+|Tack   |Sub    |Mortar |Druid  |Char|TZPKHXO|N
+|Tack   |Sub    |Mortar |Alch   |Char|TZPKHXO|N
+|Tack   |Sub    |Mortar |Ninja  |Char|TZPKHXO|N
+|Tack   |Ice    |Sub    |Mortar |Char|TZPKHXO|N
+|Bomb   |Tack   |Sub    |Mortar |Char|TZPKHXO|N
+|Dart   |Tack   |Sub    |Mortar |Char|TZPKHXO|N
+|Ezili  |Tack   |Bucc   |Mortar |Char|XZPKHPL|N
+|Obyn   |Tack   |Bucc   |Mortar |Char|XZPKHPL|N
+|Striker|Tack   |Bucc   |Mortar |Char|XZPKHPL|N
+|Gwen   |Tack   |Bucc   |Mortar |Char|XZPKHPL|N
+|Tack   |Bucc   |Mortar |Druid  |Char|XZPKHPL|N
+|Tack   |Bucc   |Mortar |Ninja  |Char|XZPKHPL|N
+|Bomb   |Tack   |Bucc   |Mortar |Char|XZPKHPL|N
+|Gwen   |Ace    |Ninja  |Village|dadragon99|CZPKWYX|N

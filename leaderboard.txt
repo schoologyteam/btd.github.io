@@ -1,6 +1,6 @@
+Char: 231
 The Mochinator: 215
-RandyZ524: 203
-Char: 193
+RandyZ524: 206
 the_op_boss: 178
 Agent51: 165
 coolio1223: 158
@@ -48,11 +48,11 @@ Michael Volz: 3
 AKNIGHT49: 3
 Dance: 3
 Rakution: 3
+dadragon99: 3
 Overeasybacon: 2
 DespacitoMage : 2
 AUAG: 2
 Imbigtedde: 2
-dadragon99: 2
 Samhulk99: 1
 p4nthom22: 1
 ItIsNitecap: 1
