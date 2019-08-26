@@ -6327,3 +6327,35 @@
 |Tack   |Bucc   |Mortar |Ninja  |Char|XZPKHPL|N
 |Bomb   |Tack   |Bucc   |Mortar |Char|XZPKHPL|N
 |Gwen   |Ace    |Ninja  |Village|dadragon99|CZPKWYX|N
+|Pat    |Tack   |Alch   |Spact  |380-mortis|KZPKCGP|N
+|Obyn   |Tack   |Alch   |Spact  |380-mortis|KZPKCGP|N
+|Striker|Tack   |Alch   |Spact  |380-mortis|KZPKCGP|N
+|Tack   |Sub    |Alch   |Spact  |380-mortis|KZPKCGP|N
+|Tack   |Sniper |Alch   |Spact  |380-mortis|KZPKCGP|N
+|Tack   |Glue   |Alch   |Spact  |380-mortis|KZPKCGP|N
+|Tack   |Ice    |Alch   |Spact  |380-mortis|KZPKCGP|N
+|Boomer |Tack   |Alch   |Spact  |380-mortis|KZPKCGP|N
+|Dart   |Tack   |Alch   |Spact  |380-mortis|KZPKCGP|N
+|Gwen   |Sub    |Bucc   |Ninja  |dadragon99|EZPKCCF|N
+|Pat    |Tack   |Mortar |Spact  |Char|LZPKDEK|N
+|Obyn   |Tack   |Mortar |Spact  |Char|LZPKDEK|N
+|Striker|Tack   |Mortar |Spact  |Char|LZPKDEK|N
+|Gwen   |Tack   |Mortar |Spact  |Char|LZPKDEK|N
+|Tack   |Mortar |Spact  |Village|Char|LZPKDEK|N
+|Tack   |Mortar |Druid  |Spact  |Char|LZPKDEK|N
+|Tack   |Mortar |Ninja  |Spact  |Char|LZPKDEK|N
+|Tack   |Sniper |Mortar |Spact  |Char|LZPKDEK|N
+|Tack   |Glue   |Mortar |Spact  |Char|LZPKDEK|N
+|Tack   |Ice    |Mortar |Spact  |Char|LZPKDEK|N
+|Bomb   |Tack   |Mortar |Spact  |Char|LZPKDEK|N
+|Quincy |Glue   |Spact  |Village|dadragon99|SZPKEYO|N
+|Gwen   |Ice    |Wizard |Village|@NoArmsTigerMan|GZPKPGE|N
+|Pat    |Glue   |Sniper |Wizard |PEZmaster2|KZPKRSV|N
+|Ezili  |Mortar |Alch   |Spact  |The Mochinator|YZPKYWY|N
+|Pat    |Mortar |Alch   |Spact  |The Mochinator|YZPKYWY|N
+|Obyn   |Mortar |Alch   |Spact  |The Mochinator|YZPKYWY|N
+|Striker|Mortar |Alch   |Spact  |The Mochinator|YZPKYWY|N
+|Mortar |Alch   |Spact  |Village|The Mochinator|YZPKYWY|N
+|Sniper |Mortar |Alch   |Spact  |The Mochinator|YZPKYWY|N
+|Ice    |Mortar |Alch   |Spact  |The Mochinator|YZPKYWY|N
+|Gwen   |Ninja  |Druid  |Village|Imbigtedde|FZPKYLH|N

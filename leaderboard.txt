@@ -1,5 +1,5 @@
-Char: 231
-The Mochinator: 215
+Char: 242
+The Mochinator: 222
 RandyZ524: 206
 the_op_boss: 178
 Agent51: 165
@@ -13,7 +13,7 @@ meta: 74
 Chocbox: 73
 Urinetosh: 70
 Smurfblade: 56
-PEZmaster2: 49
+PEZmaster2: 50
 UnLapiz: 43
 Gavo38322: 41
 123CrimsonRain: 37
@@ -34,6 +34,7 @@ samhulk99: 12
 powergo: 11
 The Line: 11
 DespacitoMage: 10
+380-mortis: 10
 Mlop098: 9
 killcrazy99: 8
 Valter: 8
@@ -41,6 +42,7 @@ Kevaca: 8
 LightChaosman: 7
 Kyle Robinson: 6
 Kholdstare: 5
+dadragon99: 5
 Amanensia: 4
 rouge_bare: 4
 LoveBrothers: 4
@@ -48,11 +50,11 @@ Michael Volz: 3
 AKNIGHT49: 3
 Dance: 3
 Rakution: 3
-dadragon99: 3
+Imbigtedde: 3
 Overeasybacon: 2
 DespacitoMage : 2
+@NoArmsTigerMan: 2
 AUAG: 2
-Imbigtedde: 2
 Samhulk99: 1
 p4nthom22: 1
 ItIsNitecap: 1
@@ -79,9 +81,7 @@ WillOwispss: 1
 Friartruck: 1
 Jordan Hintz: 1
 BloonBuster974: 1
-@NoArmsTigerMan: 1
 GamerGirl73: 1
-380-mortis: 1
 AIGP2304: 1
 Gayanjebko: 1
 milesman34: 1
