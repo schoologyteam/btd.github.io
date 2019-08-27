@@ -6359,3 +6359,31 @@
 |Sniper |Mortar |Alch   |Spact  |The Mochinator|YZPKYWY|N
 |Ice    |Mortar |Alch   |Spact  |The Mochinator|YZPKYWY|N
 |Gwen   |Ninja  |Druid  |Village|Imbigtedde|FZPKYLH|N
+|Obyn   |Sub    |Alch   |Druid  |Tyrell|LZPKLPR|N
+|Obyn   |Bucc   |Ninja  |Village|GamesCore|GZPKOSF|N
+|Gwen   |Glue   |Ninja  |Village|Minecraft|EZPMFER|N
+|Pat    |Boomer |Ice    |Wizard |Natethesnake|VZPMHYD|N
+|Quincy |Ice    |Glue   |Village|Doesj|WZPMUFU|N
+|Ezili  |Boomer |Alch   |Spact  |The Mochinator|WZPMUWM|N
+|Pat    |Boomer |Alch   |Spact  |The Mochinator|WZPMUWM|N
+|Striker|Boomer |Alch   |Spact  |The Mochinator|WZPMUWM|N
+|Boomer |Sniper |Alch   |Spact  |The Mochinator|WZPMUWM|N
+|Boomer |Glue   |Alch   |Spact  |The Mochinator|WZPMUWM|N
+|Boomer |Ice    |Alch   |Spact  |The Mochinator|WZPMUWM|N
+|Dart   |Boomer |Alch   |Spact  |The Mochinator|WZPMUWM|N
+|Ezili  |Ice    |Wizard |Village|GZPMUOL|PEZMASTER2|N
+|Obyn   |Boomer |Tack   |Wizard |PEZmaster2|MZPMVWC|N
+|Glue   |Druid  |Spact  |Village|Overeasybacon|VZPMVBA|N
+|Obyn   |Sub    |Ninja  |Village|Imbigtedde|YZPMVSL|N
+|Gwen   |Ninja  |Spact  |Village|Imbigtedde|DZPMVLR|N
+|Ezili  |Sub    |Mortar |Alch   |The Mochinator|FZPMWTF|N
+|Church |Sub    |Mortar |Alch   |The Mochinator|FZPMWTF|N
+|Pat    |Sub    |Mortar |Alch   |The Mochinator|FZPMWTF|N
+|Obyn   |Sub    |Mortar |Alch   |The Mochinator|FZPMWTF|N
+|Striker|Sub    |Mortar |Alch   |The Mochinator|FZPMWTF|N
+|Gwen   |Sub    |Mortar |Alch   |The Mochinator|FZPMWTF|N
+|Quincy |Sub    |Mortar |Alch   |The Mochinator|FZPMWTF|N
+|Sub    |Mortar |Alch   |Druid  |The Mochinator|FZPMWTF|N
+|Ice    |Sub    |Mortar |Alch   |The Mochinator|FZPMWTF|N
+|Bomb   |Sub    |Mortar |Alch   |The Mochinator|FZPMWTF|N
+|Dart   |Sub    |Mortar |Alch   |The Mochinator|FZPMWTF|N
