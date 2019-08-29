@@ -1,5 +1,5 @@
+The Mochinator: 264
 Char: 242
-The Mochinator: 240
 RandyZ524: 206
 the_op_boss: 178
 Agent51: 165
@@ -12,17 +12,17 @@ Topaz: 78
 meta: 74
 Chocbox: 73
 Urinetosh: 70
-Smurfblade: 56
+Smurfblade: 64
 PEZmaster2: 51
 UnLapiz: 43
-Gavo38322: 41
+Gavo38322: 42
 123CrimsonRain: 37
 TobiBloon439: 36
 RainbowDox: 28
+rmlgaming: 24
 Jollto13: 24
 Natethesnake: 24
 TheKNEE13: 23
-rmlgaming: 20
 Mr-Samson: 19
 Lookatmeimamod: 18
 KaptainKrunche: 18
@@ -40,21 +40,23 @@ killcrazy99: 8
 Valter: 8
 Kevaca: 8
 LightChaosman: 7
+Imbigtedde: 7
 Kyle Robinson: 6
 Kholdstare: 5
-Imbigtedde: 5
 dadragon99: 5
 Amanensia: 4
 rouge_bare: 4
 LoveBrothers: 4
+@NoArmsTigerMan: 4
 Overeasybacon: 3
 Michael Volz: 3
 AKNIGHT49: 3
 Dance: 3
 Rakution: 3
 DespacitoMage : 2
-@NoArmsTigerMan: 2
 AUAG: 2
+Doesj: 2
+ILiekFishes: 2
 Samhulk99: 1
 p4nthom22: 1
 ItIsNitecap: 1
@@ -89,5 +91,5 @@ water221: 1
 Tyrell: 1
 GamesCore: 1
 Minecraft: 1
-Doesj: 1
-GZPMUOL: 1
+PEZMASTER2: 1
+Laggy Internet: 1

@@ -6371,7 +6371,7 @@
 |Boomer |Glue   |Alch   |Spact  |The Mochinator|WZPMUWM|N
 |Boomer |Ice    |Alch   |Spact  |The Mochinator|WZPMUWM|N
 |Dart   |Boomer |Alch   |Spact  |The Mochinator|WZPMUWM|N
-|Ezili  |Ice    |Wizard |Village|GZPMUOL|PEZMASTER2|N
+|Ezili  |Ice    |Wizard |Village|PEZMASTER2|GZPMUOL|N
 |Obyn   |Boomer |Tack   |Wizard |PEZmaster2|MZPMVWC|N
 |Glue   |Druid  |Spact  |Village|Overeasybacon|VZPMVBA|N
 |Obyn   |Sub    |Ninja  |Village|Imbigtedde|YZPMVSL|N
@@ -6387,3 +6387,48 @@
 |Ice    |Sub    |Mortar |Alch   |The Mochinator|FZPMWTF|N
 |Bomb   |Sub    |Mortar |Alch   |The Mochinator|FZPMWTF|N
 |Dart   |Sub    |Mortar |Alch   |The Mochinator|FZPMWTF|N
+|Boomer |Tack   |Spact  |Village|@NoArmsTigerMan|OZPMWLT|N
+|Gwen   |Sub    |Wizard |Druid  |Imbigtedde|GZPMSKH|N
+|Obyn   |Sub    |Wizard |Village|Imbigtedde|TZPMSHE|N
+|Striker|Dart   |Super  |Village|ILiekFishes|YZPMSOD|N
+|Ezili  |Mortar |Super  |Village|The Mochinator|BZPMDPA|N
+|Ezili  |Mortar |Super  |Spact  |The Mochinator|BZPMDPA|N
+|Ezili  |Mortar |Super  |Druid  |The Mochinator|BZPMDPA|N
+|Ezili  |Mortar |Super  |Alch   |The Mochinator|BZPMDPA|N
+|Ezili  |Ace    |Mortar |Super  |The Mochinator|BZPMDPA|N
+|Ezili  |Ice    |Mortar |Super  |The Mochinator|BZPMDPA|N
+|Striker|Bomb   |Bucc   |Village|@NoArmsTigerMan|GZPMEPY|N
+|Tack   |Sub    |Wizard |Alch   |Laggy Internet|SZPMEOR|N
+|Pat    |Glue   |Super  |Ninja  |ILiekFishes|HZPMPSC|N
+|Obyn   |Sniper |Wizard |Village|rmlgaming|MZPMRMY|N
+|Striker|Sniper |Wizard |Village|rmlgaming|MZPMRMY|N
+|Gwen   |Sniper |Wizard |Village|rmlgaming|MZPMRMY|N
+|Ice    |Sniper |Wizard |Village|rmlgaming|MZPMRMY|N
+|Quincy |Wizard |Druid  |Village|Doesj|PZPMREM|N
+|Ezili  |Mortar |Ninja  |Spact  |Smurfblade|WZPMODH|N
+|Church |Mortar |Ninja  |Spact  |Smurfblade|WZPMODH|N
+|Pat    |Mortar |Ninja  |Spact  |Smurfblade|WZPMODH|N
+|Striker|Mortar |Ninja  |Spact  |Smurfblade|WZPMODH|N
+|Gwen   |Mortar |Ninja  |Spact  |Smurfblade|WZPMODH|N
+|Mortar |Ninja  |Druid  |Spact  |Smurfblade|WZPMODH|N
+|Sniper |Mortar |Ninja  |Spact  |Smurfblade|WZPMODH|N
+|Ice    |Mortar |Ninja  |Spact  |Smurfblade|WZPMODH|N
+|Ezili  |Glue   |Sub    |Spact  |The Mochinator|EZPMOOS|N
+|Pat    |Glue   |Sub    |Spact  |The Mochinator|EZPMOOS|N
+|Obyn   |Glue   |Sub    |Spact  |The Mochinator|EZPMOOS|N
+|Gwen   |Glue   |Sub    |Spact  |The Mochinator|EZPMOOS|N
+|Quincy |Glue   |Sub    |Spact  |The Mochinator|EZPMOOS|N
+|Glue   |Sub    |Alch   |Spact  |The Mochinator|EZPMOOS|N
+|Glue   |Sub    |Ninja  |Spact  |The Mochinator|EZPMOOS|N
+|Glue   |Sub    |Bucc   |Spact  |The Mochinator|EZPMOOS|N
+|Ice    |Glue   |Sub    |Spact  |The Mochinator|EZPMOOS|N
+|Tack   |Glue   |Sub    |Spact  |The Mochinator|EZPMOOS|N
+|Bomb   |Glue   |Sub    |Spact  |The Mochinator|EZPMOOS|N
+|Obyn   |Boomer |Sniper |Wizard |The Mochinator|PZPFFYE|N
+|Obyn   |Boomer |Ice    |Wizard |The Mochinator|PZPFFYE|N
+|Obyn   |Boomer |Bomb   |Wizard |The Mochinator|PZPFFYE|N
+|Gwen   |Sub    |Druid  |Village|Gavo38322|YZPFHYU|N
+|Obyn   |Bomb   |Sub    |Wizard |The Mochinator|GZPFHOT|N
+|Obyn   |Bomb   |Sniper |Wizard |The Mochinator|GZPFHOT|N
+|Obyn   |Bomb   |Ice    |Wizard |The Mochinator|GZPFHOT|N
+|Obyn   |Bomb   |Tack   |Wizard |The Mochinator|GZPFHOT|N
