@@ -6432,3 +6432,29 @@
 |Obyn   |Bomb   |Sniper |Wizard |The Mochinator|GZPFHOT|N
 |Obyn   |Bomb   |Ice    |Wizard |The Mochinator|GZPFHOT|N
 |Obyn   |Bomb   |Tack   |Wizard |The Mochinator|GZPFHOT|N
+|Striker|Bucc   |Super  |Druid  |RandyZ524|HZPHHXX|N
+|Striker|Bucc   |Super  |Ninja  |RandyZ524|HZPHHXX|N
+|Striker|Tack   |Bucc   |Super  |RandyZ524|HZPHHXX|N
+|Striker|Dart   |Bucc   |Super  |RandyZ524|HZPHHXX|N
+|Quincy |Ace    |Ninja  |Village|dadragon99|EZPFBPS|N
+|Gwen   |Boomer |Ninja  |Village|PEZmaster2|PZPFSGY|N
+|Obyn   |Sniper |Ninja  |Village|Gavo38322|RZPFSBO|N
+|Gwen   |Boomer |Mortar |Village|PEZmaster2|PZPFSSK|N
+|Quincy |Sub    |Wizard |Village|dadragon99|LZPFYOV|N
+|Boomer |Glue   |Sniper |Wizard |PEZmaster2|PZPGKBM|N
+|Ezili  |Boomer |Glue   |Wizard |coolio1223|BZPGMOC|N
+|Pat    |Boomer |Super  |Village|PEZmaster2|BZPGFYD|N
+|Quincy |Boomer |Ice    |Village|Gavo38322|EZPGATA|N
+|Obyn   |Alch   |Spact  |Village|The Mochinator|SZPGAXC|N
+|Obyn   |Sub    |Alch   |Spact  |The Mochinator|SZPGAXC|N
+|Obyn   |Sniper |Alch   |Spact  |The Mochinator|SZPGAXC|N
+|Obyn   |Glue   |Alch   |Spact  |The Mochinator|SZPGAXC|N
+|Obyn   |Ice    |Alch   |Spact  |The Mochinator|SZPGAXC|N
+|Obyn   |Dart   |Alch   |Spact  |The Mochinator|SZPGAXC|N
+|Church |Boomer |Spact  |Village|PEZmaster2|DZPGAEA|N
+|Striker|Sub    |Bucc   |Village|Gavo38322|WZPGBTA|N
+|Boomer |Glue   |Spact  |Village|GeorgeGraphy|DZPGYCS|N
+|Quincy |Glue   |Druid  |Village|Gavo38322|HZPGOOH|N
+|Dart   |Bomb   |Sub    |Village|Gavo38322|LZPHFCF|N
+|Quincy |Glue   |Sub    |Alch   |coolio1223|UZPHGHV|N
+|Quincy |Sub    |Wizard |Druid  |InnateWarrior|HZPHUXA|N

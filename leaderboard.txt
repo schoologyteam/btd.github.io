@@ -1,9 +1,9 @@
-The Mochinator: 264
+The Mochinator: 270
 Char: 242
-RandyZ524: 206
+RandyZ524: 210
 the_op_boss: 178
 Agent51: 165
-coolio1223: 158
+coolio1223: 160
 frds: 138
 Great Mage: 130
 rigged: 127
@@ -13,9 +13,9 @@ meta: 74
 Chocbox: 73
 Urinetosh: 70
 Smurfblade: 64
-PEZmaster2: 51
+PEZmaster2: 56
+Gavo38322: 47
 UnLapiz: 43
-Gavo38322: 42
 123CrimsonRain: 37
 TobiBloon439: 36
 RainbowDox: 28
@@ -41,9 +41,9 @@ Valter: 8
 Kevaca: 8
 LightChaosman: 7
 Imbigtedde: 7
+dadragon99: 7
 Kyle Robinson: 6
 Kholdstare: 5
-dadragon99: 5
 Amanensia: 4
 rouge_bare: 4
 LoveBrothers: 4
@@ -93,3 +93,5 @@ GamesCore: 1
 Minecraft: 1
 PEZMASTER2: 1
 Laggy Internet: 1
+GeorgeGraphy: 1
+InnateWarrior: 1
