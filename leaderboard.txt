@@ -1,14 +1,14 @@
-The Mochinator: 270
+The Mochinator: 275
 Char: 242
 RandyZ524: 210
 the_op_boss: 178
 Agent51: 165
-coolio1223: 160
+coolio1223: 164
 frds: 138
 Great Mage: 130
 rigged: 127
 315Lukas: 87
-Topaz: 78
+Topaz: 85
 meta: 74
 Chocbox: 73
 Urinetosh: 70
@@ -33,14 +33,16 @@ Uniquepotatoes: 13
 samhulk99: 12
 powergo: 11
 The Line: 11
+InnateWarrior: 11
 DespacitoMage: 10
 380-mortis: 10
 Mlop098: 9
 killcrazy99: 8
 Valter: 8
+Imbigtedde: 8
 Kevaca: 8
+killerkama: 8
 LightChaosman: 7
-Imbigtedde: 7
 dadragon99: 7
 Kyle Robinson: 6
 Kholdstare: 5
@@ -53,6 +55,8 @@ Michael Volz: 3
 AKNIGHT49: 3
 Dance: 3
 Rakution: 3
+Emtee: 3
+ImTheException: 3
 DespacitoMage : 2
 AUAG: 2
 Doesj: 2
@@ -94,4 +98,4 @@ Minecraft: 1
 PEZMASTER2: 1
 Laggy Internet: 1
 GeorgeGraphy: 1
-InnateWarrior: 1
+MrDeagle: 1

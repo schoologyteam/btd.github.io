@@ -6458,3 +6458,45 @@
 |Dart   |Bomb   |Sub    |Village|Gavo38322|LZPHFCF|N
 |Quincy |Glue   |Sub    |Alch   |coolio1223|UZPHGHV|N
 |Quincy |Sub    |Wizard |Druid  |InnateWarrior|HZPHUXA|N
+|Obyn   |Tack   |Glue   |Village|InnateWarrior|HZPHAOV|N
+|Obyn   |Tack   |Sub    |Wizard |InnateWarrior|KZPHCHR|N
+|Boomer |Tack   |Sniper |Wizard |InnateWarrior|AZPHPFO|N
+|Obyn   |Sub    |Ace    |Druid  |The Mochinator|FZPUMWP|N
+|Obyn   |Glue   |Sub    |Ace    |The Mochinator|FZPUMWP|N
+|Obyn   |Ice    |Sub    |Ace    |The Mochinator|FZPUMWP|N
+|Obyn   |Bomb   |Sub    |Ace    |The Mochinator|FZPUMWP|N
+|Obyn   |Dart   |Sub    |Ace    |The Mochinator|FZPUMWP|N
+|Obyn   |Boomer |Tack   |Village|InnateWarrior|WZPUFAA|N
+|Ezili  |Dart   |Sub    |Ace    |killerkama|AZPUGGY|N
+|Pat    |Dart   |Sub    |Ace    |killerkama|AZPUGGY|N
+|Striker|Dart   |Sub    |Ace    |killerkama|AZPUGGY|N
+|Dart   |Sub    |Ace    |Druid  |killerkama|AZPUGGY|N
+|Dart   |Glue   |Sub    |Ace    |killerkama|AZPUGGY|N
+|Dart   |Ice    |Sub    |Ace    |killerkama|AZPUGGY|N
+|Dart   |Tack   |Sub    |Ace    |killerkama|AZPUGGY|N
+|Dart   |Bomb   |Sub    |Ace    |killerkama|AZPUGGY|N
+|Dart   |Alch   |Druid  |Village|Emtee|FZPUHAM|N
+|Ace    |Alch   |Druid  |Village|Emtee|VZPUUOR|N
+|Super  |Alch   |Druid  |Village|InnateWarrior|DZPUVAR|N
+|Ezili  |Glue   |Wizard |Druid  |coolio1223|SZPUVSV|N
+|Quincy |Mortar |Druid  |Village|Emtee|YZPUVDU|N
+|Gwen   |Bucc   |Ninja  |Village|Imbigtedde|DZPUVEK|N
+|Church |Alch   |Druid  |Village|InnateWarrior|EZPUWAX|N
+|Sub    |Bucc   |Ninja  |Spact  |MrDeagle|DZPUTFG|N
+|Ezili  |Super  |Ninja  |Druid  |coolio1223|SZPUAUW|N
+|Ezili  |Ice    |Super  |Ninja  |coolio1223|SZPUAUW|N
+|Pat    |Boomer |Ace    |Druid  |Topaz|DZPUBCA|N
+|Pat    |Boomer |Sniper |Ace    |Topaz|DZPUBCA|N
+|Pat    |Boomer |Glue   |Ace    |Topaz|DZPUBCA|N
+|Pat    |Boomer |Ice    |Ace    |Topaz|DZPUBCA|N
+|Pat    |Boomer |Tack   |Ace    |Topaz|DZPUBCA|N
+|Pat    |Boomer |Bomb   |Ace    |Topaz|DZPUBCA|N
+|Pat    |Dart   |Boomer |Ace    |Topaz|DZPUBCA|N
+|Tack   |Glue   |Spact  |Village|InnateWarrior|UZPUCED|N
+|Pat    |Tack   |Spact  |Village|InnateWarrior|EZPVKUX|N
+|Tack   |Glue   |Sniper |Wizard |InnateWarrior|HZPVKEK|N
+|Ezili  |Tack   |Sub    |Wizard |ImTheException|TZPVMRV|N
+|Striker|Tack   |Sub    |Wizard |ImTheException|TZPVMRV|N
+|Tack   |Sub    |Wizard |Druid  |ImTheException|TZPVMRV|N
+|Gwen   |Ice    |Ninja  |Village|InnateWarrior|VZPVUBM|N
+|Tack   |Glue   |Super  |Spact  |coolio1223|LZPVVKW|N
