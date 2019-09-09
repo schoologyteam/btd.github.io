@@ -1,9 +1,9 @@
-The Mochinator: 275
-Char: 242
-RandyZ524: 210
+The Mochinator: 294
+Char: 243
+RandyZ524: 214
 the_op_boss: 178
-Agent51: 165
-coolio1223: 164
+Agent51: 167
+coolio1223: 166
 frds: 138
 Great Mage: 130
 rigged: 127
@@ -18,22 +18,24 @@ Gavo38322: 47
 UnLapiz: 43
 123CrimsonRain: 37
 TobiBloon439: 36
-RainbowDox: 28
+Emtee: 36
+RainbowDox: 30
 rmlgaming: 24
 Jollto13: 24
+TheKNEE13: 24
 Natethesnake: 24
-TheKNEE13: 23
 Mr-Samson: 19
 Lookatmeimamod: 18
 KaptainKrunche: 18
+InnateWarrior: 18
 laxx: 15
 urhere: 14
 Uniquepotatoes: 13
 411i0tt: 13
+MaiaGD: 13
 samhulk99: 12
 powergo: 11
 The Line: 11
-InnateWarrior: 11
 DespacitoMage: 10
 380-mortis: 10
 Mlop098: 9
@@ -55,12 +57,12 @@ Michael Volz: 3
 AKNIGHT49: 3
 Dance: 3
 Rakution: 3
-Emtee: 3
 ImTheException: 3
 DespacitoMage : 2
 AUAG: 2
 Doesj: 2
 ILiekFishes: 2
+GabiPera: 2
 Samhulk99: 1
 p4nthom22: 1
 ItIsNitecap: 1
@@ -99,3 +101,4 @@ PEZMASTER2: 1
 Laggy Internet: 1
 GeorgeGraphy: 1
 MrDeagle: 1
+Rangaz: 1
