@@ -6587,3 +6587,178 @@
 |Sub    |Wizard |Druid  |Village|Agent51|DZPWOAW|N
 |Ice    |Wizard |Druid  |Village|Agent51|DZPWOAW|N
 |Boomer |Bomb   |Sniper |Village|Emtee|VZPTKWA|N
+|Bucc   |Super  |Ninja  |Druid  |RandyZ524|TZPTFUL|N
+|Tack   |Bucc   |Super  |Druid  |RandyZ524|GZPTFBR|N
+|Ezili  |Sniper |Bucc   |Heli   |RandyZ524|HZPTXBU|N
+|Striker|Sniper |Bucc   |Heli   |RandyZ524|HZPTXBU|N
+|Gwen   |Sniper |Bucc   |Heli   |RandyZ524|HZPTXBU|N
+|Sniper |Bucc   |Heli   |Druid  |RandyZ524|HZPTXBU|N
+|Glue   |Sniper |Bucc   |Heli   |RandyZ524|HZPTXBU|N
+|Ice    |Sniper |Bucc   |Heli   |RandyZ524|HZPTXBU|N
+|Tack   |Sniper |Bucc   |Heli   |RandyZ524|HZPTXBU|N
+|Boomer |Sniper |Bucc   |Heli   |RandyZ524|HZPTXBU|N
+|Dart   |Sniper |Bucc   |Heli   |RandyZ524|HZPTXBU|N
+|Quincy |Boomer |Bomb   |Village|Emtee|EZPTFLX|N
+|Dart   |Boomer |Bomb   |Village|Emtee|FZPTVBH|N
+|Dart   |Sniper |Super  |Village|InnateWarrior|KZPTXXV|N
+|Church |Bomb   |Bucc   |Village|Emtee|GZPTXAB|N
+|Obyn   |Bomb   |Bucc   |Village|Emtee|GZPTXAB|N
+|Gwen   |Bomb   |Bucc   |Village|Emtee|GZPTXAB|N
+|Quincy |Bomb   |Bucc   |Village|Emtee|GZPTXAB|N
+|Bomb   |Bucc   |Spact  |Village|Emtee|GZPTXAB|N
+|Bomb   |Bucc   |Druid  |Village|Emtee|GZPTXAB|N
+|Bomb   |Bucc   |Alch   |Village|Emtee|GZPTXAB|N
+|Bomb   |Ice    |Bucc   |Village|Emtee|GZPTXAB|N
+|Dart   |Bomb   |Bucc   |Village|Emtee|GZPTXAB|N
+|Dart   |Glue   |Super  |Village|InnateWarrior|PZPTXEO|N
+|Tack   |Super  |Spact  |Village|InnateWarrior|WZPTAWR|N
+|Church |Tack   |Spact  |Village|InnateWarrior|LZPTEVM|N
+|Glue   |Mortar |Super  |Alch   |Overeasybacon|AZPTPFV|N
+|Boomer |Bomb   |Sniper |Wizard |Emtee|SZPTPPP|N
+|Obyn   |Ace    |Druid  |Village|JEB222|LZPTYUT|N
+|Ezili  |Bomb   |Sub    |Wizard |Emtee|AZPTYTW|N
+|Gwen   |Bomb   |Sub    |Wizard |Emtee|AZPTYTW|N
+|Bomb   |Sub    |Wizard |Druid  |Emtee|AZPTYTW|N
+|Gwen   |Tack   |Sniper |Super  |coolio1223|XZPTYOW|N
+|Gwen   |Tack   |Super  |Spact  |coolio1223|MZPTLPT|N
+|Gwen   |Tack   |Glue   |Super  |coolio1223|MZPTLPT|N
+|Gwen   |Tack   |Ice    |Super  |coolio1223|MZPTLPT|N
+|Gwen   |Glue   |Bucc   |Heli   |HikingPotato|EZPTLOC|N
+|Quincy |Bomb   |Glue   |Village|Rangaz|CZPTOWO|N
+|Ezili  |Sub    |Wizard |Druid  |Emtee|VZPTOSM|N
+|Tack   |Ice    |Sub    |Spact  |kernnpop|RZPXMWY|N
+|Ice    |Super  |Druid  |Village|coolio1223|CZPXUGB|N
+|Quincy |Glue   |Bucc   |Village|coolio1223|CZPXUSA|N
+|Ezili  |Glue   |Druid  |Village|FenixKillah|MZPTLWY|N
+|Glue   |Bucc   |Druid  |Village|FenixKillah|GZPTOKP|N
+|Tack   |Sniper |Super  |Spact  |kernnpop|SZPXVWW|N
+|Glue   |Mortar |Druid  |Village|FenixKillah|WZPXVDC|N
+|Church |Tack   |Super  |Spact  |kernnpop|YZPXWVM|N
+|Pat    |Tack   |Super  |Spact  |kernnpop|YZPXWVM|N
+|Striker|Tack   |Super  |Spact  |kernnpop|YZPXWVM|N
+|Tack   |Ice    |Super  |Spact  |kernnpop|YZPXWVM|N
+|Gwen   |Ace    |Druid  |Village|InnateWarrior|LZPXWWD|N
+|Obyn   |Sub    |Ninja  |Spact  |Imbigtedde|VZPXWED|N
+|Church |Tack   |Ninja  |Spact  |FenixKillah|CZPXTTY|N
+|Pat    |Tack   |Ninja  |Spact  |FenixKillah|CZPXTTY|N
+|Obyn   |Tack   |Ninja  |Spact  |FenixKillah|CZPXTTY|N
+|Striker|Tack   |Ninja  |Spact  |FenixKillah|CZPXTTY|N
+|Quincy |Tack   |Ninja  |Spact  |FenixKillah|CZPXTTY|N
+|Tack   |Ninja  |Druid  |Spact  |FenixKillah|CZPXTTY|N
+|Tack   |Bucc   |Ninja  |Spact  |FenixKillah|CZPXTTY|N
+|Tack   |Sub    |Ninja  |Spact  |FenixKillah|CZPXTTY|N
+|Tack   |Sniper |Ninja  |Spact  |FenixKillah|CZPXTTY|N
+|Tack   |Glue   |Ninja  |Spact  |FenixKillah|CZPXTTY|N
+|Tack   |Ice    |Ninja  |Spact  |FenixKillah|CZPXTTY|N
+|Boomer |Tack   |Ninja  |Spact  |FenixKillah|CZPXTTY|N
+|Dart   |Tack   |Ninja  |Spact  |FenixKillah|CZPXTTY|N
+|Pat    |Super  |Ninja  |Druid  |kernnpop|LZPXXHU|N
+|Pat    |Sniper |Super  |Ninja  |kernnpop|LZPXXHU|N
+|Pat    |Ice    |Super  |Ninja  |kernnpop|LZPXXHU|N
+|Bomb   |Ice    |Sniper |Wizard |InnateWarrior|VZPXXWD|N
+|Gwen   |Boomer |Bucc   |Heli   |Imbigtedde|XZPXXRS|N
+|Dart   |Glue   |Spact  |Village|InnateWarrior|AZPXXLG|N
+|Ezili  |Ice    |Wizard |Druid  |The Mochinator|KZPXBDP|N
+|Gwen   |Ice    |Wizard |Druid  |The Mochinator|KZPXBDP|N
+|Quincy |Ice    |Wizard |Druid  |The Mochinator|KZPXBDP|N
+|Ice    |Sniper |Wizard |Druid  |The Mochinator|KZPXBDP|N
+|Ice    |Glue   |Wizard |Druid  |The Mochinator|KZPXBDP|N
+|Boomer |Bomb   |Spact  |Village|InnateWarrior|YZPXSMG|N
+|Gwen   |Tack   |Druid  |Spact  |kernnpop|OZPXERU|N
+|Gwen   |Tack   |Bucc   |Spact  |kernnpop|OZPXERU|N
+|Gwen   |Tack   |Sub    |Spact  |kernnpop|OZPXERU|N
+|Gwen   |Tack   |Sniper |Spact  |kernnpop|OZPXERU|N
+|Gwen   |Tack   |Glue   |Spact  |kernnpop|OZPXERU|N
+|Gwen   |Tack   |Ice    |Spact  |kernnpop|OZPXERU|N
+|Gwen   |Bomb   |Tack   |Spact  |kernnpop|OZPXERU|N
+|Gwen   |Boomer |Tack   |Spact  |kernnpop|OZPXERU|N
+|Gwen   |Dart   |Tack   |Spact  |kernnpop|OZPXERU|N
+|Ice    |Sniper |Heli   |Druid  |The Mochinator|GZPXPOC|N
+|Tack   |Ice    |Sniper |Heli   |The Mochinator|GZPXPOC|N
+|Bomb   |Ice    |Sniper |Heli   |The Mochinator|GZPXPOC|N
+|Dart   |Ice    |Sniper |Heli   |The Mochinator|GZPXPOC|N
+|Dart   |Bomb   |Spact  |Village|Emtee|DZPXYRK|N
+|Glue   |Bucc   |Spact  |Village|InnateWarrior|HZPXLLH|N
+|Church |Dart   |Tack   |Spact  |kernnpop|SZPAGMX|N
+|Pat    |Dart   |Tack   |Spact  |kernnpop|SZPAGMX|N
+|Obyn   |Dart   |Tack   |Spact  |kernnpop|SZPAGMX|N
+|Striker|Dart   |Tack   |Spact  |kernnpop|SZPAGMX|N
+|Quincy |Dart   |Tack   |Spact  |kernnpop|SZPAGMX|N
+|Dart   |Tack   |Druid  |Spact  |kernnpop|SZPAGMX|N
+|Dart   |Tack   |Bucc   |Spact  |kernnpop|SZPAGMX|N
+|Dart   |Tack   |Sub    |Spact  |kernnpop|SZPAGMX|N
+|Dart   |Tack   |Sniper |Spact  |kernnpop|SZPAGMX|N
+|Dart   |Tack   |Glue   |Spact  |kernnpop|SZPAGMX|N
+|Dart   |Tack   |Ice    |Spact  |kernnpop|SZPAGMX|N
+|Dart   |Bomb   |Tack   |Spact  |kernnpop|SZPAGMX|N
+|Dart   |Boomer |Tack   |Spact  |kernnpop|SZPAGMX|N
+|Glue   |Bucc   |Ninja  |Village|Jordan Hintz|CZPAGPM|N
+|Church |Tack   |Bucc   |Spact  |kernnpop|YZPAHBM|N
+|Pat    |Tack   |Bucc   |Spact  |kernnpop|YZPAHBM|N
+|Obyn   |Tack   |Bucc   |Spact  |kernnpop|YZPAHBM|N
+|Striker|Tack   |Bucc   |Spact  |kernnpop|YZPAHBM|N
+|Quincy |Tack   |Bucc   |Spact  |kernnpop|YZPAHBM|N
+|Tack   |Bucc   |Druid  |Spact  |kernnpop|YZPAHBM|N
+|Tack   |Sub    |Bucc   |Spact  |kernnpop|YZPAHBM|N
+|Tack   |Sniper |Bucc   |Spact  |kernnpop|YZPAHBM|N
+|Tack   |Glue   |Bucc   |Spact  |kernnpop|YZPAHBM|N
+|Tack   |Ice    |Bucc   |Spact  |kernnpop|YZPAHBM|N
+|Bomb   |Tack   |Bucc   |Spact  |kernnpop|YZPAHBM|N
+|Boomer |Tack   |Bucc   |Spact  |kernnpop|YZPAHBM|N
+|Glue   |Sub    |Bucc   |Ninja  |Jordan Hintz|RZPAHBY|N
+|Boomer |Super  |Alch   |Village|Emtee|LZPAVAY|N
+|Glue   |Sniper |Bucc   |Village|Jordan Hintz|DZPAVDY|N
+|Quincy |Dart   |Ninja  |Spact  |Millionsofmario|CZPASDE|N
+|Ezili  |Glue   |Bucc   |Spact  |Sir Spanky|GZPARCX|N
+|Tack   |Ice    |Glue   |Sub    |kernnpop|XZPALXC|N
+|Church |Tack   |Druid  |Spact  |kernnpop|FZPBHHY|N
+|Church |Tack   |Sub    |Spact  |kernnpop|FZPBHHY|N
+|Church |Tack   |Sniper |Spact  |kernnpop|FZPBHHY|N
+|Church |Tack   |Glue   |Spact  |kernnpop|FZPBHHY|N
+|Church |Tack   |Ice    |Spact  |kernnpop|FZPBHHY|N
+|Church |Bomb   |Tack   |Spact  |kernnpop|FZPBHHY|N
+|Church |Boomer |Tack   |Spact  |kernnpop|FZPBHHY|N
+|Ezili  |Bucc   |Spact  |Village|The Mochinator|WZPBHAO|N
+|Church |Bucc   |Spact  |Village|The Mochinator|WZPBHAO|N
+|Obyn   |Bucc   |Spact  |Village|The Mochinator|WZPBHAO|N
+|Striker|Bucc   |Spact  |Village|The Mochinator|WZPBHAO|N
+|Gwen   |Bucc   |Spact  |Village|The Mochinator|WZPBHAO|N
+|Quincy |Bucc   |Spact  |Village|The Mochinator|WZPBHAO|N
+|Bucc   |Druid  |Spact  |Village|The Mochinator|WZPBHAO|N
+|Sub    |Bucc   |Spact  |Village|The Mochinator|WZPBHAO|N
+|Sniper |Bucc   |Spact  |Village|The Mochinator|WZPBHAO|N
+|Ice    |Bucc   |Spact  |Village|The Mochinator|WZPBHAO|N
+|Boomer |Bucc   |Spact  |Village|The Mochinator|WZPBHAO|N
+|Dart   |Bucc   |Spact  |Village|The Mochinator|WZPBHAO|N
+|Obyn   |Bucc   |Alch   |Village|The Mochinator|XZPBUKH|N
+|Striker|Bucc   |Alch   |Village|The Mochinator|XZPBUKH|N
+|Gwen   |Bucc   |Alch   |Village|The Mochinator|XZPBUKH|N
+|Sniper |Bucc   |Alch   |Village|The Mochinator|XZPBUKH|N
+|Glue   |Bucc   |Alch   |Village|The Mochinator|XZPBUKH|N
+|Ice    |Bucc   |Alch   |Village|The Mochinator|XZPBUKH|N
+|Ezili  |Ice    |Ace    |Ninja  |Char|MZPBUPF|N
+|Church |Ice    |Ace    |Ninja  |Char|MZPBUPF|N
+|Pat    |Ice    |Ace    |Ninja  |Char|MZPBUPF|N
+|Striker|Ice    |Ace    |Ninja  |Char|MZPBUPF|N
+|Gwen   |Ice    |Ace    |Ninja  |Char|MZPBUPF|N
+|Quincy |Ice    |Ace    |Ninja  |Char|MZPBUPF|N
+|Ice    |Ace    |Ninja  |Village|Char|MZPBUPF|N
+|Ice    |Ace    |Ninja  |Druid  |Char|MZPBUPF|N
+|Ice    |Sniper |Ace    |Ninja  |Char|MZPBUPF|N
+|Tack   |Ice    |Ace    |Ninja  |Char|MZPBUPF|N
+|Bomb   |Ice    |Ace    |Ninja  |Char|MZPBUPF|N
+|Dart   |Ice    |Ace    |Ninja  |Char|MZPBUPF|N
+|Pat    |Glue   |Druid  |Village|Gavo38322|AZPBVKH|N
+|Quincy |Ace    |Mortar |Druid  |Char|CZPBVSE|N
+|Quincy |Bomb   |Ace    |Mortar |Char|CZPBVSE|N
+|Ezili  |Glue   |Bucc   |Village|The Mochinator|CZPBVRE|N
+|Church |Glue   |Bucc   |Village|The Mochinator|CZPBVRE|N
+|Obyn   |Glue   |Bucc   |Village|The Mochinator|CZPBVRE|N
+|Striker|Glue   |Bucc   |Village|The Mochinator|CZPBVRE|N
+|Gwen   |Glue   |Bucc   |Village|The Mochinator|CZPBVRE|N
+|Ice    |Glue   |Bucc   |Village|The Mochinator|CZPBVRE|N
+|Boomer |Glue   |Bucc   |Village|The Mochinator|CZPBVRE|N
+|Dart   |Glue   |Bucc   |Village|The Mochinator|CZPBVRE|N
+|Boomer |Tack   |Glue   |Village|Gavo38322|BZPBTKG|N
+|Ezili  |Boomer |Glue   |Village|Gavo38322|HZPBXKD|N
+|Ezili  |Glue   |Bucc   |Heli   |Sir Spanky|XZPBXGT|N

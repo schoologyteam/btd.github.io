@@ -1,9 +1,9 @@
-The Mochinator: 294
-Char: 243
-RandyZ524: 214
+The Mochinator: 329
+Char: 257
+RandyZ524: 225
 the_op_boss: 178
+coolio1223: 172
 Agent51: 167
-coolio1223: 166
 frds: 138
 Great Mage: 130
 rigged: 127
@@ -14,12 +14,14 @@ Chocbox: 73
 Urinetosh: 70
 Smurfblade: 64
 PEZmaster2: 56
-Gavo38322: 47
+Emtee: 54
+kernnpop: 51
+Gavo38322: 50
 UnLapiz: 43
 123CrimsonRain: 37
 TobiBloon439: 36
-Emtee: 36
 RainbowDox: 30
+InnateWarrior: 27
 rmlgaming: 24
 Jollto13: 24
 TheKNEE13: 24
@@ -27,7 +29,7 @@ Natethesnake: 24
 Mr-Samson: 19
 Lookatmeimamod: 18
 KaptainKrunche: 18
-InnateWarrior: 18
+FenixKillah: 16
 laxx: 15
 urhere: 14
 Uniquepotatoes: 13
@@ -38,10 +40,10 @@ powergo: 11
 The Line: 11
 DespacitoMage: 10
 380-mortis: 10
+Imbigtedde: 10
 Mlop098: 9
 killcrazy99: 8
 Valter: 8
-Imbigtedde: 8
 Kevaca: 8
 killerkama: 8
 LightChaosman: 7
@@ -49,10 +51,11 @@ dadragon99: 7
 Kyle Robinson: 6
 Kholdstare: 5
 Amanensia: 4
+Overeasybacon: 4
 rouge_bare: 4
 LoveBrothers: 4
+Jordan Hintz: 4
 @NoArmsTigerMan: 4
-Overeasybacon: 3
 Michael Volz: 3
 AKNIGHT49: 3
 Dance: 3
@@ -63,6 +66,8 @@ AUAG: 2
 Doesj: 2
 ILiekFishes: 2
 GabiPera: 2
+Rangaz: 2
+Sir Spanky: 2
 Samhulk99: 1
 p4nthom22: 1
 ItIsNitecap: 1
@@ -87,7 +92,6 @@ ThinkHam: 1
 Mestrophis: 1
 WillOwispss: 1
 Friartruck: 1
-Jordan Hintz: 1
 BloonBuster974: 1
 GamerGirl73: 1
 AIGP2304: 1
@@ -101,4 +105,6 @@ PEZMASTER2: 1
 Laggy Internet: 1
 GeorgeGraphy: 1
 MrDeagle: 1
-Rangaz: 1
+JEB222: 1
+HikingPotato: 1
+Millionsofmario: 1
