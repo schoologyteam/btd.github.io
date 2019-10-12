@@ -98,6 +98,10 @@
 |Church |Ace    |Mortar |Village|
 |Church |Ace    |Mortar |Spact  |
 |Church |Ace    |Mortar |Super  |
+|Church |Ace    |Heli   |Village|
+|Church |Ace    |Heli   |Spact  |
+|Church |Ace    |Heli   |Super  |
+|Church |Ace    |Heli   |Mortar |
 |Church |Sniper |Spact  |Village|
 |Church |Sniper |Super  |Village|
 |Church |Sniper |Super  |Spact  |
@@ -112,6 +116,7 @@
 |Church |Sniper |Ace    |Spact  |
 |Church |Sniper |Ace    |Super  |
 |Church |Sniper |Ace    |Mortar |
+|Church |Sniper |Ace    |Heli   |
 |Church |Glue   |Spact  |Village|
 |Church |Glue   |Super  |Village|
 |Church |Glue   |Super  |Spact  |
@@ -126,6 +131,7 @@
 |Church |Glue   |Ace    |Spact  |
 |Church |Glue   |Ace    |Super  |
 |Church |Glue   |Ace    |Mortar |
+|Church |Glue   |Ace    |Heli   |
 |Church |Glue   |Sniper |Village|
 |Church |Glue   |Sniper |Spact  |
 |Church |Glue   |Sniper |Super  |
@@ -146,6 +152,7 @@
 |Church |Ice    |Ace    |Spact  |
 |Church |Ice    |Ace    |Super  |
 |Church |Ice    |Ace    |Mortar |
+|Church |Ice    |Ace    |Heli   |
 |Church |Ice    |Sniper |Village|
 |Church |Ice    |Sniper |Spact  |
 |Church |Ice    |Sniper |Super  |
@@ -255,9 +262,14 @@
 |Obyn   |Sniper |Ace    |Mortar |
 |Obyn   |Glue   |Spact  |Village|
 |Obyn   |Glue   |Mortar |Village|
+|Obyn   |Glue   |Mortar |Spact  |
 |Obyn   |Glue   |Ace    |Village|
 |Obyn   |Glue   |Ace    |Spact  |
 |Obyn   |Glue   |Ace    |Mortar |
+|Obyn   |Glue   |Sniper |Village|
+|Obyn   |Glue   |Sniper |Spact  |
+|Obyn   |Glue   |Sniper |Mortar |
+|Obyn   |Glue   |Sniper |Ace    |
 |Obyn   |Ice    |Spact  |Village|
 |Obyn   |Ice    |Mortar |Village|
 |Obyn   |Ice    |Mortar |Spact  |
@@ -272,6 +284,7 @@
 |Obyn   |Ice    |Glue   |Spact  |
 |Obyn   |Ice    |Glue   |Mortar |
 |Obyn   |Ice    |Glue   |Ace    |
+|Obyn   |Ice    |Glue   |Sniper |
 |Striker|Super  |Spact  |Village|
 |Striker|Mortar |Spact  |Village|
 |Striker|Mortar |Super  |Village|
@@ -586,13 +599,18 @@
 |Ben    |Tack   |Ice    |Super  |
 |Ben    |Tack   |Ice    |Glue   |
 |Ben    |Bomb   |Alch   |Druid  |
+|Ben    |Bomb   |Super  |Druid  |
+|Ben    |Bomb   |Super  |Alch   |
 |Ben    |Bomb   |Glue   |Druid  |
 |Ben    |Bomb   |Glue   |Alch   |
+|Ben    |Bomb   |Glue   |Super  |
 |Ben    |Bomb   |Ice    |Druid  |
 |Ben    |Bomb   |Ice    |Alch   |
+|Ben    |Bomb   |Ice    |Super  |
 |Ben    |Bomb   |Ice    |Glue   |
 |Ben    |Bomb   |Tack   |Druid  |
 |Ben    |Bomb   |Tack   |Alch   |
+|Ben    |Bomb   |Tack   |Super  |
 |Ben    |Bomb   |Tack   |Glue   |
 |Ben    |Bomb   |Tack   |Ice    |
 |Ben    |Boomer |Alch   |Druid  |
@@ -612,6 +630,7 @@
 |Ben    |Boomer |Tack   |Ice    |
 |Ben    |Boomer |Bomb   |Druid  |
 |Ben    |Boomer |Bomb   |Alch   |
+|Ben    |Boomer |Bomb   |Super  |
 |Ben    |Boomer |Bomb   |Glue   |
 |Ben    |Boomer |Bomb   |Ice    |
 |Ben    |Boomer |Bomb   |Tack   |
@@ -635,13 +654,18 @@
 |Pat    |Tack   |Ice    |Super  |
 |Pat    |Tack   |Ice    |Glue   |
 |Pat    |Bomb   |Alch   |Druid  |
+|Pat    |Bomb   |Super  |Druid  |
+|Pat    |Bomb   |Super  |Alch   |
 |Pat    |Bomb   |Glue   |Druid  |
 |Pat    |Bomb   |Glue   |Alch   |
+|Pat    |Bomb   |Glue   |Super  |
 |Pat    |Bomb   |Ice    |Druid  |
 |Pat    |Bomb   |Ice    |Alch   |
+|Pat    |Bomb   |Ice    |Super  |
 |Pat    |Bomb   |Ice    |Glue   |
 |Pat    |Bomb   |Tack   |Druid  |
 |Pat    |Bomb   |Tack   |Alch   |
+|Pat    |Bomb   |Tack   |Super  |
 |Pat    |Bomb   |Tack   |Glue   |
 |Pat    |Bomb   |Tack   |Ice    |
 |Pat    |Boomer |Alch   |Druid  |
@@ -661,6 +685,7 @@
 |Pat    |Boomer |Tack   |Ice    |
 |Pat    |Boomer |Bomb   |Druid  |
 |Pat    |Boomer |Bomb   |Alch   |
+|Pat    |Boomer |Bomb   |Super  |
 |Pat    |Boomer |Bomb   |Glue   |
 |Pat    |Boomer |Bomb   |Ice    |
 |Pat    |Boomer |Bomb   |Tack   |
@@ -684,13 +709,18 @@
 |Striker|Tack   |Ice    |Super  |
 |Striker|Tack   |Ice    |Glue   |
 |Striker|Bomb   |Alch   |Druid  |
+|Striker|Bomb   |Super  |Druid  |
+|Striker|Bomb   |Super  |Alch   |
 |Striker|Bomb   |Glue   |Druid  |
 |Striker|Bomb   |Glue   |Alch   |
+|Striker|Bomb   |Glue   |Super  |
 |Striker|Bomb   |Ice    |Druid  |
 |Striker|Bomb   |Ice    |Alch   |
+|Striker|Bomb   |Ice    |Super  |
 |Striker|Bomb   |Ice    |Glue   |
 |Striker|Bomb   |Tack   |Druid  |
 |Striker|Bomb   |Tack   |Alch   |
+|Striker|Bomb   |Tack   |Super  |
 |Striker|Bomb   |Tack   |Glue   |
 |Striker|Bomb   |Tack   |Ice    |
 |Striker|Boomer |Alch   |Druid  |
@@ -710,6 +740,7 @@
 |Striker|Boomer |Tack   |Ice    |
 |Striker|Boomer |Bomb   |Druid  |
 |Striker|Boomer |Bomb   |Alch   |
+|Striker|Boomer |Bomb   |Super  |
 |Striker|Boomer |Bomb   |Glue   |
 |Striker|Boomer |Bomb   |Ice    |
 |Striker|Boomer |Bomb   |Tack   |
@@ -728,15 +759,25 @@
 |Tack   |Ice    |Glue   |Druid  |
 |Tack   |Ice    |Glue   |Alch   |
 |Tack   |Ice    |Glue   |Super  |
+|Bomb   |Super  |Alch   |Druid  |
 |Bomb   |Glue   |Alch   |Druid  |
+|Bomb   |Glue   |Super  |Druid  |
+|Bomb   |Glue   |Super  |Alch   |
 |Bomb   |Ice    |Alch   |Druid  |
+|Bomb   |Ice    |Super  |Druid  |
+|Bomb   |Ice    |Super  |Alch   |
 |Bomb   |Ice    |Glue   |Druid  |
 |Bomb   |Ice    |Glue   |Alch   |
+|Bomb   |Ice    |Glue   |Super  |
 |Bomb   |Tack   |Alch   |Druid  |
+|Bomb   |Tack   |Super  |Druid  |
+|Bomb   |Tack   |Super  |Alch   |
 |Bomb   |Tack   |Glue   |Druid  |
 |Bomb   |Tack   |Glue   |Alch   |
+|Bomb   |Tack   |Glue   |Super  |
 |Bomb   |Tack   |Ice    |Druid  |
 |Bomb   |Tack   |Ice    |Alch   |
+|Bomb   |Tack   |Ice    |Super  |
 |Bomb   |Tack   |Ice    |Glue   |
 |Boomer |Super  |Alch   |Druid  |
 |Boomer |Glue   |Alch   |Druid  |
@@ -759,629 +800,17 @@
 |Boomer |Tack   |Ice    |Super  |
 |Boomer |Tack   |Ice    |Glue   |
 |Boomer |Bomb   |Alch   |Druid  |
+|Boomer |Bomb   |Super  |Druid  |
+|Boomer |Bomb   |Super  |Alch   |
 |Boomer |Bomb   |Glue   |Druid  |
 |Boomer |Bomb   |Glue   |Alch   |
+|Boomer |Bomb   |Glue   |Super  |
 |Boomer |Bomb   |Ice    |Druid  |
 |Boomer |Bomb   |Ice    |Alch   |
+|Boomer |Bomb   |Ice    |Super  |
 |Boomer |Bomb   |Ice    |Glue   |
 |Boomer |Bomb   |Tack   |Druid  |
 |Boomer |Bomb   |Tack   |Alch   |
+|Boomer |Bomb   |Tack   |Super  |
 |Boomer |Bomb   |Tack   |Glue   |
 |Boomer |Bomb   |Tack   |Ice    |
-|Ben    |Druid  |Spact  |Village|
-|Ben    |Alch   |Spact  |Village|
-|Ben    |Alch   |Druid  |Village|
-|Ben    |Alch   |Druid  |Spact  |
-|Ben    |Ninja  |Spact  |Village|
-|Ben    |Ninja  |Druid  |Village|
-|Ben    |Ninja  |Druid  |Spact  |
-|Ben    |Super  |Druid  |Village|
-|Ben    |Super  |Druid  |Spact  |
-|Ben    |Super  |Alch   |Village|
-|Ben    |Super  |Alch   |Spact  |
-|Ben    |Super  |Ninja  |Spact  |
-|Ben    |Super  |Ninja  |Druid  |
-|Ben    |Wizard |Druid  |Village|
-|Ben    |Wizard |Super  |Village|
-|Ben    |Wizard |Super  |Druid  |
-|Ben    |Mortar |Druid  |Village|
-|Ben    |Mortar |Druid  |Spact  |
-|Ben    |Mortar |Alch   |Village|
-|Ben    |Mortar |Alch   |Spact  |
-|Ben    |Mortar |Alch   |Druid  |
-|Ben    |Mortar |Ninja  |Village|
-|Ben    |Mortar |Ninja  |Spact  |
-|Ben    |Mortar |Ninja  |Druid  |
-|Ben    |Mortar |Super  |Druid  |
-|Ben    |Mortar |Super  |Alch   |
-|Ben    |Mortar |Super  |Ninja  |
-|Ben    |Heli   |Druid  |Village|
-|Ben    |Heli   |Druid  |Spact  |
-|Ben    |Heli   |Ninja  |Village|
-|Ben    |Heli   |Ninja  |Spact  |
-|Ben    |Heli   |Ninja  |Druid  |
-|Ben    |Heli   |Super  |Druid  |
-|Ben    |Heli   |Super  |Ninja  |
-|Ben    |Heli   |Mortar |Druid  |
-|Ben    |Heli   |Mortar |Ninja  |
-|Ben    |Ace    |Druid  |Village|
-|Ben    |Ace    |Druid  |Spact  |
-|Ben    |Ace    |Alch   |Village|
-|Ben    |Ace    |Alch   |Spact  |
-|Ben    |Ace    |Alch   |Druid  |
-|Ben    |Ace    |Ninja  |Village|
-|Ben    |Ace    |Ninja  |Spact  |
-|Ben    |Ace    |Ninja  |Druid  |
-|Ben    |Ace    |Super  |Druid  |
-|Ben    |Ace    |Super  |Alch   |
-|Ben    |Ace    |Super  |Ninja  |
-|Ben    |Ace    |Mortar |Druid  |
-|Ben    |Ace    |Mortar |Alch   |
-|Ben    |Ace    |Mortar |Ninja  |
-|Ben    |Ace    |Heli   |Druid  |
-|Ben    |Ace    |Heli   |Ninja  |
-|Ben    |Bucc   |Spact  |Village|
-|Ben    |Bucc   |Druid  |Village|
-|Ben    |Bucc   |Druid  |Spact  |
-|Ben    |Bucc   |Alch   |Village|
-|Ben    |Bucc   |Alch   |Spact  |
-|Ben    |Bucc   |Alch   |Druid  |
-|Ben    |Bucc   |Ninja  |Village|
-|Ben    |Bucc   |Ninja  |Spact  |
-|Ben    |Bucc   |Ninja  |Druid  |
-|Ben    |Bucc   |Super  |Village|
-|Ben    |Bucc   |Super  |Spact  |
-|Ben    |Bucc   |Super  |Druid  |
-|Ben    |Bucc   |Super  |Alch   |
-|Ben    |Bucc   |Super  |Ninja  |
-|Ben    |Bucc   |Mortar |Village|
-|Ben    |Bucc   |Mortar |Spact  |
-|Ben    |Bucc   |Mortar |Druid  |
-|Ben    |Bucc   |Mortar |Alch   |
-|Ben    |Bucc   |Mortar |Ninja  |
-|Ben    |Bucc   |Mortar |Super  |
-|Ben    |Bucc   |Heli   |Spact  |
-|Ben    |Bucc   |Heli   |Druid  |
-|Ben    |Bucc   |Heli   |Ninja  |
-|Ben    |Bucc   |Heli   |Super  |
-|Ben    |Bucc   |Heli   |Mortar |
-|Ben    |Bucc   |Ace    |Village|
-|Ben    |Bucc   |Ace    |Spact  |
-|Ben    |Bucc   |Ace    |Druid  |
-|Ben    |Bucc   |Ace    |Alch   |
-|Ben    |Bucc   |Ace    |Ninja  |
-|Ben    |Bucc   |Ace    |Super  |
-|Ben    |Bucc   |Ace    |Mortar |
-|Ben    |Bucc   |Ace    |Heli   |
-|Ben    |Sub    |Spact  |Village|
-|Ben    |Sub    |Druid  |Village|
-|Ben    |Sub    |Alch   |Village|
-|Ben    |Sub    |Alch   |Spact  |
-|Ben    |Sub    |Alch   |Druid  |
-|Ben    |Sub    |Ninja  |Village|
-|Ben    |Sub    |Ninja  |Spact  |
-|Ben    |Sub    |Ninja  |Druid  |
-|Ben    |Sub    |Wizard |Village|
-|Ben    |Sub    |Wizard |Druid  |
-|Ben    |Sub    |Mortar |Village|
-|Ben    |Sub    |Mortar |Druid  |
-|Ben    |Sub    |Mortar |Alch   |
-|Ben    |Sub    |Mortar |Ninja  |
-|Ben    |Sub    |Ace    |Village|
-|Ben    |Sub    |Ace    |Spact  |
-|Ben    |Sub    |Ace    |Druid  |
-|Ben    |Sub    |Ace    |Alch   |
-|Ben    |Sub    |Ace    |Ninja  |
-|Ben    |Sub    |Ace    |Mortar |
-|Ben    |Sub    |Bucc   |Village|
-|Ben    |Sub    |Bucc   |Spact  |
-|Ben    |Sub    |Bucc   |Druid  |
-|Ben    |Sub    |Bucc   |Alch   |
-|Ben    |Sub    |Bucc   |Ninja  |
-|Ben    |Sub    |Bucc   |Mortar |
-|Ben    |Sub    |Bucc   |Ace    |
-|Ben    |Sniper |Druid  |Village|
-|Ben    |Sniper |Druid  |Spact  |
-|Ben    |Sniper |Alch   |Village|
-|Ben    |Sniper |Alch   |Spact  |
-|Ben    |Sniper |Alch   |Druid  |
-|Ben    |Sniper |Ninja  |Village|
-|Ben    |Sniper |Ninja  |Spact  |
-|Ben    |Sniper |Ninja  |Druid  |
-|Ben    |Sniper |Super  |Druid  |
-|Ben    |Sniper |Super  |Alch   |
-|Ben    |Sniper |Super  |Ninja  |
-|Ben    |Sniper |Wizard |Village|
-|Ben    |Sniper |Wizard |Druid  |
-|Ben    |Sniper |Wizard |Super  |
-|Ben    |Sniper |Mortar |Druid  |
-|Ben    |Sniper |Mortar |Alch   |
-|Ben    |Sniper |Mortar |Ninja  |
-|Ben    |Sniper |Heli   |Druid  |
-|Ben    |Sniper |Heli   |Ninja  |
-|Ben    |Sniper |Ace    |Druid  |
-|Ben    |Sniper |Ace    |Alch   |
-|Ben    |Sniper |Ace    |Ninja  |
-|Ben    |Sniper |Bucc   |Village|
-|Ben    |Sniper |Bucc   |Spact  |
-|Ben    |Sniper |Bucc   |Druid  |
-|Ben    |Sniper |Bucc   |Alch   |
-|Ben    |Sniper |Bucc   |Ninja  |
-|Ben    |Sniper |Bucc   |Super  |
-|Ben    |Sniper |Bucc   |Mortar |
-|Ben    |Sniper |Bucc   |Heli   |
-|Ben    |Sniper |Bucc   |Ace    |
-|Ben    |Glue   |Druid  |Village|
-|Ben    |Glue   |Druid  |Spact  |
-|Ben    |Glue   |Alch   |Village|
-|Ben    |Glue   |Alch   |Spact  |
-|Ben    |Glue   |Ninja  |Village|
-|Ben    |Glue   |Ninja  |Spact  |
-|Ben    |Glue   |Ninja  |Druid  |
-|Ben    |Glue   |Super  |Ninja  |
-|Ben    |Glue   |Wizard |Village|
-|Ben    |Glue   |Wizard |Druid  |
-|Ben    |Glue   |Wizard |Super  |
-|Ben    |Glue   |Mortar |Druid  |
-|Ben    |Glue   |Mortar |Alch   |
-|Ben    |Glue   |Mortar |Ninja  |
-|Ben    |Glue   |Heli   |Druid  |
-|Ben    |Glue   |Heli   |Ninja  |
-|Ben    |Glue   |Ace    |Druid  |
-|Ben    |Glue   |Ace    |Alch   |
-|Ben    |Glue   |Ace    |Ninja  |
-|Ben    |Glue   |Bucc   |Village|
-|Ben    |Glue   |Bucc   |Spact  |
-|Ben    |Glue   |Bucc   |Druid  |
-|Ben    |Glue   |Bucc   |Alch   |
-|Ben    |Glue   |Bucc   |Ninja  |
-|Ben    |Glue   |Bucc   |Super  |
-|Ben    |Glue   |Bucc   |Mortar |
-|Ben    |Glue   |Bucc   |Heli   |
-|Ben    |Glue   |Bucc   |Ace    |
-|Ben    |Glue   |Sub    |Village|
-|Ben    |Glue   |Sub    |Spact  |
-|Ben    |Glue   |Sub    |Druid  |
-|Ben    |Glue   |Sub    |Alch   |
-|Ben    |Glue   |Sub    |Ninja  |
-|Ben    |Glue   |Sub    |Wizard |
-|Ben    |Glue   |Sub    |Mortar |
-|Ben    |Glue   |Sub    |Ace    |
-|Ben    |Glue   |Sub    |Bucc   |
-|Ben    |Glue   |Sniper |Druid  |
-|Ben    |Glue   |Sniper |Alch   |
-|Ben    |Glue   |Sniper |Ninja  |
-|Ben    |Glue   |Sniper |Wizard |
-|Ben    |Glue   |Sniper |Bucc   |
-|Ben    |Ice    |Druid  |Village|
-|Ben    |Ice    |Druid  |Spact  |
-|Ben    |Ice    |Alch   |Village|
-|Ben    |Ice    |Alch   |Spact  |
-|Ben    |Ice    |Ninja  |Village|
-|Ben    |Ice    |Ninja  |Spact  |
-|Ben    |Ice    |Ninja  |Druid  |
-|Ben    |Ice    |Super  |Ninja  |
-|Ben    |Ice    |Wizard |Village|
-|Ben    |Ice    |Mortar |Druid  |
-|Ben    |Ice    |Mortar |Alch   |
-|Ben    |Ice    |Mortar |Ninja  |
-|Ben    |Ice    |Heli   |Druid  |
-|Ben    |Ice    |Heli   |Ninja  |
-|Ben    |Ice    |Ace    |Druid  |
-|Ben    |Ice    |Ace    |Alch   |
-|Ben    |Ice    |Ace    |Ninja  |
-|Ben    |Ice    |Bucc   |Village|
-|Ben    |Ice    |Bucc   |Spact  |
-|Ben    |Ice    |Bucc   |Druid  |
-|Ben    |Ice    |Bucc   |Alch   |
-|Ben    |Ice    |Bucc   |Ninja  |
-|Ben    |Ice    |Bucc   |Super  |
-|Ben    |Ice    |Bucc   |Mortar |
-|Ben    |Ice    |Bucc   |Heli   |
-|Ben    |Ice    |Bucc   |Ace    |
-|Ben    |Ice    |Sub    |Village|
-|Ben    |Ice    |Sub    |Spact  |
-|Ben    |Ice    |Sub    |Druid  |
-|Ben    |Ice    |Sub    |Alch   |
-|Ben    |Ice    |Sub    |Ninja  |
-|Ben    |Ice    |Sub    |Mortar |
-|Ben    |Ice    |Sub    |Ace    |
-|Ben    |Ice    |Sub    |Bucc   |
-|Ben    |Ice    |Sniper |Druid  |
-|Ben    |Ice    |Sniper |Alch   |
-|Ben    |Ice    |Sniper |Ninja  |
-|Ben    |Ice    |Sniper |Wizard |
-|Ben    |Ice    |Sniper |Bucc   |
-|Ben    |Ice    |Glue   |Ninja  |
-|Ben    |Ice    |Glue   |Bucc   |
-|Ben    |Ice    |Glue   |Sub    |
-|Ben    |Tack   |Spact  |Village|
-|Ben    |Tack   |Druid  |Village|
-|Ben    |Tack   |Druid  |Spact  |
-|Ben    |Tack   |Alch   |Village|
-|Ben    |Tack   |Alch   |Spact  |
-|Ben    |Tack   |Ninja  |Village|
-|Ben    |Tack   |Ninja  |Spact  |
-|Ben    |Tack   |Ninja  |Druid  |
-|Ben    |Tack   |Super  |Village|
-|Ben    |Tack   |Super  |Spact  |
-|Ben    |Tack   |Super  |Ninja  |
-|Ben    |Tack   |Wizard |Village|
-|Ben    |Tack   |Mortar |Village|
-|Ben    |Tack   |Mortar |Spact  |
-|Ben    |Tack   |Mortar |Druid  |
-|Ben    |Tack   |Mortar |Alch   |
-|Ben    |Tack   |Mortar |Ninja  |
-|Ben    |Tack   |Mortar |Super  |
-|Ben    |Tack   |Heli   |Village|
-|Ben    |Tack   |Heli   |Spact  |
-|Ben    |Tack   |Heli   |Druid  |
-|Ben    |Tack   |Heli   |Ninja  |
-|Ben    |Tack   |Heli   |Super  |
-|Ben    |Tack   |Heli   |Mortar |
-|Ben    |Tack   |Ace    |Village|
-|Ben    |Tack   |Ace    |Spact  |
-|Ben    |Tack   |Ace    |Druid  |
-|Ben    |Tack   |Ace    |Alch   |
-|Ben    |Tack   |Ace    |Ninja  |
-|Ben    |Tack   |Ace    |Super  |
-|Ben    |Tack   |Ace    |Mortar |
-|Ben    |Tack   |Ace    |Heli   |
-|Ben    |Tack   |Bucc   |Village|
-|Ben    |Tack   |Bucc   |Spact  |
-|Ben    |Tack   |Bucc   |Druid  |
-|Ben    |Tack   |Bucc   |Alch   |
-|Ben    |Tack   |Bucc   |Ninja  |
-|Ben    |Tack   |Bucc   |Super  |
-|Ben    |Tack   |Bucc   |Mortar |
-|Ben    |Tack   |Bucc   |Heli   |
-|Ben    |Tack   |Bucc   |Ace    |
-|Ben    |Tack   |Sub    |Village|
-|Ben    |Tack   |Sub    |Spact  |
-|Ben    |Tack   |Sub    |Druid  |
-|Ben    |Tack   |Sub    |Alch   |
-|Ben    |Tack   |Sub    |Ninja  |
-|Ben    |Tack   |Sub    |Mortar |
-|Ben    |Tack   |Sub    |Ace    |
-|Ben    |Tack   |Sub    |Bucc   |
-|Ben    |Tack   |Sniper |Village|
-|Ben    |Tack   |Sniper |Spact  |
-|Ben    |Tack   |Sniper |Druid  |
-|Ben    |Tack   |Sniper |Alch   |
-|Ben    |Tack   |Sniper |Ninja  |
-|Ben    |Tack   |Sniper |Super  |
-|Ben    |Tack   |Sniper |Wizard |
-|Ben    |Tack   |Sniper |Mortar |
-|Ben    |Tack   |Sniper |Heli   |
-|Ben    |Tack   |Sniper |Ace    |
-|Ben    |Tack   |Sniper |Bucc   |
-|Ben    |Tack   |Glue   |Village|
-|Ben    |Tack   |Glue   |Spact  |
-|Ben    |Tack   |Glue   |Ninja  |
-|Ben    |Tack   |Glue   |Mortar |
-|Ben    |Tack   |Glue   |Heli   |
-|Ben    |Tack   |Glue   |Ace    |
-|Ben    |Tack   |Glue   |Bucc   |
-|Ben    |Tack   |Glue   |Sub    |
-|Ben    |Tack   |Glue   |Sniper |
-|Ben    |Tack   |Ice    |Village|
-|Ben    |Tack   |Ice    |Spact  |
-|Ben    |Tack   |Ice    |Ninja  |
-|Ben    |Tack   |Ice    |Wizard |
-|Ben    |Tack   |Ice    |Mortar |
-|Ben    |Tack   |Ice    |Heli   |
-|Ben    |Tack   |Ice    |Ace    |
-|Ben    |Tack   |Ice    |Bucc   |
-|Ben    |Tack   |Ice    |Sub    |
-|Ben    |Tack   |Ice    |Sniper |
-|Ben    |Bomb   |Spact  |Village|
-|Ben    |Bomb   |Druid  |Village|
-|Ben    |Bomb   |Alch   |Village|
-|Ben    |Bomb   |Alch   |Spact  |
-|Ben    |Bomb   |Ninja  |Village|
-|Ben    |Bomb   |Ninja  |Spact  |
-|Ben    |Bomb   |Ninja  |Druid  |
-|Ben    |Bomb   |Wizard |Village|
-|Ben    |Bomb   |Wizard |Druid  |
-|Ben    |Bomb   |Mortar |Village|
-|Ben    |Bomb   |Mortar |Spact  |
-|Ben    |Bomb   |Mortar |Druid  |
-|Ben    |Bomb   |Mortar |Alch   |
-|Ben    |Bomb   |Mortar |Ninja  |
-|Ben    |Bomb   |Heli   |Village|
-|Ben    |Bomb   |Heli   |Spact  |
-|Ben    |Bomb   |Heli   |Druid  |
-|Ben    |Bomb   |Heli   |Ninja  |
-|Ben    |Bomb   |Heli   |Mortar |
-|Ben    |Bomb   |Ace    |Village|
-|Ben    |Bomb   |Ace    |Spact  |
-|Ben    |Bomb   |Ace    |Druid  |
-|Ben    |Bomb   |Ace    |Alch   |
-|Ben    |Bomb   |Ace    |Ninja  |
-|Ben    |Bomb   |Ace    |Mortar |
-|Ben    |Bomb   |Ace    |Heli   |
-|Ben    |Bomb   |Bucc   |Village|
-|Ben    |Bomb   |Bucc   |Spact  |
-|Ben    |Bomb   |Bucc   |Druid  |
-|Ben    |Bomb   |Bucc   |Alch   |
-|Ben    |Bomb   |Bucc   |Ninja  |
-|Ben    |Bomb   |Bucc   |Mortar |
-|Ben    |Bomb   |Bucc   |Heli   |
-|Ben    |Bomb   |Bucc   |Ace    |
-|Ben    |Bomb   |Sub    |Village|
-|Ben    |Bomb   |Sub    |Spact  |
-|Ben    |Bomb   |Sub    |Druid  |
-|Ben    |Bomb   |Sub    |Alch   |
-|Ben    |Bomb   |Sub    |Ninja  |
-|Ben    |Bomb   |Sub    |Wizard |
-|Ben    |Bomb   |Sub    |Mortar |
-|Ben    |Bomb   |Sub    |Ace    |
-|Ben    |Bomb   |Sub    |Bucc   |
-|Ben    |Bomb   |Sniper |Village|
-|Ben    |Bomb   |Sniper |Spact  |
-|Ben    |Bomb   |Sniper |Alch   |
-|Ben    |Bomb   |Sniper |Ninja  |
-|Ben    |Bomb   |Sniper |Wizard |
-|Ben    |Bomb   |Sniper |Mortar |
-|Ben    |Bomb   |Sniper |Heli   |
-|Ben    |Bomb   |Sniper |Ace    |
-|Ben    |Bomb   |Glue   |Village|
-|Ben    |Bomb   |Glue   |Spact  |
-|Ben    |Bomb   |Glue   |Ninja  |
-|Ben    |Bomb   |Glue   |Wizard |
-|Ben    |Bomb   |Glue   |Mortar |
-|Ben    |Bomb   |Glue   |Heli   |
-|Ben    |Bomb   |Glue   |Ace    |
-|Ben    |Bomb   |Glue   |Bucc   |
-|Ben    |Bomb   |Glue   |Sub    |
-|Ben    |Bomb   |Ice    |Village|
-|Ben    |Bomb   |Ice    |Spact  |
-|Ben    |Bomb   |Ice    |Ninja  |
-|Ben    |Bomb   |Ice    |Wizard |
-|Ben    |Bomb   |Ice    |Mortar |
-|Ben    |Bomb   |Ice    |Heli   |
-|Ben    |Bomb   |Ice    |Ace    |
-|Ben    |Bomb   |Ice    |Bucc   |
-|Ben    |Bomb   |Ice    |Sub    |
-|Ben    |Bomb   |Ice    |Sniper |
-|Ben    |Bomb   |Tack   |Village|
-|Ben    |Bomb   |Tack   |Spact  |
-|Ben    |Bomb   |Tack   |Ninja  |
-|Ben    |Bomb   |Tack   |Wizard |
-|Ben    |Bomb   |Tack   |Mortar |
-|Ben    |Bomb   |Tack   |Heli   |
-|Ben    |Bomb   |Tack   |Ace    |
-|Ben    |Bomb   |Tack   |Bucc   |
-|Ben    |Bomb   |Tack   |Sub    |
-|Ben    |Bomb   |Tack   |Sniper |
-|Ben    |Boomer |Spact  |Village|
-|Ben    |Boomer |Druid  |Village|
-|Ben    |Boomer |Druid  |Spact  |
-|Ben    |Boomer |Alch   |Village|
-|Ben    |Boomer |Alch   |Spact  |
-|Ben    |Boomer |Ninja  |Village|
-|Ben    |Boomer |Ninja  |Spact  |
-|Ben    |Boomer |Ninja  |Druid  |
-|Ben    |Boomer |Super  |Village|
-|Ben    |Boomer |Super  |Spact  |
-|Ben    |Boomer |Super  |Ninja  |
-|Ben    |Boomer |Wizard |Village|
-|Ben    |Boomer |Wizard |Druid  |
-|Ben    |Boomer |Wizard |Super  |
-|Ben    |Boomer |Mortar |Village|
-|Ben    |Boomer |Mortar |Spact  |
-|Ben    |Boomer |Mortar |Druid  |
-|Ben    |Boomer |Mortar |Alch   |
-|Ben    |Boomer |Mortar |Ninja  |
-|Ben    |Boomer |Mortar |Super  |
-|Ben    |Boomer |Heli   |Village|
-|Ben    |Boomer |Heli   |Spact  |
-|Ben    |Boomer |Heli   |Druid  |
-|Ben    |Boomer |Heli   |Ninja  |
-|Ben    |Boomer |Heli   |Super  |
-|Ben    |Boomer |Heli   |Mortar |
-|Ben    |Boomer |Ace    |Village|
-|Ben    |Boomer |Ace    |Spact  |
-|Ben    |Boomer |Ace    |Druid  |
-|Ben    |Boomer |Ace    |Alch   |
-|Ben    |Boomer |Ace    |Ninja  |
-|Ben    |Boomer |Ace    |Super  |
-|Ben    |Boomer |Ace    |Mortar |
-|Ben    |Boomer |Ace    |Heli   |
-|Ben    |Boomer |Bucc   |Village|
-|Ben    |Boomer |Bucc   |Spact  |
-|Ben    |Boomer |Bucc   |Druid  |
-|Ben    |Boomer |Bucc   |Alch   |
-|Ben    |Boomer |Bucc   |Ninja  |
-|Ben    |Boomer |Bucc   |Super  |
-|Ben    |Boomer |Bucc   |Mortar |
-|Ben    |Boomer |Bucc   |Heli   |
-|Ben    |Boomer |Bucc   |Ace    |
-|Ben    |Boomer |Sub    |Village|
-|Ben    |Boomer |Sub    |Druid  |
-|Ben    |Boomer |Sub    |Alch   |
-|Ben    |Boomer |Sub    |Ninja  |
-|Ben    |Boomer |Sub    |Wizard |
-|Ben    |Boomer |Sub    |Mortar |
-|Ben    |Boomer |Sub    |Ace    |
-|Ben    |Boomer |Sub    |Bucc   |
-|Ben    |Boomer |Sniper |Village|
-|Ben    |Boomer |Sniper |Spact  |
-|Ben    |Boomer |Sniper |Druid  |
-|Ben    |Boomer |Sniper |Alch   |
-|Ben    |Boomer |Sniper |Ninja  |
-|Ben    |Boomer |Sniper |Super  |
-|Ben    |Boomer |Sniper |Wizard |
-|Ben    |Boomer |Sniper |Mortar |
-|Ben    |Boomer |Sniper |Heli   |
-|Ben    |Boomer |Sniper |Ace    |
-|Ben    |Boomer |Sniper |Bucc   |
-|Ben    |Boomer |Glue   |Village|
-|Ben    |Boomer |Glue   |Spact  |
-|Ben    |Boomer |Glue   |Ninja  |
-|Ben    |Boomer |Glue   |Wizard |
-|Ben    |Boomer |Glue   |Mortar |
-|Ben    |Boomer |Glue   |Heli   |
-|Ben    |Boomer |Glue   |Ace    |
-|Ben    |Boomer |Glue   |Bucc   |
-|Ben    |Boomer |Glue   |Sub    |
-|Ben    |Boomer |Glue   |Sniper |
-|Ben    |Boomer |Ice    |Village|
-|Ben    |Boomer |Ice    |Spact  |
-|Ben    |Boomer |Ice    |Ninja  |
-|Ben    |Boomer |Ice    |Wizard |
-|Ben    |Boomer |Ice    |Mortar |
-|Ben    |Boomer |Ice    |Heli   |
-|Ben    |Boomer |Ice    |Ace    |
-|Ben    |Boomer |Ice    |Bucc   |
-|Ben    |Boomer |Ice    |Sub    |
-|Ben    |Boomer |Ice    |Sniper |
-|Ben    |Boomer |Tack   |Village|
-|Ben    |Boomer |Tack   |Spact  |
-|Ben    |Boomer |Tack   |Ninja  |
-|Ben    |Boomer |Tack   |Wizard |
-|Ben    |Boomer |Tack   |Mortar |
-|Ben    |Boomer |Tack   |Heli   |
-|Ben    |Boomer |Tack   |Ace    |
-|Ben    |Boomer |Tack   |Bucc   |
-|Ben    |Boomer |Tack   |Sub    |
-|Ben    |Boomer |Tack   |Sniper |
-|Ben    |Boomer |Bomb   |Village|
-|Ben    |Boomer |Bomb   |Spact  |
-|Ben    |Boomer |Bomb   |Ninja  |
-|Ben    |Boomer |Bomb   |Wizard |
-|Ben    |Boomer |Bomb   |Mortar |
-|Ben    |Boomer |Bomb   |Heli   |
-|Ben    |Boomer |Bomb   |Ace    |
-|Ben    |Boomer |Bomb   |Bucc   |
-|Ben    |Boomer |Bomb   |Sub    |
-|Ben    |Boomer |Bomb   |Sniper |
-|Ben    |Dart   |Spact  |Village|
-|Ben    |Dart   |Druid  |Village|
-|Ben    |Dart   |Druid  |Spact  |
-|Ben    |Dart   |Alch   |Village|
-|Ben    |Dart   |Alch   |Spact  |
-|Ben    |Dart   |Alch   |Druid  |
-|Ben    |Dart   |Ninja  |Village|
-|Ben    |Dart   |Ninja  |Spact  |
-|Ben    |Dart   |Ninja  |Druid  |
-|Ben    |Dart   |Super  |Village|
-|Ben    |Dart   |Super  |Spact  |
-|Ben    |Dart   |Super  |Druid  |
-|Ben    |Dart   |Super  |Alch   |
-|Ben    |Dart   |Super  |Ninja  |
-|Ben    |Dart   |Mortar |Village|
-|Ben    |Dart   |Mortar |Spact  |
-|Ben    |Dart   |Mortar |Druid  |
-|Ben    |Dart   |Mortar |Alch   |
-|Ben    |Dart   |Mortar |Ninja  |
-|Ben    |Dart   |Mortar |Super  |
-|Ben    |Dart   |Heli   |Village|
-|Ben    |Dart   |Heli   |Spact  |
-|Ben    |Dart   |Heli   |Druid  |
-|Ben    |Dart   |Heli   |Ninja  |
-|Ben    |Dart   |Heli   |Super  |
-|Ben    |Dart   |Heli   |Mortar |
-|Ben    |Dart   |Ace    |Village|
-|Ben    |Dart   |Ace    |Spact  |
-|Ben    |Dart   |Ace    |Druid  |
-|Ben    |Dart   |Ace    |Alch   |
-|Ben    |Dart   |Ace    |Ninja  |
-|Ben    |Dart   |Ace    |Super  |
-|Ben    |Dart   |Ace    |Mortar |
-|Ben    |Dart   |Ace    |Heli   |
-|Ben    |Dart   |Bucc   |Village|
-|Ben    |Dart   |Bucc   |Spact  |
-|Ben    |Dart   |Bucc   |Druid  |
-|Ben    |Dart   |Bucc   |Alch   |
-|Ben    |Dart   |Bucc   |Ninja  |
-|Ben    |Dart   |Bucc   |Super  |
-|Ben    |Dart   |Bucc   |Mortar |
-|Ben    |Dart   |Bucc   |Heli   |
-|Ben    |Dart   |Bucc   |Ace    |
-|Ben    |Dart   |Sub    |Village|
-|Ben    |Dart   |Sub    |Druid  |
-|Ben    |Dart   |Sub    |Alch   |
-|Ben    |Dart   |Sub    |Ninja  |
-|Ben    |Dart   |Sub    |Mortar |
-|Ben    |Dart   |Sub    |Ace    |
-|Ben    |Dart   |Sub    |Bucc   |
-|Ben    |Dart   |Sniper |Village|
-|Ben    |Dart   |Sniper |Spact  |
-|Ben    |Dart   |Sniper |Druid  |
-|Ben    |Dart   |Sniper |Alch   |
-|Ben    |Dart   |Sniper |Ninja  |
-|Ben    |Dart   |Sniper |Super  |
-|Ben    |Dart   |Sniper |Mortar |
-|Ben    |Dart   |Sniper |Heli   |
-|Ben    |Dart   |Sniper |Ace    |
-|Ben    |Dart   |Sniper |Bucc   |
-|Ben    |Dart   |Glue   |Village|
-|Ben    |Dart   |Glue   |Spact  |
-|Ben    |Dart   |Glue   |Druid  |
-|Ben    |Dart   |Glue   |Alch   |
-|Ben    |Dart   |Glue   |Ninja  |
-|Ben    |Dart   |Glue   |Super  |
-|Ben    |Dart   |Glue   |Mortar |
-|Ben    |Dart   |Glue   |Heli   |
-|Ben    |Dart   |Glue   |Ace    |
-|Ben    |Dart   |Glue   |Bucc   |
-|Ben    |Dart   |Glue   |Sub    |
-|Ben    |Dart   |Glue   |Sniper |
-|Ben    |Dart   |Ice    |Village|
-|Ben    |Dart   |Ice    |Spact  |
-|Ben    |Dart   |Ice    |Druid  |
-|Ben    |Dart   |Ice    |Alch   |
-|Ben    |Dart   |Ice    |Ninja  |
-|Ben    |Dart   |Ice    |Super  |
-|Ben    |Dart   |Ice    |Mortar |
-|Ben    |Dart   |Ice    |Heli   |
-|Ben    |Dart   |Ice    |Ace    |
-|Ben    |Dart   |Ice    |Bucc   |
-|Ben    |Dart   |Ice    |Sub    |
-|Ben    |Dart   |Ice    |Sniper |
-|Ben    |Dart   |Ice    |Glue   |
-|Ben    |Dart   |Tack   |Village|
-|Ben    |Dart   |Tack   |Spact  |
-|Ben    |Dart   |Tack   |Druid  |
-|Ben    |Dart   |Tack   |Alch   |
-|Ben    |Dart   |Tack   |Ninja  |
-|Ben    |Dart   |Tack   |Super  |
-|Ben    |Dart   |Tack   |Mortar |
-|Ben    |Dart   |Tack   |Heli   |
-|Ben    |Dart   |Tack   |Ace    |
-|Ben    |Dart   |Tack   |Bucc   |
-|Ben    |Dart   |Tack   |Sub    |
-|Ben    |Dart   |Tack   |Sniper |
-|Ben    |Dart   |Tack   |Glue   |
-|Ben    |Dart   |Tack   |Ice    |
-|Ben    |Dart   |Bomb   |Village|
-|Ben    |Dart   |Bomb   |Spact  |
-|Ben    |Dart   |Bomb   |Druid  |
-|Ben    |Dart   |Bomb   |Alch   |
-|Ben    |Dart   |Bomb   |Ninja  |
-|Ben    |Dart   |Bomb   |Mortar |
-|Ben    |Dart   |Bomb   |Heli   |
-|Ben    |Dart   |Bomb   |Ace    |
-|Ben    |Dart   |Bomb   |Bucc   |
-|Ben    |Dart   |Bomb   |Sub    |
-|Ben    |Dart   |Bomb   |Sniper |
-|Ben    |Dart   |Bomb   |Glue   |
-|Ben    |Dart   |Bomb   |Ice    |
-|Ben    |Dart   |Bomb   |Tack   |
-|Ben    |Dart   |Boomer |Village|
-|Ben    |Dart   |Boomer |Spact  |
-|Ben    |Dart   |Boomer |Druid  |
-|Ben    |Dart   |Boomer |Alch   |
-|Ben    |Dart   |Boomer |Ninja  |
-|Ben    |Dart   |Boomer |Super  |
-|Ben    |Dart   |Boomer |Mortar |
-|Ben    |Dart   |Boomer |Heli   |
-|Ben    |Dart   |Boomer |Ace    |
-|Ben    |Dart   |Boomer |Bucc   |
-|Ben    |Dart   |Boomer |Sub    |
-|Ben    |Dart   |Boomer |Sniper |
-|Ben    |Dart   |Boomer |Glue   |
-|Ben    |Dart   |Boomer |Ice    |
-|Ben    |Dart   |Boomer |Tack   |
-|Ben    |Dart   |Boomer |Bomb   |

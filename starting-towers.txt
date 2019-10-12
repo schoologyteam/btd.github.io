@@ -8,5 +8,6 @@ Wizard
 Ninja
 Alch
 Druid
+Engi
 Quincy
 Ezili

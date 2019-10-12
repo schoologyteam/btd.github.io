@@ -1,70 +1,74 @@
-The Mochinator: 329
-Char: 257
-RandyZ524: 225
-the_op_boss: 178
-coolio1223: 172
-Agent51: 167
-frds: 138
-Great Mage: 130
-rigged: 127
-315Lukas: 87
-Topaz: 85
-meta: 74
-Chocbox: 73
-Urinetosh: 70
+The Mochinator: 451
+Char: 305
+frds: 302
+Agent51: 271
+the_op_boss: 233
+Great Mage: 194
+rigged: 177
+Topaz: 139
+coolio1223: 135
+kernnpop: 133
+315Lukas: 125
+meta: 113
+Emtee: 103
+Chocbox: 102
+Urinetosh: 95
+PEZmaster2: 73
 Smurfblade: 64
-PEZmaster2: 56
-Emtee: 54
-kernnpop: 51
-Gavo38322: 50
-UnLapiz: 43
-123CrimsonRain: 37
-TobiBloon439: 36
-RainbowDox: 30
+Gavo38322: 60
+UnLapiz: 57
+Shwax: 54
+123CrimsonRain: 47
+TobiBloon439: 46
+RainbowDox: 45
+Natethesnake: 41
+Jollto13: 34
+The Line: 31
+TheKNEE13: 30
+ILiekFishes: 28
+Mr-Samson: 27
 InnateWarrior: 27
-rmlgaming: 24
-Jollto13: 24
-TheKNEE13: 24
-Natethesnake: 24
-Mr-Samson: 19
-Lookatmeimamod: 18
-KaptainKrunche: 18
-FenixKillah: 16
-laxx: 15
-urhere: 14
-Uniquepotatoes: 13
-411i0tt: 13
-MaiaGD: 13
-samhulk99: 12
-powergo: 11
-The Line: 11
+KaptainKrunche: 24
+Lookatmeimamod: 22
+laxx: 20
+urhere: 18
+FenixKillah: 18
+411i0tt: 16
+Boat Heli Super: 15
+RandyZ524: 15
+samhulk99: 15
+MaiaGD: 15
+Mlop098: 14
+powergo: 14
+AIGP2304: 14
+rmlgaming: 13
+PercyJackson: 12
+380-mortis: 12
+Kevaca: 12
+killerkama: 12
+Valter: 10
 DespacitoMage: 10
-380-mortis: 10
+LightChaosman: 10
 Imbigtedde: 10
-Mlop098: 9
+rouge_bare: 9
+S2067: 9
 killcrazy99: 8
-Valter: 8
-Kevaca: 8
-killerkama: 8
-LightChaosman: 7
+Kholdstare: 8
+LoveBrothers: 8
 dadragon99: 7
+ImTheException: 7
 Kyle Robinson: 6
-Kholdstare: 5
+Overeasybacon: 5
 Amanensia: 4
-Overeasybacon: 4
-rouge_bare: 4
-LoveBrothers: 4
 Jordan Hintz: 4
 @NoArmsTigerMan: 4
 Michael Volz: 3
 AKNIGHT49: 3
 Dance: 3
 Rakution: 3
-ImTheException: 3
 DespacitoMage : 2
 AUAG: 2
 Doesj: 2
-ILiekFishes: 2
 GabiPera: 2
 Rangaz: 2
 Sir Spanky: 2
@@ -79,6 +83,7 @@ Charipi: 1
 Drens_: 1
 Maxwell_555: 1
 Mewlv100: 1
+heavyknight: 1
 Anonymous: 1
 AngelBlades1: 1
 ForbiddenGroot: 1
@@ -93,18 +98,19 @@ Mestrophis: 1
 WillOwispss: 1
 Friartruck: 1
 BloonBuster974: 1
-GamerGirl73: 1
-AIGP2304: 1
 Gayanjebko: 1
 milesman34: 1
+Natethesnake : 1
 water221: 1
 Tyrell: 1
 GamesCore: 1
 Minecraft: 1
-PEZMASTER2: 1
+GZPMUOL: 1
 Laggy Internet: 1
 GeorgeGraphy: 1
 MrDeagle: 1
 JEB222: 1
 HikingPotato: 1
 Millionsofmario: 1
+210577: 1
+Folup666: 1
